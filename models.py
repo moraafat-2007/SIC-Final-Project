@@ -22,6 +22,13 @@ class Ticket:
         return f"Ticket {self.ticket_id} | Client: {self.name_of_client} | Priority: {self.priority} | Status: {self.status}"
 
 
+class User:
+    def __init__(self, ID, name, role):
+        self.ID = ID
+        self.name = name
+        self.role = role
+
+
 class Technician:
     def __init__(self, technician_id, name, specialization):
         self.technician_id = technician_id
