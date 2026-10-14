@@ -37,3 +37,4 @@ def load_tickets():
 
     for ticket in tickets_dict:
         tickets_obj.append(build_ticket_from_dict(ticket))
+    return tickets_obj  #New: added the return value
