@@ -6,7 +6,13 @@
 # 2. قراءة ملف البيانات الوهمي (CSV) الخاص بطلبات الصيانة السابقة.
 # 3. تنظيف البيانات (التعامل مع القيم المفقودة) وتجميعها (Group by).
 # 4. كتابة دوال تُرجع تقارير جاهزة (مثلاً: أكثر الأعطال شيوعاً، أداء الفنيين).
-"""
+"""Data cleaning and analysis for the Maintenance Requests project (Person 4).
+
+Input files (created by generate_data.py, stored in the data/ folder next to this file):
+    data/maintenance_requests.csv
+    data/technicians.csv
+    data/spare_parts_usage.csv
+
 How the Streamlit app (Person 5) should use this module:
 
     from analytics import (load_and_clean_data, get_full_data, filter_tickets,
@@ -32,7 +38,7 @@ import pandas as pd
 
 # Paths are relative to THIS file, so they work no matter where `streamlit run` is started.
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+DATA_DIR = BASE_DIR 
 REQUESTS_FILE = DATA_DIR / "maintenance_requests.csv"
 TECHNICIANS_FILE = DATA_DIR / "technicians.csv"
 SPARE_PARTS_FILE = DATA_DIR / "spare_parts_usage.csv"
@@ -521,32 +527,32 @@ def get_spare_parts_summary(parts_df=None, tickets_df=None, top_n=None):
 # Quick demo:  python analytics.py
 # =====================================================================
 
-# if __name__ == "__main__":
-#     tickets_df, cleaning_report = load_and_clean_data(return_report=True)
+if __name__ == "__main__":
+    tickets_df, cleaning_report = load_and_clean_data(return_report=True)
 
-#     print("Cleaning report:")
-#     for key, value in cleaning_report.items():
-#         print(f"  {key}: {value}")
+    print("Cleaning report:")
+    for key, value in cleaning_report.items():
+        print(f"  {key}: {value}")
 
-#     print("\nSummary metrics:")
-#     for metric, value in get_summary_metrics(tickets_df).items():
-#         print(f"  {metric}: {value}")
+    print("\nSummary metrics:")
+    for metric, value in get_summary_metrics(tickets_df).items():
+        print(f"  {metric}: {value}")
 
-#     print("\nRequests by device:")
-#     print(get_device_failure_counts(tickets_df))
+    print("\nRequests by device:")
+    print(get_device_failure_counts(tickets_df))
 
-#     print("\nAverage repair time by priority:")
-#     print(get_average_repair_time(tickets_df, by="priority"))
+    print("\nAverage repair time by priority:")
+    print(get_average_repair_time(tickets_df, by="priority"))
 
-#     print("\nTickets per month:")
-#     print(get_tickets_over_time(tickets_df, "M"))
+    print("\nTickets per month:")
+    print(get_tickets_over_time(tickets_df, "M"))
 
-#     print("\nTechnician performance:")
-#     print(get_technician_performance(tickets_df).to_string())
+    print("\nTechnician performance:")
+    print(get_technician_performance(tickets_df).to_string())
 
-#     print("\nTop spare parts:")
-#     print(get_spare_parts_summary(tickets_df=tickets_df, top_n=5))
+    print("\nTop spare parts:")
+    print(get_spare_parts_summary(tickets_df=tickets_df, top_n=5))
 
-#     first, last = get_date_bounds(tickets_df)
-#     view = filter_tickets(tickets_df, start_date=last.replace(day=1), device_types=["Laptop"])
-#     print(f"\nFilter example (Laptop tickets since {last.replace(day=1)}): {len(view)} tickets")ابدأ كتابة الكود هنا
+    first, last = get_date_bounds(tickets_df)
+    view = filter_tickets(tickets_df, start_date=last.replace(day=1), device_types=["Laptop"])
+    print(f"\nFilter example (Laptop tickets since {last.replace(day=1)}): {len(view)} tickets")
