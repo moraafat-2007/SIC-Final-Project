@@ -62,19 +62,24 @@ def load_tickets_from_database():
 
     return tickets
 
-
+##Modify it to meet the Ticket Class Changes
 def build_ticket_from_dict(dict_ticket):
     my_ticket = Ticket(
-        dict_ticket["ticket_id"],
-        dict_ticket["category"],
-        dict_ticket["client_id"],
-        dict_ticket["phone_number"],
-        dict_ticket["description"],
-        dict_ticket["priority"]
+        ticket_id=dict_ticket["ticket_id"],
+        device_type=dict_ticket["device_type"],
+        issue_type=dict_ticket["issue_type"],
+        client_id=dict_ticket["client_id"],
+        phone_number=dict_ticket["phone_number"],
+        description=dict_ticket["description"],
+        priority=dict_ticket["priority"]
     )
+
     my_ticket.status = dict_ticket["status"]
     my_ticket.technician_id = dict_ticket["technician_id"]
     my_ticket.creation_time = dict_ticket["creation_time"]
+    my_ticket.resolve_time = dict_ticket.get("resolve_time")
+    my_ticket.repair_cost = dict_ticket.get("repair_cost")
+    my_ticket.parts_used_num = dict_ticket.get("parts_used_num", 0)
 
     return my_ticket
 
