@@ -1,0 +1,1013 @@
+ticket_id,device_type,issue_type,client_id,phone_number,description,priority,status,technician_id,creation_time,resolve_time,repair_cost,parts_used_num
+H-0001,Printer,Print Quality,C115,01110600249,Colors are wrong in printed documents,Low,Completed,T003,2025-10-01 11:15:45,2025-10-01 18:06:37,1005.0,1
+H-0002,Laptop,Battery,C162,01505251131,Laptop shuts down when unplugged,Low,Completed,T001,2025-10-01 12:49:58,2025-10-02 12:31:52,640.0,1
+H-0003,Laptop,Overheating,C082,01081986757,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2025-10-01 20:19:27,2025-10-05 17:33:44,385.0,1
+H-0003,Laptop,Overheating,C082,01081986757,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2025-10-01 20:19:27,2025-10-05 17:33:44,385.0,1
+H-0004,Laptop,Software,C198,01035711559,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2025-10-02 11:12:40,2025-10-03 17:51:36,80.0,0
+H-0005,Printer,Ink System,C059,01053142817,Printer says the ink cartridge is not recognized,High,Completed,T003,2025-10-02 12:44:52,2025-10-03 04:22:03,1895.0,3
+H-0006,Printer,Paper Jam,C197,01126752898,Paper keeps jamming inside the printer,Low,Completed,T004,2025-10-03 16:16:29,2025-10-04 06:22:07,85.0,0
+H-0007,Printer,Ink System,C206,01179745920,Printer says the ink cartridge is not recognized,Low,Completed,T003,2025-10-04 13:45:04,2025-10-05 09:47:07,90.0,0
+H-0008,Phone,Screen,C089,01188171942,Cracked phone screen,Normal,Completed,T005,2025-10-05 09:09:32,2025-10-06 16:17:20,1050.0,1
+H-0009,Phone,Screen,C117,01039596730,Cracked phone screen,Normal,Completed,T005,2025-10-05 10:23:09,2025-10-06 14:49:47,1050.0,2
+H-0010,Laptop,Software,C036,01266046114,Windows will not boot,High,Completed,T002,2025-10-05 18:37:51,2025-10-06 05:18:35,150.0,0
+H-0011,Laptop,Battery,C230,01172127014,Laptop shuts down when unplugged,Low,Completed,T001,2025-10-06 09:01:05,2025-10-07 15:48:53,795.0,1
+H-0012,Laptop,Screen,C143,01552188715,Screen flickers and shows vertical lines,High,Completed,T001,2025-10-06 09:45:46,2025-10-06 20:51:06,1435.0,1
+H-0013,Printer,Connectivity,C095,01187574601,Computer cannot find the printer by USB,High,Completed,T004,2025-10-06 18:30:32,2025-10-07 02:46:00,150.0,0
+H-0014,Phone,Battery,C199,01094505384,Phone turns off at 30 percent,High,Completed,T006,2025-10-07 08:17:31,2025-10-07 21:13:13,145.0,1
+H-0015,Printer,Ink System,C163,01058124702,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2025-10-07 10:42:34,2025-10-08 00:57:42,1420.0,2
+H-0016,Laptop,Screen,C223,01264851372,Screen flickers and shows vertical lines,Normal,Completed,T001,2025-10-08 13:14:38,2025-10-11 03:32:48,1475.0,1
+H-0017,Phone,Screen,C068,01006950641,Touch does not respond in some areas,Low,Completed,T005,2025-10-08 17:41:22,2025-10-10 12:59:30,985.0,1
+H-0018,Phone,Screen,C183,01132357343,Cracked phone screen,High,Completed,T006,2025-10-09 09:25:32,2025-10-10 08:44:28,1155.0,2
+H-0019,Laptop,Overheating,C199,01094505384,Laptop shuts down by itself after heavy use,Low,Completed,T001,2025-10-09 11:45:54,2025-10-11 02:57:57,520.0,2
+H-0020,Phone,Screen,C053,01282864784,Cracked phone screen,High,Completed,T006,2025-10-09 15:30:52,2025-10-09 23:04:15,1075.0,1
+H-0021,Laptop,Screen,C021,01002995469,Cracked laptop screen,Normal,Completed,T001,2025-10-11 14:30:31,2025-10-17 06:33:04,1450.0,1
+H-0022,Phone,Battery,C090,01532196485,Phone battery drains very fast,Normal,Completed,T005,2025-10-11 19:23:32,2025-10-12 10:29:59,465.0,1
+H-0023,Laptop,Overheating,C101,01595902638,Laptop shuts down by itself after heavy use,High,Completed,T001,2025-10-12 10:17:50,2025-10-13 04:12:05,560.0,2
+H-0024,Laptop,Overheating,C014,01288123321,Laptop shuts down by itself after heavy use,High,Completed,T001,2025-10-12 12:58:05,2025-10-12 23:40:32,440.0,1
+H-0025,Printer,Paper Jam,C058,01065209883,Paper keeps jamming inside the printer,Low,Completed,T004,2025-10-12 13:26:18,2025-10-13 07:38:51,360.0,1
+H-0026,Printer,Ink System,C173,01206323966,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2025-10-12 13:57:28,2025-10-13 04:26:09,1005.0,1
+H-0027,Printer,Paper Jam,C059,01053142817,Paper keeps jamming inside the printer,Normal,Completed,T004,2025-10-12 20:30:31,2025-10-15 21:22:02,60.0,0
+H-0028,Laptop,Overheating,C072,01529006642,Laptop shuts down by itself after heavy use,Low,Completed,T002,2025-10-14 08:44:02,2025-10-16 23:44:15,390.0,1
+H-0029,Phone,Battery,C156,01096748111,Phone turns off at 30 percent,High,Completed,T006,2025-10-14 10:29:18,2025-10-15 16:26:31,500.0,1
+H-0030,Printer,Connectivity,C181,01571989096,Computer cannot find the printer by USB,High,Completed,T003,2025-10-14 18:15:58,2025-10-14 21:49:04,105.0,0
+H-0031,Laptop,Software,C069,01226354966,Windows will not boot,Normal,Completed,T001,2025-10-14 19:23:24,2025-10-15 01:06:22,95.0,0
+H-0032,Laptop,Screen,C232,01022169714,Cracked laptop screen,Normal,Completed,T002,2025-10-14 20:23:14,2025-10-17 05:38:50,1415.0,1
+H-0033,Printer,Paper Jam,C156,01096748111,Paper keeps jamming inside the printer,Low,Completed,T003,2025-10-15 09:00:19,2025-10-15 14:32:00,40.0,0
+H-0034,Printer,,C138,01062907515,Colors are wrong in printed documents,Low,Completed,T004,2025-10-17 13:59:58,2025-10-18 20:13:19,1280.0,2
+H-0035,Phone,Battery,C138,01062abc515,Phone turns off at 30 percent,High,Completed,T006,2025-10-17 16:28:32,2025-10-18 18:48:35,575.0,2
+H-0036,Laptop,Software,C292,01218088572,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2025-10-17 17:56:41,2025-10-17 22:29:45,165.0,0
+H-0037,Laptop,Software,C181,01571989096,Windows will not boot,High,Completed,T001,2025-10-18 10:12:50,2025-10-20 03:08:03,145.0,0
+H-0038,Laptop,Software,C187,01201412657,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2025-10-18 16:16:31,2025-10-18 21:00:23,145.0,0
+H-0039,Laptop,Battery,C089,01188171942,Laptop shuts down when unplugged,Normal,Completed,T001,2025-10-19 09:53:09,2025-10-20 10:59:43,180.0,0
+H-0040,Phone,Charging Port,C206,01179745920,Charging port is loose,High,Completed,T005,2025-10-19 11:35:31,2025-10-20 08:28:25,225.0,1
+H-0041,Printer,Print Quality,C187,01201412657,Colors are wrong in printed documents,Low,Completed,T003,2025-10-20 09:28:19,2025-10-21 10:26:29,560.0,1
+H-0042,Laptop,Battery,C194,01218035372,Laptop battery drains within an hour,Normal,Completed,T001,2025-10-20 12:26:05,2025-10-21 20:38:43,1355.0,2
+H-0043,Phone,Charging Port,C128,01033588693,Phone does not charge unless the cable is held,Low,Completed,T005,2025-10-20 12:28:42,2025-10-22 02:10:28,220.0,1
+H-0044,Laptop,Battery,C265,01084683377,Laptop battery drains within an hour,High,Completed,T002,2025-10-20 13:47:06,2025-10-20 22:08:09,275.0,0
+H-0045,Printer,Paper Jam,C030,01030491134,Paper keeps jamming inside the printer,Normal,Completed,T003,2025-10-20 18:51:15,2025-10-21 01:12:32,65.0,0
+H-0046,Printer,Ink System,C115,01110600249,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2025-10-21 11:42:33,2025-10-22 00:57:38,95.0,0
+H-0047,Printer,Paper Jam,C089,01188171942,Paper keeps jamming inside the printer,Low,Completed,T004,2025-10-21 17:20:09,2025-10-22 12:24:47,75.0,0
+H-0048,Laptop,Keyboard,C075,01249769712,Several keys are not responding,Normal,Completed,T002,2025-10-21 18:37:05,2025-10-23 14:32:30,480.0,1
+H-0049,Phone,Battery,C050,01024897886,Phone turns off at 30 percent,Low,Completed,T006,2025-10-22 11:05:11,2025-10-24 13:21:01,485.0,1
+H-0050,Laptop,Software,C240,01025399975,Laptop is very slow and needs a system reinstall,High,Completed,T001,2025-10-22 13:57:40,2025-10-22 20:02:47,165.0,0
+H-0051,Phone,Battery,C294,01154716627,Phone battery drains very fast,Normal,Completed,T006,2025-10-22 19:27:32,2025-10-23 14:33:49,125.0,1
+H-0052,Laptop,,C166,01200895892,Laptop gets very hot and the fan is loud,High,Completed,T002,2025-10-22 20:06:45,2025-10-25 06:48:34,545.0,2
+H-0053,Phone,Software,C003,01081029134,Phone is stuck on the boot logo,Normal,Completed,T005,2025-10-23 09:41:07,2025-10-23 14:16:45,85.0,0
+H-0054,Phone,Software,C111,01098907793,Apps keep crashing after an update,Normal,Completed,T005,2025-10-23 12:42:17,2025-10-23 18:29:28,,0
+H-0055,Laptop,Battery,C172,01246675292,Laptop battery drains within an hour,Low,Completed,T001,2025-10-23 16:55:32,2025-10-25 17:06:22,810.0,1
+H-0056,Printer,Paper Jam,C191,01071823965,Printer pulls several sheets at once,Normal,Completed,T004,2025-10-23 19:32:36,2025-10-23 23:19:41,395.0,1
+H-0057,Phone,Battery,C208,01040835542,Phone turns off at 30 percent,Normal,Completed,T005,2025-10-24 12:27:14,2025-10-25 13:32:28,125.0,0
+H-0058,Phone,Screen,C237,01542432278,Touch does not respond in some areas,High,Completed,T006,2025-10-24 16:55:52,2025-10-25 03:57:02,,2
+H-0059,Printer,Print Quality,C169,01007183486,Printed pages have lines and faded text,High,Completed,T003,2025-10-25 13:55:14,2025-10-26 07:20:52,1745.0,3
+H-0060,Phone,Screen,C073,01264910159,Touch does not respond in some areas,High,Completed,T006,2025-10-26 16:07:54,2025-10-27 03:03:43,160.0,1
+H-0061,Phone,Screen,C117,01039596730,Touch does not respond in some areas,High,Completed,T005,2025-10-26 16:33:25,2025-10-27 05:34:01,140.0,1
+H-0062,Laptop,Software,C156,01096748111,Windows will not boot,Normal,Completed,T002,2025-10-26 20:47:11,2025-10-27 00:25:21,135.0,0
+H-0063,Phone,Screen,C209,01016157862,Cracked phone screen,Normal,Completed,T005,2025-10-27 08:42:21,2025-10-28 14:58:29,165.0,1
+H-0064,Laptop,Battery,C278,01175068551,Laptop battery drains within an hour,Low,Completed,T001,2025-10-27 17:46:01,2025-11-02 15:52:25,815.0,1
+H-0065,Phone,Battery,C240,01025399975,Phone battery drains very fast,Low,Completed,T006,2025-10-27 18:19:08,2025-10-29 08:09:56,520.0,1
+H-0066,Phone,Charging Port,C121,01012972810,Phone does not charge unless the cable is held,High,Completed,T005,2025-10-28 18:49:39,2025-10-29 13:07:09,530.0,2
+H-0067,Laptop,Battery,C021,01002995469,Laptop shuts down when unplugged,Normal,Completed,T002,2025-10-29 18:09:31,2025-10-31 01:12:39,660.0,1
+H-0068,Laptop,Screen,C030,01030491134,Screen flickers and shows vertical lines,High,Completed,T002,2025-10-30 14:36:40,2025-10-31 16:07:40,285.0,0
+H-0069,Printer,Print Quality,C298,01182819446,Colors are wrong in printed documents,High,Completed,T004,2025-10-30 17:19:11,2025-10-31 01:53:14,1070.0,1
+H-0070,Laptop,Battery,C073,01264910159,Laptop battery drains within an hour,Normal,Completed,T001,2025-10-30 18:53:06,2025-11-01 22:53:27,1310.0,2
+H-0071,Laptop,Software,C138,01062907515,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2025-11-02 10:17:24,2025-11-03 00:43:53,130.0,0
+H-0072,Printer,Print Quality,C130,01542332649,Printed pages have lines and faded text,Low,Completed,T003,2025-11-02 16:06:19,2025-11-04 13:46:06,550.0,1
+H-0073,Laptop,Software,C073,01264910159,Windows will not boot,High,Completed,T002,2025-11-04 16:15:58,2025-11-04 19:48:16,115.0,0
+H-0074,Phone,Screen,C142,01099099063,Cracked phone screen,High,Completed,T006,2025-11-05 17:50:02,2025-11-07 01:15:16,1070.0,1
+H-0075,Laptop,Software,C169,01007183486,,Low,Completed,T002,2025-11-06 16:30:59,2025-11-12 00:32:20,170.0,0
+H-0076,Printer,Connectivity,C100,01033457730,Computer cannot find the printer by USB,Normal,Completed,T004,2025-11-08 11:10:02,2025-11-09 02:51:50,75.0,0
+H-0077,Laptop,Overheating,C030,010304911,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2025-11-08 11:22:27,2025-11-09 22:37:15,605.0,1
+H-0078,Phone,Charging Port,C090,01532196485,Phone does not charge unless the cable is held,High,Completed,T006,2025-11-08 18:44:23,2025-11-12 06:44:43,395.0,1
+H-0079,Laptop,Screen,C206,01179745920,Cracked laptop screen,Low,Completed,T002,2025-11-08 18:59:36,2025-11-12 15:53:01,1400.0,1
+H-0080,Printer,Connectivity,C162,01505251131,Computer cannot find the printer by USB,Normal,Completed,T003,2025-11-08 21:29:28,2025-11-09 09:13:50,95.0,0
+H-0081,Printer,Print Quality,C156,01096748111,Printed pages have lines and faded text,Low,Completed,T003,2025-11-09 09:58:51,2025-11-10 15:01:52,1485.0,2
+H-0082,Printer,Connectivity,C071,01034268818,Printer is not detected over Wi-Fi,Normal,Completed,T004,2025-11-09 18:08:19,2025-11-10 07:04:51,100.0,0
+H-0083,Printer,Paper Jam,C003,01081029134,Printer pulls several sheets at once,Low,Completed,T004,2025-11-10 12:36:18,2025-11-10 19:25:39,45.0,0
+H-0084,Phone,Screen,C077,01009321821,Touch does not respond in some areas,Low,Completed,T005,2025-11-10 17:37:20,2025-11-13 02:58:33,975.0,1
+H-0085, Phone,Screen,C165,01223422567,Touch does not respond in some areas,High,Completed,T006,2025-11-10 18:20:30,2025-11-11 13:06:03,270.0,1
+H-0086,Printer,Paper Jam,C265,01084683377,Paper keeps jamming inside the printer,High,Completed,T004,2025-11-11 10:45:52,2025-11-11 12:58:30,105.0,0
+H-0087,Phone,Battery,C075,01249769712,Phone turns off at 30 percent,High,Completed,T006,2025-11-11 16:48:46,2025-11-12 06:31:50,530.0,1
+H-0088,Phone,Screen,C102,01063169564,Touch does not respond in some areas,Low,Completed,T006,2025-11-11 21:12:07,2025-11-15 10:09:52,1040.0,2
+H-0089,Phone,Battery,C261,01039272541,Phone battery drains very fast,Normal,Completed,T005,2025-11-12 10:21:34,2025-11-13 10:52:56,495.0,1
+H-0090,Laptop,Screen,C240,01025399975,Screen flickers and shows vertical lines,Normal,Completed,T002,2025-11-12 11:45:44,2025-11-15 06:14:03,1405.0,1
+H-0091,Laptop,Battery,C156,01096748111,Laptop battery drains within an hour,High,Completed,T002,2025-11-12 14:58:08,2025-11-16 04:31:39,810.0,1
+H-0092,Phone,Screen,C237,01542432278,Touch does not respond in some areas,High,Completed,T005,2025-11-12 21:30:19,2025-11-14 10:00:04,1045.0,2
+H-0093,Phone,Charging Port,C174,01599044217,Charging port is loose,Normal,Completed,T005,2025-11-13 08:02:19,2025-11-14 11:44:52,605.0,2
+H-0094,Phone,Charging Port,C287,01236672417,Charging port is loose,Normal,Completed,T006,2025-11-13 12:05:43,2025-11-16 07:08:31,220.0,1
+H-0095,Phone,Software,C134,01018869327,Phone is stuck on the boot logo,High,Completed,T005,2025-11-14 14:55:55,2025-11-14 18:09:51,115.0,0
+H-0096,Laptop,,C101,01595902638,Laptop battery drains within an hour,High,Completed,T002,2025-11-15 09:20:10,2025-11-16 03:56:06,600.0,1
+H-0097,Phone,Screen,C208,01040835542,Touch does not respond in some areas,Low,Completed,T006,2025-11-15 15:18:17,2025-11-18 12:26:20,985.0,1
+H-0098,Phone,Software,C237,01542432278,Phone is stuck on the boot logo,Low,Completed,T005,2025-11-15 15:59:44,2025-11-15 20:58:31,110.0,0
+H-0099,Printer,Paper Jam,C264,01182103327,Printer pulls several sheets at once,Low,Completed,T004,2025-11-16 13:09:42,2025-11-16 20:15:56,85.0,0
+H-0100,Laptop,,C240,01025399975,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2025-11-16 14:17:12,2025-11-16 21:52:52,170.0,0
+H-0101,Laptop,Battery,C089,01188171942,Laptop battery drains within an hour,Low,Completed,T001,2025-11-16 16:32:40,2025-11-17 06:19:08,160.0,0
+H-0102,Laptop,Software,C198,01035711559,Windows will not boot,Normal,Completed,T002,2025-11-16 16:52:54,2025-11-17 06:55:51,175.0,0
+H-0103,Laptop,Keyboard,C253,01035506007,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2025-11-17 09:00:16,2025-11-19 02:42:54,455.0,1
+H-0104,Printer,Paper Jam,C274,01269537097,Printer pulls several sheets at once,Normal,Completed,T003,2025-11-17 09:24:22,2025-11-17 15:56:28,85.0,0
+H-0105,Laptop,Overheating,C141,03014498253,Laptop gets very hot and the fan is loud,High,Completed,T002,2025-11-17 18:05:17,2025-11-18 11:40:39,580.0,2
+H-0106,Laptop,Keyboard,C038,01043050230,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2025-11-17 18:15:33,2025-11-19 11:58:03,420.0,1
+H-0107,Laptop,Overheating,C205,01549530061,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2025-11-18 09:47:54,2025-11-18 22:22:01,490.0,1
+H-0108,laptop ,Software,C247,01048003099,Windows will not boot,Normal,Completed,T002,2025-11-18 10:06:28,2025-11-18 15:24:43,165.0,0
+H-0109,Laptop,Battery,C145,01219697982,Laptop shuts down when unplugged,Low,Completed,T002,2025-11-18 10:14:54,2025-11-20 10:48:52,775.0,1
+H-0110,Phone,Battery,C285,01026507728,Phone battery drains very fast,High,Completed,T005,2025-11-18 12:56:31,2025-11-19 09:33:45,550.0,2
+H-0111,Laptop,Screen,C130,01542332649,Screen flickers and shows vertical lines,Normal,Completed,T001,2025-11-18 13:45:35,2025-11-19 22:48:52,,1
+H-0112,Phone,Screen,C090,01532196485,Cracked phone screen,High,Completed,T006,2025-11-18 14:13:48,2025-11-24 08:35:49,170.0,1
+H-0113,Laptop,Keyboard,C049,01556005747,Several keys are not responding,Normal,Completed,T002,2025-11-19 11:27:37,2025-11-20 05:51:58,510.0,1
+H-0114,Laptop,Battery,C014,01288123321,Laptop shuts down when unplugged,High,Completed,T001,2025-11-19 17:45:50,2025-11-20 07:17:26,850.0,1
+H-0115,Printer,Paper Jam,C090,01532196485,Printer pulls several sheets at once,Normal,Completed,T003,2025-11-20 11:29:35,2025-11-21 18:55:54,50.0,0
+H-0116,Laptop,Keyboard,C287,01236672417,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2025-11-20 14:02:41,2025-11-21 20:41:21,425.0,1
+H-0117,Laptop,Overheating,C192,01033966246,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2025-11-20 16:35:37,2025-11-21 23:57:51,490.0,1
+H-0118,Laptop,,C105,01271491688,Laptop battery drains within an hour,Normal,Completed,T002,2025-11-21 17:57:52,2025-11-22 11:20:08,830.0,1
+H-0119,Printer,Connectivity,C248,01264764062,Printer is not detected over Wi-Fi,Low,Completed,T004,2025-11-22 15:29:34,2025-11-23 09:08:14,245.0,1
+H-0120,Phone,Battery,C219,01042495797,Phone turns off at 30 percent,Low,Completed,T006,2025-11-22 18:47:56,2025-11-24 21:21:44,85.0,0
+H-0121,Phone,Software,C035,01538711667,Apps keep crashing after an update,Low,Completed,T006,2025-11-23 10:29:47,2025-11-24 02:27:23,110.0,0
+H-0122,Laptop,Overheating,C069,01226354966,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2025-11-23 12:47:48,2025-11-24 15:51:22,480.0,1
+H-0123,Printer,Paper Jam,C079,01207304127,Paper keeps jamming inside the printer,Normal,Completed,T003,2025-11-23 15:35:34,2025-11-23 20:03:52,425.0,1
+H-0124,Printer,Paper Jam,C237,01542432278,Printer pulls several sheets at once,Normal,Completed,T004,2025-11-23 17:48:36,2025-11-24 00:55:10,90.0,0
+H-0125,Phone,,C087,01017781446,Charging port is loose,Normal,Completed,T005,2025-11-23 17:50:29,2025-11-26 18:13:35,390.0,1
+H-0126,Phone,Charging Port,C248,01264764062,Phone does not charge unless the cable is held,High,Completed,T005,2025-11-23 19:20:29,2025-11-24 06:44:28,220.0,1
+H-0127,Laptop,Overheating,C100,01033457730,Laptop gets very hot and the fan is loud,High,Completed,T002,2025-11-24 11:13:29,2025-11-25 07:48:06,300.0,0
+H-0128,Laptop,Battery,C156,01096748111,Laptop shuts down when unplugged,High,Completed,T002,2025-11-24 15:20:39,2025-11-25 07:59:34,670.0,1
+H-0129,Laptop,Overheating,C026,01038637393,Laptop shuts down by itself after heavy use,Low,Completed,T002,2025-11-24 18:44:29,2025-11-27 07:18:49,350.0,1
+H-0130,Laptop,Keyboard,C198,01035711559,Several keys are not responding,Low,Completed,T001,2025-11-24 18:48:09,2025-11-28 14:11:29,455.0,1
+H-0131,Laptop,Software,C185,01023771437,Windows will not boot,High,Completed,T001,2025-11-24 21:37:54,2025-11-25 01:47:56,190.0,0
+H-0132,Laptop,Keyboard,C030,01030491134,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2025-11-25 10:14:16,2025-11-26 02:53:20,475.0,1
+H-0133,Printer,Print Quality,C087,01017781446,Colors are wrong in printed documents,Low,Completed,T004,2025-11-25 11:39:24,2025-11-27 10:07:13,835.0,2
+H-0134,Laptop,Battery,C162,01505251131,Laptop battery drains within an hour,Normal,Completed,T001,2025-11-25 16:41:18,2025-11-26 03:04:47,105.0,0
+H-0135,Phone,Charging Port,C116,01205845336,Charging port is loose,Normal,Completed,T006,2025-11-25 18:44:35,2025-11-26 11:24:20,425.0,1
+H-0136,Phone,Software,C187,01201412657,Phone is stuck on the boot logo,Low,Completed,T005,2025-11-26 12:41:54,2025-11-26 22:34:34,95.0,0
+H-0137,Laptop,Overheating,C134,01018869327,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2025-11-26 17:11:42,2025-11-28 16:33:32,500.0,1
+H-0138,Printer,Paper Jam,C056,01109519358,Paper keeps jamming inside the printer,Low,Completed,T003,2025-11-27 11:32:10,2025-11-28 04:49:13,95.0,0
+H-0139,Laptop,Screen,C169,01007183486,Screen flickers and shows vertical lines,Normal,Completed,T001,2025-11-27 12:29:47,2025-11-29 04:25:15,1455.0,1
+H-0140,Laptop,Screen,C138,01062907515,Cracked laptop screen,Normal,Completed,T002,2025-11-27 15:54:42,2025-11-28 19:39:34,1470.0,1
+H-0141,Laptop,Screen,C101,01595902638,Cracked laptop screen,Normal,Completed,T001,2025-11-27 15:59:49,2025-11-28 06:11:24,1390.0,1
+H-0142,Printer,Paper Jam,C027,01055156131,Paper keeps jamming inside the printer,Low,Completed,T004,2025-11-27 20:55:36,2025-11-28 05:44:21,390.0,1
+H-0143,Phone,Charging Port,C266,01053251931,Charging port is loose,Low,Completed,T006,2025-11-29 14:08:10,2025-12-01 02:17:13,250.0,1
+H-0144,Laptop,Screen,C022,01247453008,Screen flickers and shows vertical lines,Normal,Completed,T001,2025-11-29 15:39:59,2025-11-30 19:33:25,1560.0,1
+H-0145,Phone,Battery,C187,01201412657,Phone battery drains very fast,High,Completed,T005,2025-11-29 18:39:36,2025-12-03 22:48:10,535.0,1
+H-0146,Laptop,Battery,C094,01586696461,,Low,Completed,T001,2025-11-30 10:03:18,2025-12-02 04:02:17,765.0,1
+H-0147,Phone,Charging Port,C285,01026507728,Charging port is loose,Normal,Completed,T006,2025-11-30 12:05:21,2025-12-01 16:19:15,520.0,2
+H-0148,Printer,Ink System,C248,01264764062,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2025-11-30 17:16:14,2025-12-02 03:14:16,1440.0,2
+H-0149,Phone,Software,C072,01529006642,Phone is stuck on the boot logo,High,Completed,T006,2025-12-01 10:14:05,2025-12-01 17:00:44,130.0,0
+H-0150,Phone,Battery,C285,01026507728,Phone battery drains very fast,High,Completed,T006,2025-12-01 10:54:15,2025-12-02 03:15:28,160.0,1
+H-0151,Printer,Ink System,C264,01182103327,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2025-12-01 11:04:08,2025-12-01 22:57:02,520.0,1
+H-0152,Printer,Paper Jam,C081,01018565769,Printer pulls several sheets at once,Normal,Completed,T004,2025-12-01 11:27:54,2025-12-01 17:34:03,700.0,2
+H-0153,Printer,Ink System,C250,01138977373,Ink is leaking inside the printer,Normal,Completed,T004,2025-12-01 14:12:15,2025-12-02 05:29:40,550.0,1
+H-0154,Printer,Paper Jam,C059,01053142817,Paper keeps jamming inside the printer,Normal,Completed,T004,2025-12-01 19:36:27,2025-12-02 05:46:52,385.0,1
+H-0155,Laptop,Software,C053,01282864784,Windows will not boot,Low,Completed,T001,2025-12-02 13:26:13,2025-12-03 07:12:11,150.0,0
+H-0156,Laptop,Keyboard,C227,01296346141,Keyboard keys stuck after a liquid spill,High,Completed,T002,2025-12-02 14:28:21,2025-12-03 17:41:15,555.0,1
+H-0157,Phone,Battery,C059,01053142817,,High,Completed,T006,2025-12-02 16:45:08,2025-12-03 20:40:10,590.0,2
+H-0158,Laptop,Overheating,C255,01064037500,Laptop shuts down by itself after heavy use,High,Completed,T002,2025-12-02 17:07:40,2025-12-03 13:27:28,245.0,1
+H-0159,Phone,Screen,C042,01586684206,Touch does not respond in some areas,Normal,Completed,T005,2025-12-02 20:45:29,2025-12-03 14:50:24,1090.0,2
+H-0160,Printer,Paper Jam,C134,01018869327,Paper keeps jamming inside the printer,High,Completed,T004,2025-12-03 09:13:59,2025-12-03 13:46:56,410.0,1
+H-0161,Phone,Charging Port,C089,01188171942,Phone does not charge unless the cable is held,Low,Completed,T006,2025-12-03 14:20:00,2025-12-06 20:27:47,420.0,1
+H-0162,Printer,Ink System,C206,01179745920,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2025-12-03 16:05:30,2025-12-04 18:11:57,1500.0,2
+H-0163,LAPTOP,Keyboard,C296,01544859780,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2025-12-04 09:35:40,2025-12-05 04:55:30,515.0,1
+H-0164,Laptop,Screen,C215,01017236722,Screen flickers and shows vertical lines,High,Completed,T002,2025-12-04 17:53:33,2025-12-05 21:46:08,1420.0,1
+H-0165,Phone,Software,C248,01264764062,Apps keep crashing after an update,Low,Completed,T005,2025-12-05 13:09:36,2025-12-06 14:22:17,90.0,0
+H-0166,Phone,Battery,C254,01177204764,Phone battery drains very fast,High,Completed,T005,2025-12-06 10:50:09,2025-12-06 22:54:20,550.0,1
+H-0167,Phone,Screen,C054,01209906180,Cracked phone screen,High,Completed,T006,2025-12-06 13:02:21,2025-12-07 15:07:09,155.0,0
+H-0168,Laptop,Screen,C068,01006950641,Screen flickers and shows vertical lines,Normal,Completed,T002,2025-12-07 11:44:53,2025-12-10 12:03:35,1535.0,1
+H-0169,Laptop,Software,C204,01206583344,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2025-12-07 15:11:08,2025-12-08 00:42:24,230.0,0
+H-0170,Printer,Paper Jam,C142,01099099063,Paper keeps jamming inside the printer,High,Completed,T003,2025-12-07 17:41:42,2025-12-07 20:17:54,405.0,1
+H-0171,Laptop,Keyboard,C023,01181351449,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2025-12-07 18:33:22,2025-12-12 02:28:08,430.0,1
+H-0172,Laptop,Software,C276,01267231235,Windows will not boot,Low,Completed,T001,2025-12-07 19:32:45,2025-12-08 14:17:04,110.0,0
+H-0173,Printer,Paper Jam,C172,01246675292,Paper keeps jamming inside the printer,Low,Completed,T004,2025-12-07 20:55:37,2025-12-08 12:26:26,375.0,1
+H-0174,Printer,Print Quality,C141,01014498253,Printed pages have lines and faded text,Normal,Completed,T004,2025-12-08 09:21:30,2025-12-14 13:17:07,2410.0,4
+H-0175,Laptop,Keyboard,C111,01098907793,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2025-12-08 12:32:16,2025-12-11 09:59:11,445.0,1
+H-0176,Laptop,Screen,C206,01179745920,Cracked laptop screen,High,Completed,T001,2025-12-08 20:18:44,2025-12-10 11:08:34,1485.0,1
+H-0177,Laptop,Keyboard,C237,01542432278,Several keys are not responding,Normal,Completed,T001,2025-12-09 12:23:44,2025-12-11 12:24:46,480.0,1
+H-0178,Laptop,Battery,C234,01019338535,Laptop battery drains within an hour,Normal,Completed,T001,2025-12-10 13:44:06,2025-12-15 21:45:15,1260.0,2
+H-0179,Laptop,Keyboard,C181,01571989096,Several keys are not responding,High,Completed,T002,2025-12-10 13:58:08,2025-12-11 01:56:18,455.0,1
+H-0180,Laptop,Battery,C105,01271491688,Laptop battery drains within an hour,High,Completed,T002,2025-12-10 18:20:39,2025-12-11 13:51:45,810.0,1
+H-0181, Printer,Connectivity,C073,01264910159,Computer cannot find the printer by USB,Low,Completed,T004,2025-12-10 20:08:39,2025-12-11 11:58:31,60.0,0
+H-0182,Phone,Battery,C261,01039272541,Phone turns off at 30 percent,Normal,Completed,T005,2025-12-11 11:19:54,2025-12-12 05:57:46,525.0,2
+H-0183,Laptop,Battery,C156,01096748111,Laptop battery drains within an hour,Normal,Completed,T002,2025-12-11 12:07:37,2025-12-12 08:03:09,1310.0,2
+H-0184,Printer,Paper Jam,C156,01096748111,Paper keeps jamming inside the printer,High,Completed,T004,2025-12-11 14:24:12,2025-12-11 20:12:58,380.0,1
+H-0185,Laptop,Overheating,C052,01074722636,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2025-12-11 17:43:50,2025-12-12 23:59:10,385.0,1
+H-0186,Phone,Battery,C111,01098907793,Phone battery drains very fast,Normal,Completed,T006,2025-12-11 18:20:36,2025-12-12 10:37:45,,1
+H-0187,Laptop,Software,C164,01220999476,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2025-12-11 18:59:53,2025-12-12 00:00:17,150.0,0
+H-0188,Printer,Ink System,C093,01209113144,Ink is leaking inside the printer,Low,Completed,T004,2025-12-12 18:50:48,2025-12-13 11:53:35,85.0,0
+H-0189,Printer,Connectivity,C126,01093192908,Printer is not detected over Wi-Fi,Normal,Completed,T003,2025-12-13 18:47:26,2025-12-13 23:22:39,115.0,0
+H-0190,Laptop,Battery,C169,01007183486,Laptop shuts down when unplugged,High,Completed,T002,2025-12-14 18:33:30,2025-12-15 13:50:20,1350.0,2
+H-0191,Phone,Charging Port,C166,01200895892,Charging port is loose,Normal,Completed,T005,2025-12-14 21:00:19,2025-12-16 05:47:18,260.0,1
+H-0192,Phone,Software,C108,01204649101,Phone is stuck on the boot logo,Normal,Completed,T005,2025-12-15 11:47:41,2025-12-15 13:49:07,,0
+H-0193,Printer,Print Quality,C206,01179745920,Colors are wrong in printed documents,High,Completed,T004,2025-12-15 13:53:59,2025-12-15 21:47:43,1590.0,2
+H-0194,Printer,Print Quality,C105,01271491688,Colors are wrong in printed documents,Normal,Completed,T004,2025-12-15 20:42:47,2025-12-16 14:25:32,985.0,1
+H-0195,Phone,Charging Port,C137,01214334222,Phone does not charge unless the cable is held,Normal,Completed,T005,2025-12-16 12:12:13,2025-12-17 07:29:19,525.0,2
+H-0196,Printer,Print Quality,C219,01042495797,Printed pages have lines and faded text,Normal,Completed,T003,2025-12-16 12:31:25,2025-12-17 08:43:03,2425.0,4
+H-0197,Printer,Ink System,C294,01154716627,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2025-12-16 20:17:14,2025-12-17 06:14:16,1915.0,3
+H-0198,Laptop,Software,C102,01063169564,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2025-12-17 11:29:24,2025-12-17 18:46:24,175.0,0
+H-0199,Phone,Screen,C264,01182103327,Cracked phone screen,Normal,Completed,T005,2025-12-17 11:55:10,2025-12-19 12:19:18,990.0,1
+H-0200,Laptop,Software,C161,01544101862,Windows will not boot,Normal,Completed,T001,2025-12-17 13:50:11,2025-12-17 18:57:50,125.0,0
+H-0201,Printer,Paper Jam,C186,01024231980,Paper keeps jamming inside the printer,Normal,Completed,T003,2025-12-18 12:05:39,2025-12-18 18:43:54,410.0,1
+H-0202,Phone,Battery,C021,01002995469,Phone battery drains very fast,Low,Completed,T006,2025-12-18 13:53:42,2025-12-20 05:36:19,530.0,1
+H-0203,Laptop,Overheating,C133,01015816786,Laptop shuts down by itself after heavy use,High,Completed,T001,2025-12-20 10:04:08,2025-12-21 01:42:58,485.0,2
+H-0204,Phone,Screen,C186,01024231980,Touch does not respond in some areas,Low,Completed,T006,2025-12-20 17:30:25,2025-12-22 15:15:24,,1
+H-0205,Laptop,Software,C076,01579831578,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2025-12-21 09:45:38,2025-12-21 17:51:19,175.0,0
+H-0206,Laptop,Software,C264,01182103327,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2025-12-21 11:36:36,2025-12-22 00:01:57,210.0,0
+H-0207,Printer,Connectivity,C208,01040835542,Computer cannot find the printer by USB,High,Completed,T003,2025-12-21 17:09:51,2025-12-22 05:02:26,255.0,1
+H-0208,Phone,Screen,C265,01084683377,Touch does not respond in some areas,Low,Completed,T006,2025-12-21 21:34:18,2025-12-24 10:48:01,985.0,2
+H-0209,Laptop,Software,C169,01007183486,Laptop is very slow and needs a system reinstall,High,Completed,T002,2025-12-22 12:36:48,2025-12-22 15:46:53,145.0,0
+H-0210,Phone,Screen,C285,01026507728,Touch does not respond in some areas,Normal,Completed,T005,2025-12-22 16:01:13,2025-12-23 16:55:07,1015.0,2
+H-0211,Laptop,Keyboard,C264,01182103327,Several keys are not responding,Low,Completed,T001,2025-12-23 09:27:48,2025-12-26 06:48:12,475.0,1
+H-0212,Phone,,C145,01219697982,Phone turns off at 30 percent,Low,Completed,T006,2025-12-24 12:00:07,2025-12-25 01:19:29,110.0,1
+H-0213,Phone,Charging Port,C206,01179745920,Charging port is loose,Normal,Completed,T006,2025-12-24 12:08:07,2025-12-30 13:30:18,115.0,0
+H-0214,Phone,Software,C134,01018869327,Phone is stuck on the boot logo,Normal,Completed,T005,2025-12-24 12:57:34,2025-12-24 15:03:11,135.0,0
+H-0215,Laptop,Screen,C036,01266046114,Screen flickers and shows vertical lines,Normal,Completed,T002,2025-12-25 19:42:33,2025-12-27 22:23:26,1580.0,1
+H-0216,Printer,Print Quality,C090,01532196485,Printed pages have lines and faded text,High,Completed,T004,2025-12-25 19:43:35,2025-12-26 03:29:55,1780.0,3
+H-0217,Printer,Ink System,C047,01106522460,Ink is leaking inside the printer,Normal,Completed,T004,2025-12-26 15:24:27,2025-12-27 05:55:31,515.0,1
+H-0218,Printer,Paper Jam,C276,01267231235,Printer pulls several sheets at once,High,Completed,T003,2025-12-26 16:19:26,2025-12-26 18:19:32,70.0,0
+H-0219,Printer,Paper Jam,C296,01544859780,Paper keeps jamming inside the printer,Low,Completed,T004,2025-12-27 11:34:57,2025-12-27 19:03:53,55.0,0
+H-0220,Phone,Software,C081,01018565769,Phone is stuck on the boot logo,Low,Completed,T006,2025-12-27 18:10:47,2025-12-28 05:00:22,180.0,0
+H-0221,Laptop,Overheating,C003,01081029134,Laptop shuts down by itself after heavy use,High,Completed,T001,2025-12-27 20:55:59,2025-12-28 05:55:53,485.0,2
+H-0222,Laptop,Keyboard,C285,01026507728,Several keys are not responding,Normal,Completed,T001,2025-12-28 13:28:41,2025-12-29 03:39:42,,1
+H-0223,Printer,Connectivity,C111,01098907793,Computer cannot find the printer by USB,Normal,Completed,T003,2025-12-28 14:16:48,2025-12-28 20:49:59,,1
+H-0224,Phone,Software,C124,01199030899,Phone is stuck on the boot logo,Low,Completed,T005,2025-12-28 18:41:40,2025-12-29 14:30:14,125.0,0
+H-0225,Phone,Screen,C116,01205845336,Cracked phone screen,High,Completed,T005,2025-12-29 10:35:17,2025-12-29 15:32:42,195.0,1
+H-0226,Phone,Screen,C298,01182819446,Touch does not respond in some areas,High,Completed,T006,2025-12-29 14:48:03,2025-12-30 04:15:55,1125.0,2
+H-0227,Printer,Connectivity,C162,03505251131,Printer is not detected over Wi-Fi,Low,Completed,T004,2025-12-29 19:03:17,2025-12-30 11:31:40,225.0,1
+H-0228,Phone,Charging Port,C186,01024231980,Charging port is loose,Normal,Completed,T006,2025-12-30 13:30:40,2025-12-31 18:21:46,455.0,1
+H-0229,Laptop,Software,C199,01094505384,Windows will not boot,High,Completed,T001,2025-12-31 09:33:39,2025-12-31 11:46:08,135.0,0
+H-0230,Laptop,Battery,C134,01018869327,Laptop battery drains within an hour,Normal,Completed,T001,2025-12-31 18:03:24,2026-01-01 10:11:37,775.0,1
+H-0231,Phone,Battery,C111,01098907793,Phone turns off at 30 percent,Low,Completed,T005,2026-01-01 17:11:43,2026-01-03 05:10:04,580.0,2
+H-0232,Laptop,Battery,C199,01094505384,Laptop shuts down when unplugged,High,Completed,T002,2026-01-01 18:05:54,2026-01-02 02:15:17,635.0,1
+H-0233,Phone,Screen,C006,01223515291,Cracked phone screen,High,Completed,T005,2026-01-02 09:17:05,2026-01-02 23:52:43,1050.0,1
+H-0234,Laptop,Overheating,C181,01571989096,Laptop gets very hot and the fan is loud,Low,Completed,T001,2026-01-05 13:15:45,2026-01-10 20:56:28,540.0,1
+H-0235,Printer,Ink System,C058,01065209883,Ink is leaking inside the printer,Low,Completed,T004,2026-01-06 11:08:56,2026-01-08 00:52:17,1000.0,1
+H-0236,Printer,Connectivity,C205,01549530061,Computer cannot find the printer by USB,Normal,Completed,T003,2026-01-06 13:18:59,2026-01-06 21:50:55,260.0,1
+H-0237,Laptop,Battery,C265,01084683377,Laptop shuts down when unplugged,Low,Completed,T002,2026-01-06 15:36:24,2026-01-07 23:18:57,800.0,1
+H-0238,Phone,Battery,C218,01004300325,Phone battery drains very fast,Low,Completed,T005,2026-01-07 09:48:27,2026-01-08 15:55:05,175.0,1
+H-0239,Phone,Screen,C056,01109519358,Cracked phone screen,High,Completed,T005,2026-01-07 13:32:40,2026-01-08 07:27:59,170.0,1
+H-0240,Laptop,Keyboard,C126,01093192908,Several keys are not responding,Low,Completed,T001,2026-01-07 18:33:17,2026-01-08 17:39:32,475.0,1
+H-0241,Phone,Screen,C110,01520170994,Touch does not respond in some areas,Low,Completed,T005,2026-01-08 12:49:54,2026-01-09 21:19:27,1005.0,1
+H-0242,Printer,Paper Jam,C014,01288123321,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-01-08 15:20:12,2026-01-09 05:28:37,100.0,0
+H-0243,Laptop,Battery,C063,01051016629,Laptop battery drains within an hour,Normal,Completed,T002,2026-01-08 17:12:30,2026-01-10 01:23:39,825.0,1
+H-0244,Laptop,Software,C155,01049348415,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-01-08 19:56:46,2026-01-09 03:53:43,160.0,0
+H-0245,Laptop,Software,C039,01048926553,Windows will not boot,Low,Completed,T001,2026-01-09 11:04:40,2026-01-09 18:51:38,,0
+H-0246,Laptop,Screen,C133,01015816786,Cracked laptop screen,Low,Completed,T002,2026-01-10 10:20:20,2026-01-14 01:08:17,1470.0,1
+H-0247,Phone,Screen,C089,01188171942,Cracked phone screen,Low,Completed,T006,2026-01-10 11:59:53,2026-01-12 06:32:39,965.0,1
+H-0248,Printer,Ink System,C105,01271491688,Ink is leaking inside the printer,Low,Completed,T003,2026-01-10 13:10:49,2026-01-11 18:26:38,565.0,1
+H-0249,Phone,Charging Port,C248,01264764062,Charging port is loose,High,Completed,T005,2026-01-11 10:12:27,2026-01-13 11:52:33,510.0,2
+H-0250,Laptop,Software,C153,01013939738,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-01-11 10:15:49,2026-01-11 18:32:24,145.0,0
+H-0251,Laptop,Battery,C243,01565196234,Laptop battery drains within an hour,Low,Completed,T002,2026-01-12 13:20:54,2026-01-18 12:05:05,815.0,1
+H-0252,Phone,Charging Port,C056,01109519358,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-01-12 15:17:19,2026-01-13 12:20:39,90.0,0
+H-0253,Phone,Software,C003,01081029134,Phone is stuck on the boot logo,High,Completed,T006,2026-01-12 17:26:13,2026-01-12 20:09:39,105.0,0
+H-0254,Laptop,Battery,C102,01063169564,Laptop battery drains within an hour,Normal,Completed,T001,2026-01-12 19:48:07,2026-01-14 00:02:41,1280.0,2
+H-0255,Printer,Paper Jam,C211,01061222337,Printer pulls several sheets at once,Normal,Completed,T003,2026-01-12 19:53:37,2026-01-13 01:58:51,90.0,0
+H-0256,Laptop,Screen,C231,01189491556,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-01-13 12:05:31,2026-01-17 16:13:21,1485.0,1
+H-0257,Printer,Connectivity,C081,01018565769,Printer is not detected over Wi-Fi,High,Completed,T004,2026-01-13 14:03:07,2026-01-13 18:52:27,90.0,0
+H-0258,Phone,Charging Port,C053,01282864784,Phone does not charge unless the cable is held,Normal,Completed,T006,2026-01-13 15:25:07,2026-01-14 13:34:29,240.0,1
+H-0259,Laptop,Battery,C188,01266858171,Laptop battery drains within an hour,Low,Completed,T002,2026-01-13 17:46:11,2026-01-14 23:16:22,800.0,1
+H-0260,Printer,Ink System,C166,01200895892,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-01-13 19:43:07,2026-01-14 06:02:31,575.0,1
+H-0261,Printer,Connectivity,C102,01063169564,Computer cannot find the printer by USB,Normal,Completed,T003,2026-01-14 08:03:49,2026-01-14 17:17:44,90.0,0
+H-0262,Laptop,Battery,C053,01282864784,Laptop battery drains within an hour,Normal,Completed,T001,2026-01-14 15:20:33,2026-01-15 16:33:11,800.0,1
+H-0263,Laptop,Screen,C038,01043050230,Cracked laptop screen,High,Completed,T001,2026-01-15 16:26:45,2026-01-17 00:08:53,,0
+H-0264,Phone,Charging Port,C089,01188171942,Phone does not charge unless the cable is held,Normal,Completed,T006,2026-01-16 18:47:47,2026-01-23 15:09:32,525.0,2
+H-0265,Laptop,Overheating,C035,01538711667,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-01-17 09:05:06,2026-01-18 15:49:41,405.0,1
+H-0266,Laptop,Software,C022,01247453008,Windows will not boot,Low,Completed,T001,2026-01-17 10:50:11,2026-01-18 02:22:49,180.0,0
+H-0267,Laptop,Software,C053,01282864784,Laptop is very slow and needs a system reinstall,High,Completed,T002,2026-01-17 12:09:28,2026-01-17 16:51:44,165.0,0
+H-0268,Printer,Connectivity,C237,01542432278,Computer cannot find the printer by USB,Normal,Completed,T003,2026-01-17 12:51:44,2026-01-18 18:12:57,210.0,1
+H-0269,Printer,Print Quality,C261,01039272541,Printed pages have lines and faded text,Low,Completed,T003,2026-01-17 14:29:27,2026-01-18 06:04:43,1450.0,2
+H-0270,Phone,Screen,C198,01035711559,Touch does not respond in some areas,High,Completed,T005,2026-01-18 11:30:52,2026-01-19 02:21:08,1030.0,2
+H-0271,Phone,Screen,C245,01066292151,Cracked phone screen,Low,Completed,T005,2026-01-19 08:39:09,2026-01-20 22:29:03,1060.0,2
+H-0272,Phone,Screen,C010,01250581498,Touch does not respond in some areas,Low,Completed,T006,2026-01-19 16:02:52,2026-01-21 00:51:02,950.0,1
+H-0273,Phone,Charging Port,C238,01073255015,Charging port is loose,High,Completed,T006,2026-01-20 16:54:17,2026-01-21 07:29:34,410.0,1
+H-0274,Printer,Ink System,C274,01269537097,Printer says the ink cartridge is not recognized,High,Completed,T003,2026-01-21 09:48:04,2026-01-21 14:56:34,1480.0,2
+H-0275,Laptop,Screen,C111,01098907793,Cracked laptop screen,Normal,Completed,T002,2026-01-21 11:43:15,2026-01-22 01:35:28,1470.0,1
+H-0276,Printer,Ink System,C192,01033966246,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2026-01-21 18:11:14,2026-01-26 17:25:56,1415.0,2
+H-0277,Laptop,Software,C090,01532196485,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-01-22 12:16:45,2026-01-22 17:07:55,125.0,0
+H-0278,Laptop,Screen,C129,01209035887,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-01-24 11:44:15,2026-01-26 17:04:14,1480.0,1
+H-0279,Laptop,Software,C153,01013939738,Windows will not boot,Low,Completed,T001,2026-01-24 20:10:44,2026-01-25 14:12:32,165.0,0
+H-0280,Phone,Screen,C049,01556005747,Touch does not respond in some areas,Normal,Completed,T005,2026-01-25 10:49:07,2026-01-26 03:58:06,1010.0,2
+H-0281,Phone,Screen,C121,01012972810,Touch does not respond in some areas,Normal,Completed,T005,2026-01-25 12:50:57,2026-01-27 00:07:42,200.0,1
+H-0282,Printer,Paper Jam,C248,01264764062,Printer pulls several sheets at once,Low,Completed,T004,2026-01-25 15:55:34,2026-01-26 04:36:20,370.0,1
+H-0283,Laptop,Keyboard,C101,01595902638,Keyboard keys stuck after a liquid spill,Low,Completed,T002,2026-01-26 14:51:03,2026-01-29 18:08:08,490.0,1
+H-0284,Laptop,Keyboard,C015,01052747547,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2026-01-26 16:02:21,2026-01-27 21:57:31,150.0,0
+H-0285,Laptop,Battery,C228,01008773778,Laptop battery drains within an hour,High,Completed,T002,2026-01-26 16:51:01,2026-01-28 02:14:37,870.0,1
+H-0286,Printer,Ink System,C115,01110600249,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-01-27 09:42:55,2026-01-28 06:01:11,2335.0,3
+H-0287,Printer,Print Quality,C095,01187574601,Printed pages have lines and faded text,Low,Completed,T003,2026-01-27 12:01:22,2026-01-29 21:14:01,1765.0,3
+H-0288,Laptop,Battery,C290,01144099362,Laptop shuts down when unplugged,High,Completed,T002,2026-01-27 14:29:05,2026-01-27 21:17:35,805.0,1
+H-0289,Printer,Paper Jam,C049,01556005747,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-01-27 17:54:52,2026-01-28 05:12:23,70.0,0
+H-0290,Laptop,Overheating,C207,01015246650,Laptop shuts down by itself after heavy use,Low,Completed,T002,2026-01-28 13:44:18,2026-01-29 13:12:29,195.0,0
+H-0291,Phone,Screen,C087,01017781446,Cracked phone screen,Normal,Completed,T006,2026-01-28 17:00:22,2026-01-29 13:48:10,1000.0,1
+H-0292,Phone,Screen,C174,01599044217,Cracked phone screen,Normal,Completed,T006,2026-01-28 20:15:43,2026-02-02 03:31:06,1095.0,2
+H-0293,Laptop,Battery,C011,01009680244,Laptop shuts down when unplugged,High,Completed,T001,2026-01-29 10:21:32,2026-01-29 18:15:57,785.0,1
+H-0294,Laptop,Keyboard,C008,01010478569,Several keys are not responding,High,Completed,T001,2026-01-29 10:46:31,2026-01-30 02:21:39,490.0,1
+H-0295,Laptop,Software,C149,01220230861,Windows will not boot,Low,Completed,T001,2026-01-31 10:52:29,2026-02-01 02:42:27,175.0,0
+H-0296,Laptop,Screen,C181,01571989096,Screen flickers and shows vertical lines,High,Completed,T001,2026-01-31 17:14:37,2026-02-01 09:03:47,1440.0,1
+H-0297,Phone,Charging Port,C047,01106522460,Charging port is loose,Normal,Completed,T006,2026-01-31 18:33:34,2026-02-01 23:03:56,385.0,1
+H-0298,Phone,Battery,C164,01220999476,Phone battery drains very fast,Low,Completed,T006,2026-02-01 13:22:36,2026-02-03 07:25:38,520.0,2
+H-0299,Phone,Battery,C053,01282864784,Phone battery drains very fast,High,Completed,T005,2026-02-01 19:09:06,2026-02-02 03:21:33,465.0,1
+H-0300,Laptop,Software,C141,01014498253,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-02-02 09:44:45,2026-02-02 13:55:39,210.0,0
+H-0301,Printer,Connectivity,C258,01081196124,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-02-02 14:54:52,2026-02-03 02:32:00,60.0,0
+H-0302,Phone,Battery,C205,01549530061,,Normal,Completed,T005,2026-02-02 14:58:19,2026-02-03 11:50:26,535.0,1
+H-0303,Laptop,Overheating,C246,01160179701,Laptop shuts down by itself after heavy use,Low,Completed,T001,2026-02-02 16:00:55,2026-02-08 23:36:56,520.0,2
+H-0304,Phone,Charging Port,C248,01264764062,Charging port is loose,Normal,Completed,T005,2026-02-02 19:15:23,2026-02-04 12:19:45,525.0,2
+H-0305,Printer,Connectivity,C279,01048055989,Computer cannot find the printer by USB,Low,Completed,T003,2026-02-02 19:37:31,2026-02-03 13:46:00,220.0,1
+H-0306,Phone,Charging Port,C208,01040835542,Charging port is loose,High,Completed,T005,2026-02-03 17:01:22,2026-02-04 03:26:02,575.0,2
+H-0307,Phone,Screen,C077,01009321821,Cracked phone screen,Normal,Completed,T005,2026-02-03 17:51:45,2026-02-04 12:04:45,215.0,1
+H-0308,Printer,Paper Jam,C102,01063169564,Printer pulls several sheets at once,Normal,Completed,T003,2026-02-03 18:34:48,2026-02-04 01:51:53,60.0,0
+H-0309,Printer,,C115,01110600249,Computer cannot find the printer by USB,Normal,Completed,T003,2026-02-04 08:06:18,2026-02-04 21:01:46,265.0,1
+H-0310,Printer,Paper Jam,C265,01084683377,Printer pulls several sheets at once,Low,Completed,T003,2026-02-04 11:21:55,2026-02-04 18:19:31,380.0,1
+H-0311,Phone,Screen,C227,01296346141,Cracked phone screen,Low,Completed,T006,2026-02-04 12:39:17,2026-02-07 00:56:29,1075.0,2
+H-0312,Laptop,Screen,C294,01154716627,Screen flickers and shows vertical lines,High,Completed,T001,2026-02-04 13:22:51,2026-02-05 15:07:59,1530.0,1
+H-0313,Printer,Ink System,C237,01542432278,Ink is leaking inside the printer,High,Completed,T003,2026-02-04 15:57:26,2026-02-04 20:05:54,2360.0,3
+H-0314,Laptop,Overheating,C145,01219697982,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-02-05 14:19:31,2026-02-12 13:13:28,510.0,1
+H-0315,Printer,Paper Jam,C076,01579831578,Printer pulls several sheets at once,Low,Completed,T003,2026-02-05 15:50:40,2026-02-05 18:56:36,75.0,0
+H-0316,Printer,Connectivity,C166,01200895892,Computer cannot find the printer by USB,Normal,Completed,T003,2026-02-05 16:25:00,2026-02-06 12:48:13,130.0,0
+H-0317,Laptop,Software,C101,01595902638,Windows will not boot,Normal,Completed,T002,2026-02-06 15:09:59,2026-02-06 18:36:32,130.0,0
+H-0318,Phone,Screen,C228,01008773778,Cracked phone screen,Normal,Completed,T005,2026-02-07 20:04:31,2026-02-09 09:14:39,1050.0,2
+H-0319,Laptop,Software,C059,01053142817,Windows will not boot,Normal,Completed,T001,2026-02-08 11:33:04,2026-02-08 16:40:46,150.0,0
+H-0320,Laptop,Battery,C073,01264910159,Laptop shuts down when unplugged,Normal,Completed,T001,2026-02-08 12:17:35,2026-02-08 21:40:58,615.0,1
+H-0321,Laptop,Software,C291,01094960304,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-02-08 17:14:57,2026-02-09 03:26:11,140.0,0
+H-0322,Laptop,Software,C163,01058124702,Windows will not boot,Low,Completed,T002,2026-02-09 10:21:31,2026-02-09 21:24:32,150.0,0
+H-0323, Printer,Ink System,C192,01033966246,Ink is leaking inside the printer,Normal,Completed,T003,2026-02-09 16:06:33,2026-02-11 08:04:51,1435.0,2
+H-0324,Laptop,Screen,C294,01154716627,Screen flickers and shows vertical lines,Low,Completed,T002,2026-02-09 17:17:06,2026-02-15 13:12:19,1460.0,1
+H-0325,Laptop,Keyboard,C290,01144099362,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2026-02-09 18:49:14,2026-02-10 21:17:41,445.0,1
+H-0326,Printer,Connectivity,C092,01574352261,Computer cannot find the printer by USB,Normal,Completed,T003,2026-02-09 19:55:50,2026-02-10 04:09:06,265.0,1
+H-0327,Phone,Charging Port,C267,01037884255,Phone does not charge unless the cable is held,High,Completed,T005,2026-02-10 11:03:50,2026-02-10 23:50:58,390.0,1
+H-0328,Phone,Charging Port,C102,01063169564,Charging port is loose,High,Completed,T006,2026-02-10 11:51:53,2026-02-10 23:56:40,185.0,1
+H-0329,Phone,Charging Port,C211,01061222337,Charging port is loose,High,Completed,T005,2026-02-10 11:58:23,2026-02-11 00:21:55,135.0,0
+H-0330,Phone,Screen,C191,01071823965,Touch does not respond in some areas,High,Completed,T006,2026-02-10 16:35:23,2026-02-16 06:29:31,180.0,1
+H-0331,Phone,Software,C209,01016157862,Apps keep crashing after an update,Low,Completed,T005,2026-02-10 17:15:12,2026-02-11 01:49:50,170.0,0
+H-0332,Laptop,Software,C137,01214334222,Windows will not boot,Normal,Completed,T002,2026-02-10 18:30:21,2026-02-11 06:58:32,145.0,0
+H-0333,Laptop,Screen,C192,01033966246,Cracked laptop screen,High,Completed,T001,2026-02-11 11:04:14,2026-02-16 10:32:15,1435.0,1
+H-0334,Laptop,Battery,C192,01033966246,Laptop battery drains within an hour,Normal,Completed,T002,2026-02-11 12:26:14,2026-02-12 15:17:06,830.0,1
+H-0335,Laptop,Software,C266,01053251931,Windows will not boot,Low,Completed,T002,2026-02-11 16:00:36,2026-02-12 01:41:33,135.0,0
+H-0336,Laptop,Software,C202,01530135390,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-02-12 10:48:57,2026-02-12 15:04:14,105.0,0
+H-0337,Printer,Connectivity,C198,01035711559,Printer is not detected over Wi-Fi,Low,Completed,T003,2026-02-12 11:08:13,2026-02-12 19:48:05,115.0,0
+H-0338,Laptop,Screen,C181,01571989096,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-02-12 20:03:22,2026-02-16 02:39:56,,1
+H-0339,Laptop,Screen,C192,01033966246,Screen flickers and shows vertical lines,High,Completed,T001,2026-02-14 14:16:21,2026-02-15 23:33:40,1415.0,1
+H-0340,Phone,Charging Port,C035,01538711667,Phone does not charge unless the cable is held,High,Completed,T005,2026-02-14 17:51:13,2026-02-15 16:38:58,520.0,2
+H-0341,Printer,Paper Jam,C115,01110600249,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-02-15 08:27:41,2026-02-15 13:37:19,65.0,0
+H-0342,Printer,Ink System,C161,01544101862,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-02-15 16:16:33,2026-02-15 23:06:00,525.0,1
+H-0343,Phone,Screen,C053,01282864784,Touch does not respond in some areas,Normal,Completed,T005,2026-02-16 10:34:19,2026-02-17 03:39:13,1040.0,2
+H-0344,Phone,Battery,C184,01000741550,Phone turns off at 30 percent,Low,Completed,T006,2026-02-16 14:02:14,2026-02-17 19:30:57,140.0,1
+H-0345,Laptop,Software,C187,01201412657,Laptop is very slow and needs a system reinstall,High,Completed,T002,2026-02-16 17:24:28,2026-02-18 14:07:49,120.0,0
+H-0346,Laptop,Software,C185,01023771437,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-02-17 11:55:39,2026-02-18 08:07:44,145.0,0
+H-0347,Phone,Screen,C249,01290518632,Touch does not respond in some areas,Low,Completed,T005,2026-02-17 17:45:25,2026-02-19 00:05:26,1055.0,2
+H-0348,Printer,Paper Jam,C025,01028352028,Paper keeps jamming inside the printer,Low,Completed,T003,2026-02-17 19:54:30,2026-02-18 10:30:28,375.0,1
+H-0349,Phone,Software,C186,01024231980,Apps keep crashing after an update,Low,Completed,T006,2026-02-18 13:41:45,2026-02-19 01:31:11,70.0,0
+H-0350,Laptop,Software,C087,01017781446,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-02-18 15:18:59,2026-02-18 20:07:35,,0
+H-0351,Laptop,Overheating,C230,01172127014,,Normal,Completed,T001,2026-02-19 11:50:44,2026-02-20 22:22:22,300.0,1
+H-0352,Phone,Charging Port,C145,01219697982,Charging port is loose,High,Completed,T006,2026-02-19 11:57:54,2026-02-20 06:55:21,495.0,1
+H-0353,Laptop,,C197,01126752898,Cracked laptop screen,Low,Completed,T002,2026-02-19 18:17:23,2026-02-22 01:20:41,330.0,0
+H-0354,Printer,Connectivity,C157,01065181552,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-02-19 19:22:30,2026-02-20 07:09:28,255.0,1
+H-0355,Phone,Charging Port,C042,01586684206,Phone does not charge unless the cable is held,High,Completed,T006,2026-02-20 19:18:32,2026-02-22 02:41:59,155.0,0
+H-0355,Phone,Charging Port,C042,01586684206,Phone does not charge unless the cable is held,High,Completed,T006,2026-02-20 19:18:32,2026-02-22 02:41:59,155.0,0
+H-0356,Phone,Battery,C072,01529006642,Phone turns off at 30 percent,Normal,Completed,T006,2026-02-21 11:43:26,2026-02-22 06:25:53,475.0,1
+H-0357,Laptop,,C137,01214334222,Screen flickers and shows vertical lines,Low,Completed,T001,2026-02-21 21:55:52,2026-02-23 05:56:16,1530.0,1
+H-0358,Printer,Connectivity,C049,01556005747,Computer cannot find the printer by USB,Low,Completed,T004,2026-02-22 12:11:12,2026-02-23 01:55:24,105.0,0
+H-0359,Phone,Screen,C126,01093192908,Touch does not respond in some areas,Normal,Completed,T005,2026-02-22 15:35:11,2026-02-24 01:39:46,1030.0,2
+H-0360,Phone,Battery,C052,01074722636,Phone turns off at 30 percent,Normal,Completed,T006,2026-02-22 17:30:02,2026-02-23 18:18:40,580.0,2
+H-0361,Printer,Connectivity,C134,01018869327,Computer cannot find the printer by USB,Normal,Completed,T003,2026-02-23 13:11:13,2026-02-23 19:50:42,145.0,0
+H-0362,Printer,Ink System,C115,01110600249,Ink is leaking inside the printer,High,Completed,T004,2026-02-25 17:02:27,2026-02-25 22:44:20,530.0,1
+H-0363,Printer,Ink System,C185,01023771437,Ink is leaking inside the printer,High,Completed,T003,2026-02-27 12:14:59,2026-02-27 22:26:35,1930.0,3
+H-0363,Printer,Ink System,C185,01023771437,Ink is leaking inside the printer,High,Completed,T003,2026-02-27 12:14:59,2026-02-27 22:26:35,1930.0,3
+H-0364,Laptop,Screen,C197,01126752898,Cracked laptop screen,Normal,Completed,T002,2026-02-28 11:32:36,2026-03-03 06:47:27,1515.0,1
+H-0365,Laptop,Software,C003,01081029134,Laptop is very slow and needs a system reinstall,High,Completed,T001,2026-02-28 18:21:37,2026-02-28 23:33:01,190.0,0
+H-0366,Laptop,Screen,C090,01532abc485,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-03-01 10:27:06,2026-03-03 05:32:35,1500.0,1
+H-0367,Laptop,Software,C294,01154716627,Windows will not boot,Normal,Completed,T002,2026-03-01 13:13:21,2026-03-01 23:46:37,180.0,0
+H-0368,Laptop,Software,C296,01544859780,Windows will not boot,Normal,Completed,T001,2026-03-01 14:04:02,2026-03-01 20:57:15,165.0,0
+H-0369,Phone,Charging Port,C054,01209906180,Phone does not charge unless the cable is held,High,Completed,T006,2026-03-02 08:05:23,2026-03-04 23:31:40,230.0,1
+H-0370,Phone,Screen,C037,01277305579,Cracked phone screen,Low,Completed,T006,2026-03-02 09:45:24,2026-03-05 06:27:24,1000.0,2
+H-0371,Phone,Screen,C101,01595902638,Touch does not respond in some areas,High,Completed,T005,2026-03-02 13:18:18,2026-03-03 01:11:22,1065.0,2
+H-0372,Laptop,Screen,C012,01281290534,Cracked laptop screen,High,Completed,T001,2026-03-03 14:41:39,2026-03-04 20:39:16,1490.0,1
+H-0373,Laptop,Software,C147,01207636180,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-03-03 15:44:32,2026-03-05 09:54:08,135.0,0
+H-0374, Phone,Battery,C069,01226354966,Phone battery drains very fast,Normal,Completed,T006,2026-03-03 16:10:16,2026-03-04 12:01:49,530.0,2
+H-0375,Printer,Ink System,C208,01040835542,Ink is leaking inside the printer,Normal,Completed,T003,2026-03-03 16:21:50,2026-03-07 17:51:31,1460.0,2
+H-0376,Printer,Paper Jam,C044,01134600086,Printer pulls several sheets at once,Low,Completed,T004,2026-03-03 18:40:04,2026-03-04 09:24:26,440.0,1
+H-0377,Laptop,Overheating,C111,01098907793,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-03-03 19:16:08,2026-03-04 04:34:55,525.0,1
+H-0378,Phone,Battery,C194,01218035372,Phone battery drains very fast,Low,Completed,T006,2026-03-04 12:48:51,2026-03-05 12:14:12,100.0,0
+H-0379,Laptop,Overheating,C177,01288135749,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-03-04 13:15:51,2026-03-06 04:44:34,635.0,2
+H-0380,Laptop,Software,C133,01015816786,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2026-03-04 19:54:54,2026-03-05 08:28:55,85.0,0
+H-0381,Printer,Connectivity,C156,01096748111,Computer cannot find the printer by USB,High,Completed,T003,2026-03-05 12:12:48,2026-03-05 16:17:10,115.0,0
+H-0382,Phone,Screen,C234,01019338535,Cracked phone screen,Low,Completed,T006,2026-03-05 20:22:03,2026-03-08 02:28:03,1150.0,2
+H-0383,Phone,Screen,C285,01026507728,Touch does not respond in some areas,Low,Completed,T005,2026-03-05 20:35:19,2026-03-07 13:01:50,1045.0,1
+H-0384,Phone,Software,C053,01282864784,Phone is stuck on the boot logo,High,Completed,T006,2026-03-06 11:15:20,2026-03-10 00:18:24,160.0,0
+H-0385,Phone,Screen,C237,01542432278,Cracked phone screen,High,Completed,T005,2026-03-07 11:26:58,2026-03-07 21:30:03,1105.0,1
+H-0386,Laptop,Software,C073,01264910159,Laptop is very slow and needs a system reinstall,High,Completed,T001,2026-03-07 15:58:32,2026-03-07 18:42:11,240.0,0
+H-0387,Laptop,Overheating,C156,01096748111,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-03-08 11:15:24,2026-03-09 05:26:29,585.0,2
+H-0388,Laptop,Battery,C184,010007415,Laptop shuts down when unplugged,Low,Completed,T001,2026-03-08 16:09:29,2026-03-10 03:41:50,700.0,1
+H-0389,Laptop,Battery,C224,01225060887,Laptop battery drains within an hour,Normal,Completed,T001,2026-03-09 11:27:46,2026-03-14 05:22:47,215.0,0
+H-0390,Laptop,Software,C232,01022169714,Windows will not boot,High,Completed,T001,2026-03-09 14:42:30,2026-03-09 17:02:39,160.0,0
+H-0391,Laptop,Software,C135,01243209042,Windows will not boot,Low,Completed,T001,2026-03-09 15:44:23,2026-03-10 03:07:05,110.0,0
+H-0392,Printer,Paper Jam,C003,01081029134,Printer pulls several sheets at once,Normal,Completed,T003,2026-03-11 10:41:59,2026-03-11 13:36:54,405.0,1
+H-0393,Laptop,Software,C085,01260830075,Windows will not boot,Normal,Completed,T001,2026-03-11 11:35:09,2026-03-11 19:29:13,265.0,0
+H-0394,Phone,Software,C021,01002995469,Phone is stuck on the boot logo,Low,Completed,T006,2026-03-11 12:46:12,2026-03-11 21:54:52,100.0,0
+H-0395,Phone,Screen,C092,01574352261,Cracked phone screen,Low,Completed,T006,2026-03-11 14:20:13,2026-03-14 12:21:00,190.0,1
+H-0396,Printer,Paper Jam,C156,01096748111,Printer pulls several sheets at once,Normal,Completed,T004,2026-03-11 19:22:16,2026-03-11 22:00:58,430.0,1
+H-0397,Laptop,Software,C240,01025399975,Laptop is very slow and needs a system reinstall,High,Completed,T001,2026-03-12 09:29:44,2026-03-12 11:48:48,165.0,0
+H-0398,Laptop,Software,C184,01000741550,Windows will not boot,High,Completed,T001,2026-03-12 11:24:54,2026-03-12 14:27:06,210.0,0
+H-0399,Phone,Battery,C047,01106522460,Phone turns off at 30 percent,Normal,Completed,T006,2026-03-12 12:50:07,2026-03-13 16:29:00,150.0,1
+H-0400,Printer,Paper Jam,C134,01018869327,Paper keeps jamming inside the printer,Low,Completed,T004,2026-03-12 13:23:49,2026-03-12 20:50:25,115.0,0
+H-0401,Laptop,Battery,C261,01039272541,Laptop battery drains within an hour,High,Completed,T002,2026-03-13 09:09:21,2026-03-16 12:21:07,200.0,0
+H-0402,Phone,Software,C265,01084683377,Phone is stuck on the boot logo,Low,Completed,T006,2026-03-14 11:42:04,2026-03-15 02:59:18,160.0,0
+H-0403,Printer,Ink System,C259,01112401981,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-03-15 11:23:55,2026-03-16 15:06:51,1445.0,2
+H-0404,Laptop,Software,C172,01246675292,Windows will not boot,Low,Completed,T002,2026-03-15 19:06:09,2026-03-16 05:08:44,110.0,0
+H-0405,Laptop,Software,C232,01022169714,Windows will not boot,High,Completed,T001,2026-03-16 17:53:20,2026-03-20 00:19:09,145.0,0
+H-0406,Phone,Charging Port,C233,01198025032,Charging port is loose,Normal,Completed,T006,2026-03-16 19:17:30,2026-03-18 14:09:50,90.0,0
+H-0407,Laptop,Overheating,C219,01042495797,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-03-16 19:24:35,2026-03-18 09:28:07,480.0,2
+H-0408,Phone,Battery,C028,01239591267,Phone battery drains very fast,Normal,Completed,T005,2026-03-17 13:28:59,2026-03-18 00:09:23,495.0,1
+H-0409,Laptop,Keyboard,C129,01209035887,Several keys are not responding,Low,Completed,T001,2026-03-17 14:22:09,2026-03-18 18:01:22,485.0,1
+H-0410,Printer,Connectivity,C059,01053142817,Printer is not detected over Wi-Fi,Low,Completed,T003,2026-03-17 15:46:35,2026-03-18 02:58:34,115.0,0
+H-0411,Printer,Paper Jam,C050,01024897886,Paper keeps jamming inside the printer,Low,Completed,T003,2026-03-17 18:25:41,2026-03-17 23:27:59,720.0,2
+H-0412,Printer,Print Quality,C214,01199566484,Colors are wrong in printed documents,Low,Completed,T004,2026-03-17 19:11:00,2026-03-20 10:43:06,2440.0,4
+H-0413,Printer,Paper Jam,C275,01213528192,Printer pulls several sheets at once,Normal,Completed,T003,2026-03-18 11:11:55,2026-03-18 15:28:51,365.0,1
+H-0414, Phone,Screen,C145,01219697982,Cracked phone screen,High,Completed,T006,2026-03-18 13:32:34,2026-03-19 23:50:02,940.0,1
+H-0415,Phone,Software,C249,01290518632,Phone is stuck on the boot logo,Normal,Completed,T006,2026-03-18 17:23:41,2026-03-18 22:28:38,135.0,0
+H-0416,Printer,Connectivity,C006,01223515291,Computer cannot find the printer by USB,Normal,Completed,T003,2026-03-19 11:15:40,2026-03-19 22:20:41,75.0,0
+H-0417,Laptop,Overheating,C111,01098907793,Laptop shuts down by itself after heavy use,Low,Completed,T002,2026-03-19 11:51:39,2026-03-21 12:38:07,400.0,1
+H-0418,Phone,Screen,C134,01018869327,Touch does not respond in some areas,Low,Completed,T006,2026-03-19 12:59:05,2026-03-21 12:58:39,1045.0,2
+H-0419,Laptop,Screen,C008,01010478569,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-03-20 17:31:02,2026-03-21 16:25:40,1325.0,1
+H-0420,Printer,Print Quality,C296,01544859780,Colors are wrong in printed documents,Normal,Completed,T003,2026-03-20 19:46:34,2026-03-25 03:16:15,910.0,2
+H-0421,Phone,Screen,C230,01172127014,Touch does not respond in some areas,High,Completed,T006,2026-03-21 09:22:10,2026-03-22 00:56:52,1090.0,1
+H-0422,Laptop,Software,C197,01126752898,Laptop is very slow and needs a system reinstall,High,Completed,T002,2026-03-21 14:50:09,2026-03-22 01:07:08,220.0,0
+H-0423,Phone,Screen,C102,01063169564,Cracked phone screen,Low,Completed,T005,2026-03-21 19:51:55,2026-03-26 18:39:34,1050.0,1
+H-0424,Phone,Battery,C294,01154716627,Phone turns off at 30 percent,High,Completed,T005,2026-03-22 14:56:45,2026-03-23 03:29:17,575.0,2
+H-0425,Laptop,Screen,C021,01002995469,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-03-22 15:55:29,2026-03-25 06:11:54,1610.0,1
+H-0426,Phone,Charging Port,C277,01192465021,Charging port is loose,Normal,Completed,T006,2026-03-22 17:51:16,2026-03-23 12:59:31,150.0,0
+H-0427,Phone,Software,C025,01028352028,Apps keep crashing after an update,Normal,Completed,T005,2026-03-23 19:22:34,2026-03-24 03:38:03,90.0,0
+H-0428,Phone,Battery,C233,01198025032,Phone battery drains very fast,Normal,Completed,T005,2026-03-24 13:56:15,2026-03-25 09:01:35,485.0,1
+H-0429,Laptop,Software,C185,01023771437,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-03-25 11:12:52,2026-03-25 16:25:35,105.0,0
+H-0430,Printer,Connectivity,C030,01030491134,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-03-25 14:15:14,2026-03-26 00:43:23,110.0,0
+H-0431,Phone,Screen,C105,01271491688,Cracked phone screen,High,Completed,T005,2026-03-25 18:19:46,2026-03-26 05:34:29,965.0,2
+H-0432,Phone,Screen,C182,01008068037,Touch does not respond in some areas,Low,Completed,T005,2026-03-26 11:49:24,2026-04-01 04:36:14,1040.0,1
+H-0433,Printer,Connectivity,C209,01016157862,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-03-26 11:52:45,2026-03-26 20:29:43,80.0,0
+H-0434,Laptop,Software,C141,01014498253,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2026-03-26 13:30:36,2026-03-27 03:12:55,155.0,0
+H-0435,Phone,Screen,C068,01006950641,Touch does not respond in some areas,High,Completed,T006,2026-03-27 13:18:12,2026-03-28 06:25:46,1025.0,2
+H-0436,Laptop,Overheating,C258,01081196124,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-03-28 10:19:21,2026-03-29 07:27:22,460.0,1
+H-0437,Phone,Battery,C158,01037199813,Phone turns off at 30 percent,High,Completed,T005,2026-03-28 13:06:57,2026-03-29 05:15:49,140.0,1
+H-0438,Phone,Screen,C185,01023771437,Touch does not respond in some areas,Normal,Completed,T006,2026-03-28 18:15:15,2026-03-29 16:01:22,985.0,2
+H-0439,Laptop,Software,C145,01219697982,Windows will not boot,Normal,Completed,T001,2026-03-29 13:26:07,2026-03-29 17:04:21,120.0,0
+H-0440,Laptop,Battery,C240,01025399975,Laptop shuts down when unplugged,High,Completed,T002,2026-03-29 13:50:02,2026-03-30 03:27:40,855.0,1
+H-0441,Printer,Ink System,C054,01209906180,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2026-03-29 14:51:22,2026-03-30 03:02:13,1005.0,1
+H-0442,Phone,Software,C098,01011420954,Apps keep crashing after an update,Low,Completed,T005,2026-03-29 17:12:12,2026-03-30 03:41:59,165.0,0
+H-0443,Phone,Charging Port,C290,01144099362,Phone does not charge unless the cable is held,High,Completed,T006,2026-03-29 18:46:32,2026-03-30 06:00:44,385.0,1
+H-0444,Laptop,Battery,C003,01081029134,Laptop shuts down when unplugged,High,Completed,T001,2026-03-30 12:16:39,2026-03-31 04:44:45,1270.0,2
+H-0445,Laptop,Battery,C298,01182819446,Laptop battery drains within an hour,Normal,Completed,T002,2026-03-30 13:39:52,2026-03-31 05:31:17,600.0,1
+H-0446,Phone,Screen,C169,01007183486,Touch does not respond in some areas,High,Completed,T006,2026-03-31 09:02:34,2026-04-01 01:17:09,200.0,1
+H-0447,Laptop,Battery,C183,01132357343,Laptop battery drains within an hour,High,Completed,T001,2026-03-31 12:21:02,2026-03-31 16:36:50,170.0,0
+H-0448,Printer,Connectivity,C073,01264910159,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-03-31 13:45:53,2026-03-31 18:28:48,110.0,0
+H-0449,Phone,Battery,C164,01220999476,Phone battery drains very fast,High,Completed,T006,2026-04-01 10:06:45,2026-04-04 21:45:29,540.0,2
+H-0450,Laptop,Battery,C248,01264764062,Laptop shuts down when unplugged,Low,Completed,T001,2026-04-01 13:06:16,2026-04-02 13:53:20,730.0,1
+H-0451,Laptop,Overheating,C202,01530135390,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-04-01 18:02:15,2026-04-02 07:40:30,505.0,2
+H-0452,Laptop,Screen,C144,01071684449,Screen flickers and shows vertical lines,Low,Completed,T001,2026-04-02 10:58:42,2026-04-05 08:36:51,1460.0,1
+H-0453,Phone,Screen,C022,01247453008,Cracked phone screen,Normal,Completed,T005,2026-04-02 12:04:25,2026-04-03 07:29:22,1015.0,1
+H-0454,Laptop,Screen,C021,01002995469,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-04-03 10:30:01,2026-04-04 18:29:39,1725.0,1
+H-0455,Phone,Screen,C030,01030491134,Cracked phone screen,High,Completed,T005,2026-04-03 11:20:53,2026-04-04 01:36:38,1095.0,2
+H-0456,Printer,Print Quality,C199,01094505384,Colors are wrong in printed documents,Normal,Completed,T003,2026-04-04 09:06:24,2026-04-05 02:42:54,600.0,1
+H-0457,Laptop,Software,C199,01094505384,Laptop is very slow and needs a system reinstall,High,Completed,T002,2026-04-04 10:00:32,2026-04-04 22:56:46,210.0,0
+H-0458,Laptop,Overheating,C211,01061222337,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-04-05 13:02:23,2026-04-05 21:44:28,190.0,0
+H-0459,Phone,Software,C233,01198025032,Apps keep crashing after an update,Low,Completed,T006,2026-04-05 15:04:56,2026-04-06 04:23:14,110.0,0
+H-0460,Laptop,Overheating,C261,01039272541,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-04-05 19:50:56,2026-04-06 15:05:16,,0
+H-0461,Laptop,Screen,C053,01282864784,Screen flickers and shows vertical lines,Low,Completed,T001,2026-04-06 17:55:14,2026-04-08 04:00:38,1395.0,1
+H-0462,Phone,Battery,C077,01009321821,Phone turns off at 30 percent,Low,Completed,T005,2026-04-06 19:41:00,2026-04-07 17:48:00,105.0,0
+H-0463,Phone,Battery,C111,01098907793,Phone turns off at 30 percent,High,Completed,T006,2026-04-06 19:46:48,2026-04-07 06:59:56,565.0,2
+H-0464,Printer,Connectivity,C047,01106522460,Printer is not detected over Wi-Fi,Low,Completed,T003,2026-04-07 10:04:52,2026-04-07 23:56:21,110.0,0
+H-0465,Laptop,Battery,C017,01569259124,Laptop shuts down when unplugged,Low,Completed,T002,2026-04-07 11:56:33,2026-04-08 08:10:00,100.0,0
+H-0466,Laptop,Software,C083,01219088514,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-04-07 13:34:55,2026-04-07 18:15:56,180.0,0
+H-0467,Laptop,Software,C249,01290518632,Windows will not boot,High,Completed,T002,2026-04-07 18:28:47,2026-04-07 21:26:01,180.0,0
+H-0468,Laptop,Battery,C133,01015816786,Laptop shuts down when unplugged,Normal,Completed,T001,2026-04-07 20:12:15,2026-04-08 11:30:31,195.0,0
+H-0469,Laptop,Software,C105,012714916887,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-04-08 10:02:36,2026-04-08 21:32:17,145.0,0
+H-0470,Laptop,Overheating,C107,01006893895,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-04-08 11:24:49,2026-04-08 15:54:18,225.0,0
+H-0471,Printer,Connectivity,C261,01039272541,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-04-08 13:25:01,2026-04-09 07:11:18,240.0,1
+H-0472,Laptop,Battery,C215,01017236722,Laptop battery drains within an hour,Normal,Completed,T001,2026-04-08 15:20:55,2026-04-10 06:06:59,825.0,1
+H-0473,Laptop,Software,C208,01040835542,Windows will not boot,Normal,Completed,T001,2026-04-08 17:09:13,2026-04-11 02:08:49,100.0,0
+H-0474,Phone,Screen,C184,01000741550,Touch does not respond in some areas,High,Completed,T005,2026-04-08 21:41:35,2026-04-09 11:01:37,1060.0,2
+H-0475,Laptop,Overheating,C087,01017781446,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-04-09 15:01:37,2026-04-11 11:07:26,520.0,2
+H-0476,Printer,Paper Jam,C121,01012972810,Paper keeps jamming inside the printer,High,Completed,T004,2026-04-10 11:52:27,2026-04-10 13:54:04,360.0,1
+H-0477,Phone,Screen,C238,01073255015,Touch does not respond in some areas,High,Completed,T005,2026-04-10 13:07:38,2026-04-13 15:55:43,1050.0,2
+H-0478,Printer,Ink System,C205,01549530061,Ink is leaking inside the printer,Normal,Completed,T003,2026-04-10 20:32:12,2026-04-11 07:15:23,120.0,0
+H-0479,Phone,Screen,C055,01213885138,Touch does not respond in some areas,Low,Completed,T005,2026-04-11 12:25:45,2026-04-15 00:59:56,1095.0,1
+H-0480,Laptop,Overheating,C053,01282864784,,Normal,Completed,T002,2026-04-11 13:36:32,2026-04-12 22:42:03,350.0,1
+H-0481,Laptop,Screen,C269,01582155523,Screen flickers and shows vertical lines,High,Completed,T002,2026-04-12 13:31:54,2026-04-14 00:32:24,1425.0,1
+H-0482,Printer,Paper Jam,C073,01264910159,Paper keeps jamming inside the printer,High,Completed,T004,2026-04-12 18:52:16,2026-04-12 21:03:25,,0
+H-0483,Laptop,Overheating,C230,01172127014,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-04-12 19:59:20,2026-04-14 01:47:02,455.0,2
+H-0484,Phone,Charging Port,C237,03542432278,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-04-12 21:33:22,2026-04-13 11:49:08,130.0,0
+H-0485,Phone,Screen,C233,01198025032,Touch does not respond in some areas,Low,Completed,T005,2026-04-13 09:06:05,2026-04-19 12:27:14,170.0,1
+H-0486,PHONE,Battery,C059,01053142817,Phone battery drains very fast,High,Completed,T006,2026-04-13 10:43:46,2026-04-14 05:15:45,540.0,2
+H-0487,Printer,Ink System,C022,01247453008,Ink is leaking inside the printer,Normal,Completed,T003,2026-04-13 13:15:39,2026-04-18 01:51:52,100.0,0
+H-0488,Printer,Ink System,C072,01529006642,Ink is leaking inside the printer,Normal,Completed,T004,2026-04-13 13:26:50,2026-04-14 03:18:12,540.0,1
+H-0489,Phone,Screen,C003,01081029134,Touch does not respond in some areas,Normal,Completed,T005,2026-04-13 14:29:14,2026-04-14 01:27:57,,0
+H-0490,Phone,Battery,C124,01199030899,Phone turns off at 30 percent,Normal,Completed,T006,2026-04-14 12:43:22,2026-04-16 08:50:00,220.0,1
+H-0491,Laptop,Screen,C208,01040835542,Screen flickers and shows vertical lines,Low,Completed,T001,2026-04-15 11:31:53,2026-04-22 19:12:40,220.0,0
+H-0492,Phone,Software,C084,01232405659,Phone is stuck on the boot logo,Normal,Completed,T006,2026-04-15 14:59:02,2026-04-15 19:37:06,100.0,0
+H-0493,Laptop,Battery,C089,01188171942,Laptop battery drains within an hour,Low,Completed,T002,2026-04-15 16:18:01,2026-04-17 05:50:50,750.0,1
+H-0494,Laptop,Software,C208,01040835542,Windows will not boot,High,Completed,T001,2026-04-16 14:51:15,2026-04-16 17:27:13,185.0,0
+H-0495,Phone,Screen,C209,01016157862,Cracked phone screen,High,Completed,T005,2026-04-16 16:40:03,2026-04-17 01:05:48,960.0,1
+H-0496,Laptop,Battery,C053,01282864784,Laptop shuts down when unplugged,High,Completed,T002,2026-04-16 17:51:00,2026-04-17 06:51:57,210.0,0
+H-0497,Laptop,Software,C186,01024231980,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-04-16 18:55:36,2026-04-17 02:11:15,150.0,0
+H-0498,Phone,Screen,C131,01149796755,Touch does not respond in some areas,Normal,Completed,T005,2026-04-17 18:38:08,2026-04-22 08:03:54,995.0,2
+H-0499,Printer,Print Quality,C111,01098907793,Colors are wrong in printed documents,Normal,Completed,T004,2026-04-18 11:15:34,2026-04-19 00:25:53,1275.0,2
+H-0500,Phone,Software,C285,01026507728,Apps keep crashing after an update,Low,Completed,T005,2026-04-18 13:17:28,2026-04-19 01:35:22,95.0,0
+H-0501,Laptop,Overheating,C206,01179745920,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-04-18 14:30:44,2026-04-18 22:01:58,515.0,2
+H-0502,Printer,Ink System,C192,01033966246,Ink is leaking inside the printer,Normal,Completed,T003,2026-04-19 13:34:22,2026-04-20 08:04:09,1865.0,3
+H-0503,Laptop,Screen,C290,01144099362,Screen flickers and shows vertical lines,High,Completed,T002,2026-04-19 19:11:32,2026-04-21 08:04:01,1370.0,1
+H-0504,Phone,Charging Port,C089,01188171942,Charging port is loose,Low,Completed,T006,2026-04-20 13:58:31,2026-04-21 15:01:51,370.0,1
+H-0505,Laptop,Software,C021,01002995469,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-04-20 18:20:50,2026-04-21 07:00:47,130.0,0
+H-0506,Laptop,Battery,C032,01051abc172,Laptop battery drains within an hour,High,Completed,T001,2026-04-21 10:45:49,2026-04-22 11:41:01,815.0,1
+H-0507,Printer,Ink System,C044,01134600086,Ink is leaking inside the printer,Low,Completed,T004,2026-04-21 11:45:32,2026-04-26 07:12:38,975.0,1
+H-0508,Phone,Charging Port,C095,01187574601,Charging port is loose,High,Completed,T005,2026-04-21 13:36:01,2026-04-24 03:04:01,330.0,1
+H-0509,Printer,Ink System,C240,01025399975,Ink is leaking inside the printer,Low,Completed,T003,2026-04-21 13:46:43,2026-04-22 02:35:26,1445.0,2
+H-0510,Laptop,Screen,C187,01201412657,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-04-21 14:56:00,2026-04-26 13:01:59,1470.0,1
+H-0511,Phone,Battery,C073,01264910159,Phone turns off at 30 percent,Normal,Completed,T005,2026-04-22 10:44:16,2026-04-23 12:05:32,130.0,0
+H-0512,Phone,Software,C237,03542432278,Phone is stuck on the boot logo,High,Completed,T005,2026-04-22 13:23:28,2026-04-26 05:29:52,110.0,0
+H-0512,Phone,Software,C237,03542432278,Phone is stuck on the boot logo,High,Completed,T005,2026-04-22 13:23:28,2026-04-26 05:29:52,110.0,0
+H-0513,Phone,Screen,C101,01595902638,Touch does not respond in some areas,Low,Completed,T005,2026-04-22 17:41:01,2026-04-24 12:24:10,185.0,1
+H-0514,Printer,Paper Jam,C206,01179745920,Paper keeps jamming inside the printer,High,Completed,T004,2026-04-24 08:34:58,2026-04-28 03:13:20,405.0,1
+H-0515,Phone,Screen,C094,01586696461,Touch does not respond in some areas,Normal,Completed,T006,2026-04-24 16:20:01,2026-04-28 01:04:59,1045.0,2
+H-0516,Phone,Screen,C090,01532196485,Cracked phone screen,High,Completed,T006,2026-04-25 11:02:25,2026-04-28 03:12:09,960.0,1
+H-0517,Phone,Screen,C090,01532196485,Cracked phone screen,High,Completed,T005,2026-04-25 17:04:57,2026-04-26 01:25:24,175.0,0
+H-0518,Laptop,Software,C073,01264910159,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-04-25 17:15:26,2026-04-26 09:36:59,140.0,0
+H-0519,Laptop,Software,C172,01246675292,Windows will not boot,Normal,Completed,T001,2026-04-25 17:55:42,2026-04-26 08:26:52,100.0,0
+H-0520,Laptop,Overheating,C284,01034185886,Laptop gets very hot and the fan is loud,High,Completed,T002,2026-04-26 09:22:42,2026-04-27 02:23:15,535.0,1
+H-0521,Laptop,Overheating,C191,01071823965,Laptop gets very hot and the fan is loud,High,Completed,T002,2026-04-26 10:06:38,2026-04-27 01:04:31,510.0,2
+H-0522,printer ,Paper Jam,C172,01246675292,Printer pulls several sheets at once,Normal,Completed,T004,2026-04-26 11:45:41,2026-04-26 15:12:46,65.0,0
+H-0523,Printer,Ink System,C248,01264764062,Printer says the ink cartridge is not recognized,High,Completed,T004,2026-04-26 13:39:24,2026-04-26 18:20:05,620.0,1
+H-0523,Printer,Ink System,C248,01264764062,Printer says the ink cartridge is not recognized,High,Completed,T004,2026-04-26 13:39:24,2026-04-26 18:20:05,620.0,1
+H-0524,Printer,Ink System,C102,01063169564,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-04-27 08:49:49,2026-04-28 11:09:47,1430.0,2
+H-0525,Phone,Charging Port,C090,01532196485,Phone does not charge unless the cable is held,Normal,Completed,T006,2026-04-27 09:35:52,2026-04-28 11:12:11,405.0,1
+H-0526,Phone,Screen,C077,01009321821,Touch does not respond in some areas,Low,Completed,T005,2026-04-27 10:05:33,2026-04-30 00:22:20,1005.0,2
+H-0527,Printer,Ink System,C057,01290993717,Ink is leaking inside the printer,Normal,Completed,T004,2026-04-27 18:01:31,2026-04-28 15:29:40,990.0,1
+H-0528,Laptop,Battery,C209,01016157862,Laptop shuts down when unplugged,High,Completed,T002,2026-04-27 18:51:49,2026-04-29 13:06:29,775.0,1
+H-0529,Phone,Screen,C089,01188171942,Cracked phone screen,Normal,Completed,T005,2026-04-28 13:45:15,2026-05-04 07:31:02,1005.0,1
+H-0530,Printer,Connectivity,C121,01012972810,Computer cannot find the printer by USB,High,Completed,T003,2026-04-28 17:04:03,2026-04-28 23:00:50,115.0,0
+H-0531,Laptop,Battery,C186,01024231980,Laptop battery drains within an hour,Normal,Completed,T002,2026-04-30 09:01:57,2026-04-30 23:13:57,1270.0,2
+H-0532,Printer,Ink System,C053,01282864784,Printer says the ink cartridge is not recognized,High,Completed,T003,2026-04-30 12:58:50,2026-05-01 12:13:41,550.0,1
+H-0533,Laptop,Overheating,C134,01018869327,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-04-30 14:50:03,2026-05-04 16:58:56,510.0,2
+H-0534,Phone,Software,C181,01571989096,Phone is stuck on the boot logo,Normal,Completed,T006,2026-04-30 15:56:52,2026-04-30 22:12:02,80.0,0
+H-0535,Printer,Ink System,C234,01019338535,Printer says the ink cartridge is not recognized,High,Completed,T004,2026-04-30 17:55:12,2026-04-30 23:46:16,105.0,0
+H-0536,Laptop,Software,C003,01081029134,Windows will not boot,Low,Completed,T001,2026-04-30 20:19:24,2026-05-01 06:42:00,170.0,0
+H-0537,Phone,Screen,C228,01008773778,Touch does not respond in some areas,High,Completed,T006,2026-05-01 15:25:14,2026-05-02 10:18:36,960.0,1
+H-0538,Laptop,Software,C237,01542432278,Laptop is very slow and needs a system reinstall,High,Completed,T001,2026-05-03 13:19:55,2026-05-03 16:34:59,190.0,0
+H-0539,Printer,Print Quality,C124,01199030899,Printed pages have lines and faded text,Normal,Completed,T004,2026-05-03 15:22:10,2026-05-03 23:14:00,120.0,0
+H-0540,Printer,Paper Jam,C015,03052747547,Printer pulls several sheets at once,Low,Completed,T004,2026-05-03 17:08:10,2026-05-04 06:21:24,130.0,0
+H-0541,Laptop,Overheating,C115,01110600249,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-05-03 17:15:23,2026-05-05 17:50:37,565.0,2
+H-0542,Laptop,Overheating,C285,01026507728,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-05-04 12:40:58,2026-05-05 22:58:08,505.0,2
+H-0543,Phone,,C142,01099099063,Cracked phone screen,High,Completed,T005,2026-05-04 13:43:12,2026-05-05 12:56:11,1045.0,2
+H-0544,Phone,Charging Port,C269,01582155523,Charging port is loose,Normal,Completed,T005,2026-05-04 14:12:12,2026-05-05 08:46:49,565.0,2
+H-0545,Laptop,Overheating,C142,01099099063,Laptop gets very hot and the fan is loud,Low,Completed,T001,2026-05-07 16:37:11,2026-05-09 04:17:44,605.0,2
+H-0546,Laptop,Overheating,C116,01205845336,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-05-09 10:42:21,2026-05-10 03:12:03,265.0,1
+H-0547,Printer,Paper Jam,C138,01062907515,Printer pulls several sheets at once,Low,Completed,T004,2026-05-09 10:58:41,2026-05-09 21:06:40,390.0,1
+H-0548,Printer,Paper Jam,C116,01205845336,Paper keeps jamming inside the printer,Low,Completed,T004,2026-05-09 11:05:16,2026-05-09 19:34:07,725.0,2
+H-0549,Phone,Battery,C035,01538711667,Phone battery drains very fast,Normal,Completed,T005,2026-05-09 13:02:11,2026-05-09 20:29:43,530.0,1
+H-0550,Phone,Charging Port,C089,01188171942,Phone does not charge unless the cable is held,Low,Completed,T006,2026-05-09 13:56:09,2026-05-11 10:48:28,420.0,1
+H-0551, Phone,Screen,C073,01264910159,Touch does not respond in some areas,Low,Completed,T006,2026-05-09 16:16:03,2026-05-11 06:03:12,,1
+H-0552,Phone,Battery,C156,01096748111,Phone battery drains very fast,Normal,Completed,T005,2026-05-09 20:06:09,2026-05-15 13:33:29,135.0,1
+H-0553,Laptop,Software,C237,01542432278,Windows will not boot,Low,Completed,T002,2026-05-09 20:20:41,2026-05-10 11:38:31,100.0,0
+H-0554,Laptop,Overheating,C039,01048926553,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-05-09 20:31:54,2026-05-11 03:33:00,600.0,2
+H-0555,Phone,Screen,C058,01065209883,Touch does not respond in some areas,Low,Completed,T006,2026-05-10 11:37:09,2026-05-12 07:59:03,1045.0,1
+H-0556,Laptop,Software,C240,01025399975,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2026-05-10 11:45:26,2026-05-13 15:16:56,95.0,0
+H-0557,Phone,Battery,C070,01144853508,Phone battery drains very fast,Low,Completed,T006,2026-05-10 13:36:46,2026-05-11 17:51:51,120.0,1
+H-0558,Laptop,Screen,C054,01209906180,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-05-10 16:14:48,2026-05-12 14:11:03,1420.0,1
+H-0559,Printer,Connectivity,C053,01282864784,Printer is not detected over Wi-Fi,Low,Completed,T004,2026-05-11 12:53:11,2026-05-12 14:29:57,190.0,0
+H-0559,Printer,Connectivity,C053,01282864784,Printer is not detected over Wi-Fi,Low,Completed,T004,2026-05-11 12:53:11,2026-05-12 14:29:57,190.0,0
+H-0560,Laptop,Software,C053,01282864784,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-05-11 13:51:31,2026-05-12 02:53:55,135.0,0
+H-0561,Phone,Software,C205,01549530061,Apps keep crashing after an update,Low,Completed,T006,2026-05-11 21:14:48,2026-05-12 11:26:05,80.0,0
+H-0562,Laptop,Keyboard,C237,01542432278,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2026-05-12 11:37:36,2026-05-13 03:12:06,490.0,1
+H-0563,Phone,Screen,C130,01542332649,Touch does not respond in some areas,Normal,Completed,T005,2026-05-12 12:33:07,2026-05-14 03:56:22,1045.0,2
+H-0564,Printer,Ink System,C073,03264910159,Ink is leaking inside the printer,Low,Completed,T004,2026-05-12 13:23:21,2026-05-12 23:16:28,1010.0,1
+H-0565,Printer,Paper Jam,C094,01586696461,Printer pulls several sheets at once,Low,Completed,T004,2026-05-13 10:31:51,2026-05-13 20:59:55,70.0,0
+H-0566,Printer,Ink System,C008,01010478569,Ink is leaking inside the printer,Low,Completed,T003,2026-05-13 11:31:49,2026-05-14 21:52:39,545.0,1
+H-0567,Laptop,Overheating,C249,01290518632,Laptop gets very hot and the fan is loud,Low,Completed,T002,2026-05-14 14:43:12,2026-05-18 18:29:41,485.0,2
+H-0568,Laptop,Keyboard,C111,01098907793,Several keys are not responding,Normal,Completed,T001,2026-05-14 17:45:13,2026-05-15 10:41:46,455.0,1
+H-0569,Printer,Connectivity,C101,01595902638,Computer cannot find the printer by USB,Normal,Completed,T004,2026-05-14 18:26:33,2026-05-14 23:26:01,95.0,0
+H-0570,Laptop,Screen,C227,01296346141,Screen flickers and shows vertical lines,High,Completed,T001,2026-05-14 19:07:59,2026-05-15 11:42:25,1515.0,1
+H-0571,Laptop,Battery,C230,01172127014,Laptop battery drains within an hour,Normal,Completed,T002,2026-05-15 12:24:28,2026-05-17 00:36:40,765.0,1
+H-0572,Laptop,Keyboard,C116,01205845336,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2026-05-15 17:06:53,2026-05-17 15:39:40,485.0,1
+H-0573,Printer,Connectivity,C111,01098907793,Printer is not detected over Wi-Fi,Low,Completed,T004,2026-05-15 19:39:51,2026-05-16 20:10:59,140.0,0
+H-0574,Laptop,Software,C124,01199030899,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-05-16 15:41:38,2026-05-17 00:02:29,120.0,0
+H-0575,Laptop,Screen,C032,01051870172,Cracked laptop screen,Low,Completed,T001,2026-05-17 16:26:11,2026-05-22 20:05:24,1440.0,1
+H-0576,Phone,Screen,C250,01138977373,Touch does not respond in some areas,Low,Completed,T006,2026-05-18 10:43:28,2026-05-23 14:22:06,1085.0,1
+H-0577,Printer,Paper Jam,C090,01532196485,Printer pulls several sheets at once,Low,Completed,T004,2026-05-18 15:45:00,2026-05-19 03:29:11,85.0,0
+H-0578,Printer,Ink System,C187,01201412657,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-05-18 18:42:08,2026-05-19 15:37:01,610.0,1
+H-0579,Phone,Screen,C206,01179745920,Cracked phone screen,Low,Completed,T006,2026-05-18 19:58:01,2026-05-21 03:29:55,985.0,1
+H-0580,Laptop,,C209,01016157862,Windows will not boot,High,Completed,T002,2026-05-19 08:10:06,2026-05-19 10:00:52,185.0,0
+H-0581,Printer,Ink System,C274,01269537097,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-05-19 11:33:58,2026-05-20 04:29:01,1440.0,2
+H-0582,Phone,Software,C266,010532519,Apps keep crashing after an update,Low,Completed,T005,2026-05-19 16:43:48,2026-05-20 06:18:26,105.0,0
+H-0583,Phone,Software,C199,01094505384,Apps keep crashing after an update,Low,Completed,T006,2026-05-20 10:00:48,2026-05-21 07:19:27,60.0,0
+H-0584,Laptop,Screen,C172,01246675292,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-05-20 15:50:18,2026-05-22 22:42:44,1480.0,1
+H-0585,Laptop,Keyboard,C205,01549530061,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2026-05-20 16:45:31,2026-05-21 13:27:06,465.0,1
+H-0586,Laptop,Screen,C240,01025399975,Cracked laptop screen,Low,Completed,T001,2026-05-20 18:11:56,2026-05-22 18:34:55,1375.0,1
+H-0587,Laptop,Software,C219,01042495797,Windows will not boot,Low,Completed,T001,2026-05-20 21:25:36,2026-05-21 09:12:40,115.0,0
+H-0588,Phone,Battery,C142,01099099063,Phone battery drains very fast,Normal,Completed,T005,2026-05-21 13:25:31,2026-05-22 19:11:59,520.0,2
+H-0589,Printer,Paper Jam,C206,01179745920,Printer pulls several sheets at once,High,Completed,T004,2026-05-21 13:46:18,2026-05-21 16:17:44,110.0,0
+H-0590,Phone,Battery,C142,01099099063,Phone battery drains very fast,Normal,Completed,T006,2026-05-21 15:18:27,2026-05-22 13:08:55,515.0,1
+H-0591,Printer,Paper Jam,C258,01081196124,Printer pulls several sheets at once,Normal,Completed,T004,2026-05-21 16:10:24,2026-05-21 21:43:15,675.0,2
+H-0592,Laptop,Software,C068,01006950641,Windows will not boot,Normal,Completed,T001,2026-05-21 17:05:46,2026-05-21 21:48:45,,0
+H-0593,Laptop,Keyboard,C261,01039272541,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2026-05-21 20:59:43,2026-05-23 09:05:47,450.0,1
+H-0594,Printer,Paper Jam,C025,01028352028,,Normal,Completed,T004,2026-05-23 14:40:42,2026-05-23 18:12:16,105.0,0
+H-0595,Printer,Ink System,C211,01061222337,Ink is leaking inside the printer,Normal,Completed,T004,2026-05-23 15:15:26,2026-05-24 14:08:46,1040.0,1
+H-0596,Phone,Battery,C117,01039596730,Phone turns off at 30 percent,Normal,Completed,T006,2026-05-23 16:47:55,2026-05-28 17:33:07,130.0,1
+H-0597,Phone,Battery,C102,01063169564,Phone battery drains very fast,High,Completed,T006,2026-05-23 17:49:29,2026-05-24 09:12:22,185.0,1
+H-0598,PRINTER,Ink System,C262,01265654745,Printer says the ink cartridge is not recognized,High,Completed,T003,2026-05-23 21:01:14,2026-05-24 00:46:34,,1
+H-0599,Printer,Connectivity,C087,01017781446,Computer cannot find the printer by USB,Normal,Completed,T003,2026-05-24 13:43:37,2026-05-29 02:12:35,220.0,1
+H-0600,Phone,Software,C089,01188171942,Phone is stuck on the boot logo,Low,Completed,T006,2026-05-24 14:11:09,2026-05-24 23:39:39,150.0,0
+H-0601,Phone,Screen,C223,01264851372,Touch does not respond in some areas,High,Completed,T005,2026-05-24 16:15:11,2026-05-25 07:30:11,1175.0,2
+H-0602,Laptop,Battery,C240,01025399975,Laptop battery drains within an hour,Low,Completed,T002,2026-05-25 09:35:59,2026-05-26 18:54:34,830.0,1
+H-0603,Printer,Connectivity,C165,01223422567,Printer is not detected over Wi-Fi,High,Completed,T004,2026-05-25 10:58:20,2026-05-26 00:43:20,295.0,1
+H-0604,Printer,Paper Jam,C111,01098907793,Printer pulls several sheets at once,Low,Completed,T004,2026-05-25 11:33:56,2026-05-25 19:36:55,395.0,1
+H-0605,Phone,Charging Port,C173,01206323966,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-05-25 16:59:59,2026-05-26 09:01:01,425.0,1
+H-0606,Laptop,Overheating,C185,01023771437,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-05-25 17:59:55,2026-05-26 02:44:02,550.0,2
+H-0607,Phone,,C228,01008773778,Phone turns off at 30 percent,High,Completed,T006,2026-05-26 10:45:58,2026-05-27 04:03:05,555.0,2
+H-0608,Printer,Print Quality,C223,01264851372,Printed pages have lines and faded text,High,Completed,T003,2026-05-26 12:18:18,2026-05-26 18:47:21,110.0,0
+H-0609,Laptop,Battery,C234,01019338535,Laptop shuts down when unplugged,Low,Completed,T001,2026-05-26 12:21:21,2026-05-28 06:24:37,1300.0,2
+H-0610,Printer,Ink System,C231,01189491556,Printer says the ink cartridge is not recognized,Normal,Completed,T004,2026-05-26 15:16:35,2026-05-27 08:46:25,530.0,1
+H-0611,Laptop,Keyboard,C157,01065181552,Keyboard keys stuck after a liquid spill,Normal,Completed,T001,2026-05-27 11:48:32,2026-05-29 07:58:53,115.0,0
+H-0612,Printer,Ink System,C090,01532196485,Ink is leaking inside the printer,Normal,Completed,T003,2026-05-27 14:40:39,2026-05-27 23:42:30,560.0,1
+H-0613,Phone,Software,C027,01055156131,Phone is stuck on the boot logo,Normal,Completed,T005,2026-05-28 13:20:19,2026-05-28 18:32:16,135.0,0
+H-0614,Printer,Ink System,C101,01595902638,Ink is leaking inside the printer,High,Completed,T004,2026-05-28 14:11:24,2026-05-28 21:03:26,1060.0,1
+H-0615,Laptop,Overheating,C248,01264764062,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-05-28 21:22:42,2026-05-30 02:53:22,545.0,2
+H-0616,Printer,Connectivity,C053,012828647,Computer cannot find the printer by USB,Normal,Completed,T004,2026-05-30 18:25:04,2026-05-31 06:59:24,85.0,0
+H-0617,Laptop,Screen,C139,01295384988,Screen flickers and shows vertical lines,High,Completed,T001,2026-05-31 11:53:10,2026-05-31 21:12:04,210.0,0
+H-0618,Laptop,Screen,C115,01110600249,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-05-31 13:33:39,2026-06-05 00:44:10,275.0,0
+H-0619,Printer,Paper Jam,C054,01209906180,Paper keeps jamming inside the printer,High,Completed,T003,2026-05-31 17:20:23,2026-05-31 21:11:06,115.0,0
+H-0620,Laptop,Overheating,C052,01074722636,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-05-31 17:36:13,2026-06-02 21:54:37,465.0,2
+H-0621,Printer,Ink System,C266,01053251931,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-06-01 10:38:02,2026-06-02 07:35:17,1000.0,1
+H-0622,Phone,Battery,C089,01188171942,Phone battery drains very fast,Normal,Completed,T006,2026-06-01 11:01:36,2026-06-03 00:08:42,505.0,1
+H-0623,Printer,Connectivity,C046,01592294341,Computer cannot find the printer by USB,Normal,Completed,T004,2026-06-01 11:43:46,2026-06-01 21:05:44,100.0,0
+H-0624,Laptop,Overheating,C206,01179745920,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-06-01 14:32:23,2026-06-01 22:13:38,415.0,1
+H-0625,Laptop,Screen,C102,01063169564,Cracked laptop screen,Low,Completed,T002,2026-06-01 18:02:32,2026-06-09 00:35:18,1405.0,1
+H-0626,Laptop,Overheating,C208,01040835542,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-06-02 16:23:29,2026-06-03 09:09:55,530.0,2
+H-0627,Laptop,Screen,C258,01081196124,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-06-03 19:03:01,2026-06-04 12:39:49,180.0,0
+H-0628,Laptop,Battery,C090,01532196485,Laptop battery drains within an hour,Normal,Completed,T002,2026-06-04 13:32:10,2026-06-05 07:37:38,825.0,1
+H-0629,Laptop,Overheating,C244,01069771957,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-06-04 13:41:38,2026-06-05 02:52:33,440.0,1
+H-0630,Laptop,Software,C134,01018869327,Laptop is very slow and needs a system reinstall,High,Completed,T002,2026-06-04 19:36:44,2026-06-04 23:29:53,165.0,0
+H-0631,Laptop,Software,C227,01296346141,Windows will not boot,Normal,Completed,T001,2026-06-04 20:18:33,2026-06-05 02:40:33,110.0,0
+H-0632,Laptop,Software,C248,01264764062,Windows will not boot,High,Completed,T001,2026-06-05 10:00:40,2026-06-05 14:09:30,155.0,0
+H-0633,Printer,Connectivity,C073,01264910159,Printer is not detected over Wi-Fi,Normal,Completed,T003,2026-06-05 11:02:10,2026-06-05 17:30:52,70.0,0
+H-0634,Laptop,Screen,C111,01098907793,Screen flickers and shows vertical lines,High,Completed,T001,2026-06-06 10:31:32,2026-06-07 07:53:06,1455.0,1
+H-0635,Printer,Ink System,C081,01018565769,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-06-06 12:45:30,2026-06-11 03:55:19,1015.0,1
+H-0636,Printer,Connectivity,C112,01013266206,Computer cannot find the printer by USB,High,Completed,T003,2026-06-06 13:52:05,2026-06-06 20:24:12,145.0,0
+H-0637,Laptop,Battery,C019,01015762495,Laptop shuts down when unplugged,Low,Completed,T001,2026-06-06 19:20:05,2026-06-08 12:52:57,1295.0,2
+H-0638,Laptop,Screen,C102,01063169564,Screen flickers and shows vertical lines,High,Completed,T001,2026-06-07 12:39:53,2026-06-10 14:23:21,1595.0,1
+H-0639,Phone,Screen,C203,01518413921,Touch does not respond in some areas,Normal,Completed,T005,2026-06-07 12:44:51,2026-06-08 05:25:13,965.0,1
+H-0640,Laptop,Overheating,C126,01093192908,Laptop gets very hot and the fan is loud,Low,Completed,T002,2026-06-07 16:47:44,2026-06-10 20:43:05,495.0,2
+H-0641,Phone,Screen,C190,01045319193,Touch does not respond in some areas,Normal,Completed,T006,2026-06-07 19:10:10,2026-06-11 05:21:39,1080.0,2
+H-0642,Printer,Paper Jam,C033,01092073207,Printer pulls several sheets at once,Low,Completed,T003,2026-06-07 19:11:06,2026-06-07 22:22:56,145.0,0
+H-0643,Laptop,Overheating,C027,01055156131,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-06-08 12:05:50,2026-06-09 18:25:57,570.0,2
+H-0644,Laptop,Screen,C145,01219697982,Screen flickers and shows vertical lines,High,Completed,T002,2026-06-08 17:45:26,2026-06-10 13:25:12,1395.0,1
+H-0645,Laptop,Overheating,C095,01187574601,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2026-06-09 13:41:35,2026-06-10 19:39:31,410.0,1
+H-0646,Phone,Screen,C072,01529006642,Cracked phone screen,Low,Completed,T005,2026-06-10 10:56:37,2026-06-12 14:31:37,195.0,1
+H-0647,Laptop,Screen,C112,01013266206,Cracked laptop screen,Normal,Completed,T001,2026-06-10 13:47:02,2026-06-11 14:31:56,,1
+H-0648,Printer,Connectivity,C157,01065181552,Computer cannot find the printer by USB,High,Completed,T004,2026-06-10 17:53:05,2026-06-11 00:24:51,125.0,0
+H-0649,Printer,Ink System,C089,01188171942,Ink is leaking inside the printer,Normal,Completed,T004,2026-06-10 18:11:46,2026-06-11 02:41:45,530.0,1
+H-0650,Phone,Screen,C068,01006950641,Cracked phone screen,Normal,Completed,T006,2026-06-10 20:35:28,2026-06-12 06:52:47,1035.0,2
+H-0651,Laptop,Keyboard,C247,01048003099,Keyboard keys stuck after a liquid spill,Low,Completed,T001,2026-06-11 10:25:08,2026-06-12 14:52:21,505.0,1
+H-0652,Laptop,Overheating,C211,01061222337,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-06-11 13:38:08,2026-06-13 03:20:35,240.0,1
+H-0653,Printer,Ink System,C143,01552188715,Ink is leaking inside the printer,Low,Completed,T004,2026-06-11 16:24:00,2026-06-12 20:45:21,1015.0,1
+H-0654,Printer,Paper Jam,C090,01532196485,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-06-11 16:41:10,2026-06-11 21:56:06,95.0,0
+H-0655,Phone,Screen,C199,01094505384,Cracked phone screen,Normal,Completed,T006,2026-06-11 19:23:23,2026-06-14 22:43:40,1065.0,1
+H-0656,Laptop,Overheating,C205,01549530061,Laptop shuts down by itself after heavy use,Low,Completed,T001,2026-06-11 20:18:43,2026-06-13 03:43:22,450.0,2
+H-0657,Printer,Connectivity,C090,01532196485,Computer cannot find the printer by USB,Normal,Completed,T004,2026-06-12 17:19:14,2026-06-13 05:46:45,110.0,0
+H-0658,Phone,Battery,C165,01223422567,Phone turns off at 30 percent,High,Completed,T006,2026-06-13 17:43:48,2026-06-14 01:32:36,160.0,1
+H-0659,Printer,Paper Jam,C003,01081029134,Printer pulls several sheets at once,Normal,Completed,T003,2026-06-14 08:18:07,2026-06-14 13:54:24,80.0,0
+H-0660,Laptop,Software,C276,01267231235,Windows will not boot,Normal,Completed,T001,2026-06-14 13:34:16,2026-06-16 21:29:42,185.0,0
+H-0661,Laptop,Battery,C056,01109519358,Laptop battery drains within an hour,Normal,Completed,T002,2026-06-15 11:54:18,2026-06-16 14:20:25,,1
+H-0662,Printer,Connectivity,C087,01017781446,Computer cannot find the printer by USB,Normal,Completed,T003,2026-06-15 14:36:00,2026-06-16 03:48:24,110.0,0
+H-0663,Phone,Screen,C130,01542332649,Touch does not respond in some areas,Normal,Completed,T006,2026-06-15 15:58:08,2026-06-16 16:39:21,1110.0,2
+H-0664,Phone,Software,C090,01532196485,Apps keep crashing after an update,Normal,Completed,T006,2026-06-15 18:34:39,2026-06-16 04:02:40,120.0,0
+H-0665,Phone,Screen,C165,01223422567,Cracked phone screen,Normal,Completed,T006,2026-06-15 19:49:55,2026-06-17 01:06:07,980.0,1
+H-0666,Laptop,Overheating,C133,01015816786,Laptop gets very hot and the fan is loud,Low,Completed,T001,2026-06-16 10:48:54,2026-06-18 12:45:39,485.0,2
+H-0667,Phone,Screen,C090,01532196485,Touch does not respond in some areas,Normal,Completed,T005,2026-06-16 18:07:01,2026-06-17 11:20:19,950.0,1
+H-0668,Printer,Ink System,C053,01282864784,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-06-17 10:08:34,2026-06-18 10:08:13,2330.0,3
+H-0669,Laptop,Overheating,C240,01025399975,Laptop gets very hot and the fan is loud,High,Completed,T002,2026-06-17 10:22:12,2026-06-21 09:13:09,525.0,2
+H-0670,Phone,Charging Port,C053,01282864784,Charging port is loose,High,Completed,T005,2026-06-17 13:20:38,2026-06-18 11:06:29,540.0,2
+H-0670,Phone,Charging Port,C053,01282864784,Charging port is loose,High,Completed,T005,2026-06-17 13:20:38,2026-06-18 11:06:29,540.0,2
+H-0671,Laptop,Software,C083,01219088514,Windows will not boot,Normal,Completed,T001,2026-06-17 20:08:32,2026-06-18 06:46:14,140.0,0
+H-0672,Printer,Connectivity,C294,01154716627,Computer cannot find the printer by USB,Low,Completed,T003,2026-06-18 09:11:51,2026-06-19 06:57:13,95.0,0
+H-0673,Phone,Battery,C100,01033457730,Phone turns off at 30 percent,Low,Completed,T006,2026-06-18 11:19:03,2026-06-20 22:27:24,,2
+H-0674,Phone,Screen,C153,01013939738,Cracked phone screen,Normal,Completed,T006,2026-06-19 12:47:56,2026-06-21 07:51:11,1005.0,2
+H-0675,Printer,Paper Jam,C118,01233895684,Printer pulls several sheets at once,Normal,Completed,T003,2026-06-20 13:49:15,2026-06-20 17:51:29,75.0,0
+H-0676,Printer,Paper Jam,C134,01018869327,Printer pulls several sheets at once,High,Completed,T004,2026-06-20 19:17:58,2026-06-20 22:43:18,370.0,1
+H-0677,Laptop,Overheating,C230,01172127014,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-06-21 10:01:36,2026-06-22 05:41:33,570.0,1
+H-0678, Phone,Charging Port,C073,01264910159,Phone does not charge unless the cable is held,High,Completed,T005,2026-06-21 11:14:14,2026-06-21 22:58:15,425.0,1
+H-0679,Printer,Paper Jam,C266,01053251931,Printer pulls several sheets at once,Normal,Completed,T003,2026-06-21 13:56:45,2026-06-21 16:36:59,90.0,0
+H-0680,Phone,Battery,C295,01149088021,Phone battery drains very fast,Normal,Completed,T005,2026-06-22 12:12:08,2026-06-23 12:44:42,530.0,2
+H-0681,Laptop,Overheating,C111,01098907793,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-06-22 13:24:13,2026-06-23 02:23:10,520.0,2
+H-0682,Phone,Software,C187,01201412657,Phone is stuck on the boot logo,Low,Completed,T006,2026-06-22 13:28:17,2026-06-23 11:41:30,105.0,0
+H-0683,Printer,Connectivity,C050,01024897886,Printer is not detected over Wi-Fi,Low,Completed,T003,2026-06-22 16:05:40,2026-06-23 02:07:06,105.0,0
+H-0684,Phone,Battery,C172,01246675292,Phone battery drains very fast,Normal,Completed,T005,2026-06-22 18:20:17,2026-06-23 11:40:02,525.0,2
+H-0685,Laptop,Software,C156,01096748111,Windows will not boot,Normal,Completed,T002,2026-06-23 08:24:06,2026-06-23 20:21:06,130.0,0
+H-0686,Phone,Charging Port,C118,01233895684,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-06-23 09:04:49,2026-06-23 19:43:31,125.0,0
+H-0687,Laptop,Overheating,C117,01039596730,Laptop gets very hot and the fan is loud,Low,Completed,T001,2026-06-23 12:01:35,2026-06-25 04:36:44,475.0,2
+H-0688,Laptop,Screen,C050,01024897886,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-06-25 09:28:25,2026-06-27 05:34:57,1450.0,1
+H-0689,Laptop,Battery,C035,01538711667,Laptop battery drains within an hour,Normal,Completed,T001,2026-06-25 14:51:23,2026-06-28 09:41:38,795.0,1
+H-0690,Printer,Connectivity,C030,01030491134,Computer cannot find the printer by USB,High,Completed,T003,2026-06-25 17:09:06,2026-06-26 00:07:10,80.0,0
+H-0691,Laptop,Keyboard,C208,01040835542,Keyboard keys stuck after a liquid spill,High,Completed,T001,2026-06-27 09:53:19,2026-06-27 23:17:56,480.0,1
+H-0692,Laptop,Software,C190,01045319193,Windows will not boot,Normal,Completed,T002,2026-06-27 10:26:40,2026-06-27 17:20:13,190.0,0
+H-0693,Laptop,Battery,C223,01264851372,Laptop battery drains within an hour,Low,Completed,T001,2026-06-27 16:02:22,2026-06-28 13:29:27,775.0,1
+H-0694,Phone,Screen,C013,01245890482,Touch does not respond in some areas,Normal,Completed,T006,2026-06-27 17:25:33,2026-06-29 06:14:14,1030.0,2
+H-0695,PHONE,Charging Port,C004,01275835401,Phone does not charge unless the cable is held,Low,Completed,T005,2026-06-28 09:11:28,2026-07-01 08:01:50,385.0,1
+H-0696,Laptop,Overheating,C142,01099099063,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-06-28 10:52:38,2026-06-29 22:34:39,160.0,0
+H-0697,Phone,Battery,C272,01151646838,,Normal,Completed,T006,2026-06-28 12:59:32,2026-06-29 19:35:57,520.0,2
+H-0698,Printer,Connectivity,C027,01055156131,Computer cannot find the printer by USB,Normal,Completed,T003,2026-06-28 16:05:33,2026-06-28 19:54:49,95.0,0
+H-0699,Laptop,Software,C223,01264851372,Windows will not boot,Normal,Completed,T001,2026-06-28 16:45:23,2026-06-28 22:03:55,125.0,0
+H-0700,Phone,Charging Port,C134,01018869327,Charging port is loose,Normal,Completed,T006,2026-06-29 10:07:56,2026-07-04 00:14:43,440.0,1
+H-0701,Laptop,Battery,C138,01062907515,Laptop battery drains within an hour,Normal,Completed,T001,2026-06-29 11:00:02,2026-07-02 08:03:18,1295.0,2
+H-0702,Printer,Connectivity,C073,01264910159,Computer cannot find the printer by USB,Normal,Completed,T004,2026-06-29 11:53:32,2026-06-30 00:09:11,95.0,0
+H-0703,Phone,Software,C145,01219697982,Apps keep crashing after an update,Low,Completed,T006,2026-06-30 15:24:21,2026-07-01 01:47:09,140.0,0
+H-0704,Printer,Ink System,C003,01081029134,Ink is leaking inside the printer,Normal,Completed,T003,2026-06-30 16:33:25,2026-07-01 05:36:01,1030.0,1
+H-0705,Laptop,Keyboard,C053,01282864784,Several keys are not responding,Low,Completed,T001,2026-06-30 18:28:50,2026-07-04 05:48:46,475.0,1
+H-0706,Laptop,Screen,C147,01207636180,Cracked laptop screen,Low,Completed,T001,2026-07-01 11:22:15,2026-07-05 00:33:16,1425.0,1
+H-0707,Printer,Print Quality,C187,01201412657,Printed pages have lines and faded text,High,Completed,T004,2026-07-01 12:58:07,2026-07-02 01:37:06,2485.0,4
+H-0708,Phone,Software,C192,01033966246,Apps keep crashing after an update,High,Completed,T005,2026-07-02 11:41:48,2026-07-02 13:10:17,85.0,0
+H-0709,Laptop,Software,C134,01018869327,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-07-02 19:29:26,2026-07-03 03:12:37,170.0,0
+H-0710,Laptop,Software,C102,01063169564,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-07-03 17:27:38,2026-07-04 10:50:31,205.0,0
+H-0711,Laptop,Software,C199,01094505384,Windows will not boot,High,Completed,T002,2026-07-04 17:07:27,2026-07-04 19:54:40,160.0,0
+H-0712,Laptop,Battery,C115,01110600249,Laptop battery drains within an hour,Normal,Completed,T001,2026-07-04 17:15:14,2026-07-05 01:14:01,690.0,1
+H-0713,Laptop,Overheating,C116,01205845336,,High,Completed,T002,2026-07-04 18:49:27,2026-07-05 07:06:15,230.0,1
+H-0714,Laptop,Overheating,C261,01039272541,Laptop shuts down by itself after heavy use,Low,Completed,T002,2026-07-04 19:11:42,2026-07-07 14:09:57,285.0,0
+H-0714,Laptop,Overheating,C261,01039272541,Laptop shuts down by itself after heavy use,Low,Completed,T002,2026-07-04 19:11:42,2026-07-07 14:09:57,285.0,0
+H-0715,Phone,Charging Port,C022,01247453008,Charging port is loose,High,Completed,T005,2026-07-05 17:16:49,2026-07-07 10:10:15,240.0,1
+H-0716,Phone,Screen,C166,01200895892,Touch does not respond in some areas,High,Completed,T006,2026-07-05 18:45:29,2026-07-06 08:27:47,250.0,1
+H-0716,Phone,Screen,C166,01200895892,Touch does not respond in some areas,High,Completed,T006,2026-07-05 18:45:29,2026-07-06 08:27:47,250.0,1
+H-0717,Phone,Screen,C105,01271491688,Touch does not respond in some areas,Normal,Completed,T005,2026-07-06 11:58:15,2026-07-07 03:47:44,250.0,1
+H-0717,Phone,Screen,C105,01271491688,Touch does not respond in some areas,Normal,Completed,T005,2026-07-06 11:58:15,2026-07-07 03:47:44,250.0,1
+H-0718,Printer,Connectivity,C059,01053142817,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-07-06 13:11:08,2026-07-06 20:54:17,90.0,0
+H-0719,Printer,Print Quality,C089,01188171942,Printed pages have lines and faded text,Normal,Completed,T004,2026-07-06 15:19:34,2026-07-11 03:36:16,1315.0,2
+H-0720,Printer,Paper Jam,C076,01579831578,Paper keeps jamming inside the printer,High,Completed,T003,2026-07-06 15:23:33,2026-07-06 17:35:38,100.0,0
+H-0721,Phone,Battery,C117,01039596730,Phone turns off at 30 percent,High,Completed,T006,2026-07-07 13:55:30,2026-07-08 02:34:54,545.0,2
+H-0722,Printer,Paper Jam,C204,01206583344,Paper keeps jamming inside the printer,High,Completed,T004,2026-07-08 11:25:43,2026-07-08 14:47:15,375.0,1
+H-0723,Printer,Ink System,C025,01028352028,Ink is leaking inside the printer,Low,Completed,T003,2026-07-08 11:50:28,2026-07-09 14:59:52,1000.0,1
+H-0724,Phone,Screen,C169,01007183486,Touch does not respond in some areas,High,Completed,T005,2026-07-08 13:52:36,2026-07-08 20:53:50,1005.0,1
+H-0725,Phone,Screen,C186,01024abc980,Touch does not respond in some areas,Normal,Completed,T006,2026-07-08 21:49:35,2026-07-10 01:49:43,1155.0,2
+H-0726,Laptop,Software,C266,01053251931,Windows will not boot,Low,Completed,T001,2026-07-09 10:40:55,2026-07-10 08:06:34,140.0,0
+H-0727,Printer,Paper Jam,C164,01220999476,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-07-09 13:13:15,2026-07-09 16:03:39,,0
+H-0728,Phone,Screen,C091,01220976066,Cracked phone screen,Normal,Completed,T006,2026-07-09 16:41:56,2026-07-11 05:54:30,1035.0,2
+H-0729,Laptop,Screen,C003,01081029134,Screen flickers and shows vertical lines,High,Completed,T001,2026-07-09 17:11:33,2026-07-10 09:21:45,1535.0,1
+H-0730,Laptop,Overheating,C248,01264764062,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-07-11 14:59:13,2026-07-12 22:58:54,530.0,1
+H-0731,Printer,Print Quality,C059,01053142817,Printed pages have lines and faded text,Normal,Completed,T004,2026-07-11 15:36:07,2026-07-12 03:44:51,105.0,0
+H-0732,Laptop,Software,C089,01188171942,Windows will not boot,Normal,Completed,T001,2026-07-11 17:50:45,2026-07-11 22:12:14,140.0,0
+H-0733,Printer,Connectivity,C116,01205845336,Computer cannot find the printer by USB,Normal,Completed,T003,2026-07-12 11:04:04,2026-07-12 23:24:06,105.0,0
+H-0734,Phone,Software,C116,01205845336,Phone is stuck on the boot logo,Normal,Completed,T006,2026-07-12 12:11:47,2026-07-13 01:45:52,110.0,0
+H-0735,Phone,Software,C092,01574352261,Phone is stuck on the boot logo,Normal,Completed,T005,2026-07-12 15:03:30,2026-07-13 00:05:11,105.0,0
+H-0736,Printer,Paper Jam,C285,01026507728,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-07-12 18:11:55,2026-07-13 06:18:23,420.0,1
+H-0737,Laptop,Software,C226,01245277174,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-07-12 20:03:40,2026-07-13 06:11:49,120.0,0
+H-0738,Phone,Charging Port,C156,01096748111,Charging port is loose,High,Completed,T006,2026-07-13 10:02:49,2026-07-14 06:42:23,405.0,1
+H-0739,Printer,Paper Jam,C143,01552188715,Printer pulls several sheets at once,Normal,Completed,T004,2026-07-13 11:27:24,2026-07-13 19:39:27,355.0,1
+H-0740,Laptop,Overheating,C134,01018869327,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-07-13 15:32:19,2026-07-19 11:46:26,510.0,2
+H-0741,Printer,Ink System,C116,01205845336,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-07-13 18:19:20,2026-07-14 06:23:53,565.0,1
+H-0742,Phone,Screen,C279,01048055989,Cracked phone screen,High,Completed,T006,2026-07-13 19:20:25,2026-07-14 11:16:43,,1
+H-0743,Laptop,Keyboard,C081,01018565769,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2026-07-14 08:17:47,2026-07-16 08:04:25,465.0,1
+H-0744,Laptop,Screen,C090,01532196485,Screen flickers and shows vertical lines,Normal,Completed,T001,2026-07-14 15:00:45,2026-07-18 02:39:58,1360.0,1
+H-0745,Laptop,Battery,C164,01220999476,Laptop battery drains within an hour,High,Completed,T001,2026-07-14 16:31:28,2026-07-15 01:13:32,725.0,1
+H-0746,Laptop,Keyboard,C201,01241303973,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2026-07-15 12:28:32,2026-07-16 13:53:18,510.0,1
+H-0747,Printer,Print Quality,C187,01201412657,Printed pages have lines and faded text,Normal,Completed,T004,2026-07-15 12:31:13,2026-07-16 10:15:51,520.0,1
+H-0748,Laptop,Overheating,C036,01266046114,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-07-16 08:08:52,2026-07-16 22:49:51,490.0,2
+H-0749,Phone,Battery,C296,01544859780,Phone turns off at 30 percent,Normal,Completed,T005,2026-07-16 10:01:15,2026-07-17 23:07:46,155.0,1
+H-0750,Phone,Charging Port,C115,01110600249,Phone does not charge unless the cable is held,High,Completed,T006,2026-07-16 19:07:52,2026-07-17 11:38:47,525.0,2
+H-0751,Laptop,Software,C089,01188171942,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-07-18 10:56:59,2026-07-18 18:59:30,295.0,0
+H-0752,Laptop,Software,C090,01532196485,Windows will not boot,Low,Completed,T002,2026-07-18 18:49:19,2026-07-19 16:02:43,180.0,0
+H-0753,Printer,Connectivity,C092,01574352261,Printer is not detected over Wi-Fi,High,Completed,T004,2026-07-18 19:15:29,2026-07-18 23:53:05,85.0,0
+H-0754,Printer,Paper Jam,C231,01189491556,Paper keeps jamming inside the printer,Low,Completed,T003,2026-07-19 08:56:11,2026-07-20 04:50:35,390.0,1
+H-0755,Phone,Screen,C156,01096748111,Cracked phone screen,High,Completed,T006,2026-07-19 10:33:47,2026-07-20 14:11:27,1065.0,1
+H-0756,Phone,Charging Port,C277,01192465021,Charging port is loose,Normal,Completed,T005,2026-07-19 10:42:13,2026-07-21 00:35:54,,0
+H-0757,laptop ,Keyboard,C248,01264764062,Keyboard keys stuck after a liquid spill,Low,Completed,T002,2026-07-19 14:57:41,2026-07-22 06:34:46,180.0,0
+H-0758,Printer,Ink System,C053,01282864784,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-07-19 16:30:38,2026-07-20 04:08:58,140.0,0
+H-0759,Phone,Screen,C087,01017781446,Touch does not respond in some areas,High,Completed,T005,2026-07-20 17:01:55,2026-07-21 10:17:44,1035.0,1
+H-0760,Phone,Software,C237,01542432278,Apps keep crashing after an update,Normal,Completed,T005,2026-07-20 18:53:41,2026-07-20 23:00:10,85.0,0
+H-0761,Laptop,Battery,C160,01059575732,Laptop shuts down when unplugged,Normal,Completed,T002,2026-07-21 10:03:46,2026-07-26 23:04:39,1335.0,2
+H-0762,Laptop,Overheating,C006,01223515291,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-07-21 10:26:01,2026-07-22 12:27:57,495.0,2
+H-0763,Phone,Screen,C266,01053251931,Cracked phone screen,Normal,Completed,T005,2026-07-21 11:36:06,2026-07-23 19:04:29,1160.0,2
+H-0764,Laptop,Keyboard,C166,01200895892,Keyboard keys stuck after a liquid spill,Normal,Completed,T002,2026-07-21 12:06:42,2026-07-22 19:21:06,,1
+H-0765,Phone,Screen,C003,01081029134,Cracked phone screen,Normal,Completed,T005,2026-07-21 15:05:13,2026-07-23 00:33:23,1005.0,2
+H-0766,Laptop,Overheating,C156,01096748111,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-07-21 17:22:50,2026-07-23 07:30:17,310.0,1
+H-0767,Phone,Charging Port,C133,01015816786,Charging port is loose,High,Completed,T005,2026-07-22 09:19:11,2026-07-23 05:25:24,575.0,2
+H-0768,Phone,Software,C172,01246675292,Apps keep crashing after an update,Normal,Completed,T005,2026-07-22 11:09:05,2026-07-22 13:46:11,95.0,0
+H-0769,Phone,Battery,C073,01264910159,Phone turns off at 30 percent,Normal,Completed,T005,2026-07-22 14:09:10,2026-07-23 04:35:54,500.0,1
+H-0770,Phone,Charging Port,C228,01008773778,Charging port is loose,High,Completed,T005,2026-07-23 10:04:06,2026-07-23 20:15:37,255.0,1
+H-0771,Printer,Paper Jam,C248,01264764062,Printer pulls several sheets at once,Low,Completed,T004,2026-07-23 11:16:04,2026-07-26 00:41:41,65.0,0
+H-0772,Laptop,Battery,C111,01098907793,Laptop battery drains within an hour,Normal,Completed,T001,2026-07-23 11:37:01,2026-07-28 09:30:13,110.0,0
+H-0773,Phone,Screen,C258,01081196124,Cracked phone screen,Low,Completed,T005,2026-07-23 14:09:13,2026-07-26 14:02:50,1040.0,2
+H-0774,Phone,Battery,C111,01098907793,Phone battery drains very fast,Normal,Completed,T005,2026-07-23 15:40:26,2026-07-25 02:23:49,540.0,2
+H-0775,Printer,Paper Jam,C111,01098907793,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-07-23 16:27:52,2026-07-24 01:58:59,65.0,0
+H-0776,Phone,Charging Port,C073,01264910159,Phone does not charge unless the cable is held,Normal,Completed,T006,2026-07-23 17:02:10,2026-07-24 13:31:56,90.0,0
+H-0777,Laptop,Software,C181,01571989096,Laptop is very slow and needs a system reinstall,High,Completed,T001,2026-07-24 13:51:55,2026-07-24 16:58:23,155.0,0
+H-0778,Phone,Software,C173,01206323966,Phone is stuck on the boot logo,Low,Completed,T005,2026-07-24 14:21:23,2026-07-25 07:00:59,70.0,0
+H-0779,Phone,Software,C006,01223515291,Phone is stuck on the boot logo,High,Completed,T005,2026-07-24 16:22:54,2026-07-24 19:08:30,70.0,0
+H-0780,Laptop,Software,C231,01189491556,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-07-25 09:52:04,2026-07-25 15:36:09,150.0,0
+H-0781,phone ,Battery,C208,01040835542,Phone turns off at 30 percent,High,Completed,T006,2026-07-25 11:28:03,2026-07-25 18:36:49,545.0,2
+H-0782,Laptop,Software,C249,01290518632,Laptop is very slow and needs a system reinstall,Normal,Completed,T001,2026-07-25 20:22:17,2026-07-26 06:23:31,155.0,0
+H-0783,Phone,Battery,C106,01211184531,Phone turns off at 30 percent,Normal,Completed,T006,2026-07-25 20:23:40,2026-07-27 23:51:42,155.0,1
+H-0784,Laptop,Overheating,C115,01110600249,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-07-25 21:53:34,2026-07-28 13:14:31,280.0,1
+H-0785,Laptop,Screen,C055,01213885138,Cracked laptop screen,High,Completed,T001,2026-07-26 11:45:57,2026-07-27 16:19:31,1480.0,1
+H-0786,Laptop,Software,C186,01024231980,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2026-07-26 12:01:57,2026-07-26 23:31:21,105.0,0
+H-0787,Phone,Screen,C202,01530135390,Touch does not respond in some areas,Normal,Completed,T005,2026-07-26 12:39:49,2026-07-27 21:51:16,220.0,1
+H-0788,Laptop,Overheating,C215,01017236722,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-07-26 12:45:30,2026-07-27 14:38:15,135.0,0
+H-0789,Phone,Screen,C240,01025399975,Cracked phone screen,Normal,Completed,T006,2026-07-26 13:06:49,2026-07-28 22:28:39,1095.0,2
+H-0790,Laptop,Overheating,C131,01149796755,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-07-26 13:18:46,2026-07-29 01:28:04,570.0,1
+H-0791,Laptop,Screen,C055,01213885138,Cracked laptop screen,High,Completed,T001,2026-07-26 13:32:19,2026-07-27 01:59:12,1420.0,1
+H-0792,Laptop,Overheating,C101,01595902638,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-07-26 19:06:31,2026-07-27 09:16:23,190.0,0
+H-0793,Laptop,Software,C147,01207636180,Laptop is very slow and needs a system reinstall,Normal,Completed,T002,2026-07-28 10:28:24,2026-07-28 17:40:20,150.0,0
+H-0794,Laptop,Software,C134,01018869327,Windows will not boot,Normal,Completed,T001,2026-07-28 10:53:33,2026-07-28 15:52:27,95.0,0
+H-0795,Laptop,Software,C192,01033966246,Windows will not boot,Low,Completed,T001,2026-07-28 12:00:25,2026-07-28 18:43:00,180.0,0
+H-0796,Laptop,Overheating,C223,01264851372,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-07-28 12:59:49,2026-07-30 11:26:57,510.0,2
+H-0797,Laptop,Overheating,C089,01188171942,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-07-28 15:30:23,2026-07-29 02:28:00,460.0,1
+H-0798,Phone,Software,C204,01206583344,Apps keep crashing after an update,Normal,Completed,T006,2026-07-29 11:19:52,2026-07-29 17:29:57,45.0,0
+H-0799,Laptop,Battery,C094,01586696461,Laptop shuts down when unplugged,Normal,Completed,T002,2026-07-29 12:16:52,2026-07-30 03:40:32,125.0,0
+H-0800,Printer,Ink System,C181,01571989096,Printer says the ink cartridge is not recognized,Normal,Completed,T003,2026-07-29 15:07:59,2026-07-29 21:28:09,985.0,1
+H-0801,Phone,Charging Port,C290,01144099362,Charging port is loose,Normal,Completed,T006,2026-07-30 10:01:17,2026-07-31 13:36:21,380.0,1
+H-0801,Phone,Charging Port,C290,01144099362,Charging port is loose,Normal,Completed,T006,2026-07-30 10:01:17,2026-07-31 13:36:21,380.0,1
+H-0802,Phone,Charging Port,C072,01529006642,Charging port is loose,Low,Completed,T006,2026-07-30 12:52:14,2026-08-05 14:17:45,505.0,2
+H-0803,Printer,Ink System,C090,015321964,Ink is leaking inside the printer,Low,Completed,T004,2026-07-30 13:15:44,2026-08-01 11:51:37,1445.0,2
+H-0804,Phone,Screen,C058,01065209883,Touch does not respond in some areas,High,Completed,T006,2026-07-30 13:28:34,2026-07-31 14:51:50,1045.0,1
+H-0805,Laptop,Battery,C124,01199030899,Laptop battery drains within an hour,Low,Completed,T002,2026-07-30 13:55:51,2026-08-04 03:41:33,805.0,1
+H-0806,Laptop,Keyboard,C020,01051130595,Several keys are not responding,Normal,Completed,T001,2026-07-30 14:22:50,2026-07-31 06:32:25,460.0,1
+H-0807,Laptop,Battery,C215,01017236722,Laptop battery drains within an hour,High,Completed,T002,2026-07-30 18:18:32,2026-07-31 05:26:21,1440.0,2
+H-0808,Printer,Ink System,C105,01271491688,Ink is leaking inside the printer,Normal,Completed,T003,2026-07-31 10:46:39,2026-07-31 21:19:17,515.0,1
+H-0809,Laptop,Overheating,C059,01053142817,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-07-31 13:21:01,2026-08-01 09:57:58,520.0,2
+H-0810,Phone,Screen,C248,01264764062,Touch does not respond in some areas,Low,Completed,T005,2026-08-01 10:02:51,2026-08-03 08:42:22,,1
+H-0811,Printer,Paper Jam,C063,01051016629,Paper keeps jamming inside the printer,Low,Completed,T004,2026-08-01 12:00:22,2026-08-02 10:32:32,430.0,1
+H-0812,Printer,Paper Jam,C058,01065209883,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-08-01 12:42:36,2026-08-01 19:03:06,130.0,0
+H-0813,Phone,Screen,C149,01220230861,Touch does not respond in some areas,High,Completed,T006,2026-08-01 12:51:33,2026-08-02 06:58:24,945.0,1
+H-0814,Phone,Screen,C285,01026507728,Cracked phone screen,Low,Completed,T005,2026-08-02 14:10:11,2026-08-03 21:30:44,1065.0,1
+H-0814,Phone,Screen,C285,01026507728,Cracked phone screen,Low,Completed,T005,2026-08-02 14:10:11,2026-08-03 21:30:44,1065.0,1
+H-0815,Laptop,Software,C035,01538711667,Windows will not boot,Normal,Completed,T002,2026-08-02 18:18:12,2026-08-02 22:43:55,165.0,0
+H-0816,Laptop,Screen,C115,01110600249,Screen flickers and shows vertical lines,Normal,Completed,T002,2026-08-03 12:33:38,2026-08-05 14:20:14,1490.0,1
+H-0817,Printer,Connectivity,C133,01015816786,Printer is not detected over Wi-Fi,Normal,Completed,T003,2026-08-04 17:19:03,2026-08-05 01:54:42,75.0,0
+H-0818,Printer,Paper Jam,C186,01024231980,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-08-04 19:46:00,2026-08-05 07:31:00,425.0,1
+H-0819,Phone,Screen,C100,01033457730,Touch does not respond in some areas,High,Completed,T005,2026-08-04 20:53:27,2026-08-05 08:25:23,1075.0,1
+H-0820,Laptop,Overheating,C111,01098907793,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-08-05 12:57:47,2026-08-06 14:42:39,510.0,2
+H-0821,Printer,,C161,01544101862,Computer cannot find the printer by USB,Normal,Completed,T003,2026-08-06 18:17:33,2026-08-06 23:25:41,85.0,0
+H-0822,Laptop,Screen,C139,01295384988,Cracked laptop screen,Normal,Completed,T001,2026-08-06 20:29:56,2026-08-07 19:06:12,1450.0,1
+H-0823,Laptop,Overheating,C069,01226354966,Laptop shuts down by itself after heavy use,Low,Completed,T001,2026-08-07 13:12:04,2026-08-08 10:14:39,430.0,1
+H-0824,Laptop,Screen,C163,01058124702,Cracked laptop screen,Normal,Completed,T001,2026-08-08 10:19:09,2026-08-09 17:53:02,1465.0,1
+H-0825,Printer,Paper Jam,C079,01207304127,Printer pulls several sheets at once,Low,Completed,T004,2026-08-08 14:17:56,2026-08-08 20:27:33,95.0,0
+H-0826,Phone,Screen,C035,01538711667,Cracked phone screen,Low,Completed,T005,2026-08-09 09:11:46,2026-08-16 07:46:05,1020.0,1
+H-0827,Printer,Ink System,C048,01220735333,Printer says the ink cartridge is not recognized,Low,Completed,T004,2026-08-09 11:25:31,2026-08-10 10:45:32,1455.0,2
+H-0828,Phone,Battery,C083,01219088514,Phone battery drains very fast,Normal,Completed,T005,2026-08-09 18:20:21,2026-08-11 00:49:32,580.0,2
+H-0829,Laptop,Software,C187,01201412657,Windows will not boot,Normal,Completed,T002,2026-08-09 18:27:43,2026-08-09 23:26:58,170.0,0
+H-0830,Laptop,Battery,C095,01187574601,Laptop shuts down when unplugged,Normal,Completed,T002,2026-08-09 20:02:05,2026-08-12 13:44:31,140.0,0
+H-0831,Printer,Connectivity,C287,01236672417,Computer cannot find the printer by USB,Normal,Completed,T003,2026-08-10 08:24:48,2026-08-10 12:49:25,100.0,0
+H-0832,Laptop,Keyboard,C204,01206583344,Several keys are not responding,Low,Completed,T001,2026-08-10 13:04:49,2026-08-13 07:04:18,465.0,1
+H-0833,Printer,Connectivity,C128,01033588693,Computer cannot find the printer by USB,Normal,Completed,T004,2026-08-10 16:39:09,2026-08-11 12:28:42,255.0,1
+H-0834,Phone,Battery,C115,01110600249,Phone battery drains very fast,Low,Completed,T005,2026-08-11 10:06:30,2026-08-12 23:53:56,510.0,2
+H-0835,Laptop,Screen,C053,01282864784,Cracked laptop screen,High,Completed,T002,2026-08-11 10:11:48,2026-08-12 23:15:51,1455.0,1
+H-0836,Laptop,Software,C272,01151646838,Windows will not boot,Normal,Completed,T002,2026-08-11 13:35:04,2026-08-11 17:51:20,175.0,0
+H-0837,Laptop,Software,C269,01582155523,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-08-11 13:52:59,2026-08-11 23:17:26,150.0,0
+H-0838,Laptop,Overheating,C008,01010478569,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-08-11 17:29:31,2026-08-12 23:44:49,460.0,1
+H-0839,Phone,Screen,C068,01006950641,Touch does not respond in some areas,Normal,Completed,T005,2026-08-12 11:31:47,2026-08-17 13:32:57,935.0,1
+H-0840,Laptop,Software,C144,01071684449,Windows will not boot,High,Completed,T001,2026-08-12 12:55:17,2026-08-12 18:01:53,320.0,0
+H-0841,Laptop,Screen,C110,01520170994,Cracked laptop screen,Low,Completed,T001,2026-08-12 13:21:07,2026-08-17 10:50:39,1405.0,1
+H-0842,Laptop,Overheating,C003,01081029134,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-08-13 12:55:55,2026-08-14 02:17:58,550.0,2
+H-0843,Phone,Charging Port,C276,01267231235,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-08-13 15:05:41,2026-08-15 00:22:05,195.0,1
+H-0844,Printer,Ink System,C181,01571989096,Ink is leaking inside the printer,Normal,Completed,T004,2026-08-13 19:01:47,2026-08-14 23:36:05,1470.0,2
+H-0845,Printer,Ink System,C126,01093192908,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-08-14 12:52:47,2026-08-15 05:33:56,1010.0,1
+H-0846,Laptop,Overheating,C145,012196979827,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-08-14 13:26:28,2026-08-15 23:07:23,575.0,2
+H-0847,Phone,Battery,C157,01065181552,Phone turns off at 30 percent,Normal,Completed,T005,2026-08-15 12:58:54,2026-08-21 00:06:16,585.0,2
+H-0848,Laptop,Overheating,C172,01246675292,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-08-16 09:28:08,2026-08-17 09:58:54,550.0,2
+H-0849,Laptop,Keyboard,C285,01026507728,Several keys are not responding,Low,Completed,T001,2026-08-16 09:35:52,2026-08-18 15:11:45,440.0,1
+H-0850,Phone,Screen,C298,011828194467,Cracked phone screen,Normal,Completed,T006,2026-08-16 10:42:42,2026-08-18 06:01:14,180.0,1
+H-0851,Phone,Charging Port,C003,01081029134,Charging port is loose,High,Completed,T006,2026-08-16 11:19:31,2026-08-17 07:37:55,140.0,0
+H-0852,Laptop,Battery,C169,01007183486,Laptop battery drains within an hour,Normal,Completed,T002,2026-08-16 15:50:11,2026-08-17 12:14:26,610.0,1
+H-0853,Phone,Screen,C134,01018869327,Touch does not respond in some areas,Normal,Completed,T006,2026-08-16 17:35:35,2026-08-18 04:50:13,175.0,1
+H-0854,Laptop,Software,C240,01025399975,Windows will not boot,Normal,Completed,T002,2026-08-16 19:07:14,2026-08-17 03:43:59,130.0,0
+H-0855,Printer,Paper Jam,C101,01595902638,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-08-16 19:31:55,2026-08-17 01:20:39,85.0,0
+H-0856,Phone,Charging Port,C058,01065209883,Phone does not charge unless the cable is held,Low,Completed,T005,2026-08-16 19:59:01,2026-08-18 01:00:11,450.0,1
+H-0857,Printer,Paper Jam,C261,01039272541,Paper keeps jamming inside the printer,Normal,Completed,T003,2026-08-16 21:16:27,2026-08-17 01:16:24,,1
+H-0858,Printer,Paper Jam,C199,01094505384,Printer pulls several sheets at once,High,Completed,T004,2026-08-17 09:28:15,2026-08-17 13:24:37,55.0,0
+H-0859,Printer,Print Quality,C157,01065181552,Colors are wrong in printed documents,Normal,Completed,T003,2026-08-17 11:07:49,2026-08-17 20:23:43,2155.0,3
+H-0860,Phone,Software,C090,01532196485,Phone is stuck on the boot logo,Low,Completed,T005,2026-08-17 12:59:26,2026-08-18 07:04:26,90.0,0
+H-0861,Phone,Screen,C261,01039272541,Touch does not respond in some areas,Normal,Completed,T006,2026-08-17 13:04:07,2026-08-20 00:49:03,1110.0,2
+H-0862,Laptop,Software,C264,01182103327,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-08-17 13:50:10,2026-08-22 18:01:39,205.0,0
+H-0863,Phone,Screen,C253,01035506007,Cracked phone screen,Low,Completed,T006,2026-08-17 14:02:56,2026-08-20 15:19:22,1090.0,2
+H-0864,Phone,Battery,C237,01542432278,Phone battery drains very fast,Low,Completed,T005,2026-08-18 10:02:37,2026-08-22 11:42:46,530.0,2
+H-0865,Laptop,Overheating,C298,01182819446,Laptop shuts down by itself after heavy use,Low,Completed,T002,2026-08-18 13:24:03,2026-08-20 10:49:53,485.0,2
+H-0866,Laptop,Overheating,C164,01220999476,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-08-18 14:06:15,2026-08-19 15:27:49,630.0,2
+H-0867,Phone,Screen,C184,01000741550,Cracked phone screen,Normal,Completed,T005,2026-08-18 18:40:14,2026-08-20 15:50:07,125.0,0
+H-0868, Printer,Paper Jam,C202,01530135390,Printer pulls several sheets at once,Low,Completed,T004,2026-08-18 20:53:53,2026-08-19 09:51:21,400.0,1
+H-0869,Laptop,Overheating,C073,01264910159,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-08-19 09:25:53,2026-08-20 13:59:07,545.0,2
+H-0870,Printer,Connectivity,C208,01040835542,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-08-20 10:23:25,2026-08-20 21:21:53,130.0,0
+H-0871,Phone,Battery,C240,01025399975,Phone battery drains very fast,Low,Completed,T005,2026-08-20 17:55:55,2026-08-22 19:15:00,520.0,2
+H-0872,Laptop,Battery,C106,01211184531,Laptop battery drains within an hour,Normal,Completed,T001,2026-08-20 19:28:43,2026-08-21 15:33:48,150.0,0
+H-0873,Laptop,Software,C134,01018869327,Windows will not boot,Normal,Completed,T002,2026-08-20 20:14:27,2026-08-21 01:19:46,195.0,0
+H-0874,printer ,Paper Jam,C095,01187574601,Printer pulls several sheets at once,Normal,Completed,T003,2026-08-21 11:16:13,2026-08-21 17:56:26,,0
+H-0875,Laptop,Software,C187,01201412657,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-08-23 08:15:56,2026-08-24 06:27:40,55.0,0
+H-0876,Laptop,Software,C296,01544859780,Windows will not boot,Low,Completed,T001,2026-08-23 16:07:56,2026-08-24 10:37:57,170.0,0
+H-0877,Phone,Battery,C069,01226354966,,Normal,Completed,T006,2026-08-23 16:51:25,2026-08-25 13:23:28,580.0,1
+H-0878,Laptop,Battery,C185,01023771437,Laptop battery drains within an hour,Low,Completed,T001,2026-08-23 18:44:22,2026-08-24 22:09:32,775.0,1
+H-0879,Phone,Charging Port,C133,01015816786,Phone does not charge unless the cable is held,High,Completed,T006,2026-08-23 19:55:07,2026-08-25 08:20:56,680.0,2
+H-0880,Phone,Software,C244,01069771957,Apps keep crashing after an update,Normal,Completed,T006,2026-08-24 11:32:20,2026-08-24 18:16:00,85.0,0
+H-0881,Laptop,Software,C112,01013266206,Laptop is very slow and needs a system reinstall,Low,Completed,T002,2026-08-24 12:37:21,2026-08-25 09:28:50,115.0,0
+H-0882,Phone,Screen,C225,01081240048,Touch does not respond in some areas,Low,Completed,T006,2026-08-24 12:53:23,2026-08-26 13:17:16,1010.0,2
+H-0883,Printer,Ink System,C237,01542432278,Ink is leaking inside the printer,Low,Completed,T004,2026-08-25 11:24:47,2026-08-27 08:54:30,545.0,1
+H-0884,Laptop,Battery,C215,01017236722,Laptop battery drains within an hour,Normal,Completed,T002,2026-08-25 17:52:24,2026-08-26 17:19:45,830.0,1
+H-0885,Phone,Battery,C152,01165262973,Phone turns off at 30 percent,High,Completed,T006,2026-08-26 15:15:44,2026-08-27 00:28:43,580.0,2
+H-0886,Phone,Battery,C143,01552188715,Phone turns off at 30 percent,Low,Completed,T006,2026-08-26 16:34:13,2026-08-29 03:24:01,145.0,1
+H-0887,Laptop,Battery,C248,01264764062,Laptop battery drains within an hour,High,Completed,T001,2026-08-26 20:32:13,2026-08-30 01:21:52,735.0,1
+H-0888,Laptop,Software,C237,01542432278,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-08-27 16:45:09,2026-08-27 22:19:43,190.0,0
+H-0889,Laptop,Overheating,C092,01574352261,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-08-27 18:39:05,2026-08-28 12:50:51,630.0,2
+H-0890,Printer,Connectivity,C003,01081029134,Computer cannot find the printer by USB,Normal,Completed,T003,2026-08-27 20:11:42,2026-08-28 07:07:18,130.0,0
+H-0891,Printer,Paper Jam,C240,01025399975,Paper keeps jamming inside the printer,Normal,Completed,T004,2026-08-28 10:13:26,2026-08-28 16:17:53,415.0,1
+H-0892,Printer,Connectivity,C053,01282864784,Computer cannot find the printer by USB,Normal,Completed,T004,2026-08-28 17:39:51,2026-08-29 07:53:22,280.0,1
+H-0893,Printer,Connectivity,C030,01030491134,Printer is not detected over Wi-Fi,Normal,Completed,T003,2026-08-29 11:27:05,2026-08-29 20:38:22,120.0,0
+H-0894,Laptop,Software,C157,01065181552,Windows will not boot,Low,Completed,T001,2026-08-29 14:17:25,2026-08-30 01:26:14,250.0,0
+H-0895,Phone,Software,C116,01205845336,Apps keep crashing after an update,Low,Completed,T006,2026-08-30 10:21:46,2026-08-30 19:28:10,120.0,0
+H-0896,Laptop,Battery,C146,01257843601,Laptop battery drains within an hour,High,Completed,T002,2026-08-30 11:17:59,2026-08-30 15:49:09,745.0,1
+H-0897,Printer,Ink System,C058,01065209883,Printer says the ink cartridge is not recognized,Low,Completed,T004,2026-08-30 11:59:44,2026-08-31 00:41:55,590.0,1
+H-0898,Printer,Connectivity,C116,01205845336,Printer is not detected over Wi-Fi,High,Completed,T003,2026-08-30 14:17:03,2026-08-30 17:29:49,150.0,0
+H-0899,Printer,Connectivity,C249,01290518632,Printer is not detected over Wi-Fi,Normal,Completed,T003,2026-08-30 19:03:35,2026-09-04 14:27:10,130.0,0
+H-0900,Phone,Screen,C049,01556005747,Cracked phone screen,Normal,Completed,T005,2026-08-30 19:31:37,2026-09-01 02:12:44,1055.0,2
+H-0901,Phone,Software,C184,01000741550,Apps keep crashing after an update,Normal,Completed,T005,2026-08-30 19:43:53,2026-08-31 01:44:14,110.0,0
+H-0902,Phone,Charging Port,C116,01205845336,Phone does not charge unless the cable is held,High,Completed,T005,2026-08-31 12:31:17,2026-08-31 22:40:53,400.0,1
+H-0903,Phone,Screen,C261,01039272541,Touch does not respond in some areas,High,Completed,T005,2026-08-31 19:01:41,2026-09-01 06:25:22,1070.0,2
+H-0904,Laptop,Overheating,C272,01151646838,Laptop shuts down by itself after heavy use,Normal,Completed,T001,2026-09-01 11:19:17,2026-09-02 18:43:08,380.0,1
+H-0905,Phone,Battery,C169,01007183486,Phone turns off at 30 percent,Normal,Completed,T006,2026-09-01 12:59:47,2026-09-06 13:54:03,130.0,1
+H-0906,Phone,Screen,C094,01586696461,Touch does not respond in some areas,Normal,Completed,T005,2026-09-01 16:18:00,2026-09-02 03:44:51,1085.0,2
+H-0907,Phone,Screen,C204,01206583344,Cracked phone screen,Low,Completed,T006,2026-09-01 18:35:33,2026-09-03 10:29:45,240.0,0
+H-0908,Printer,Print Quality,C265,01084683377,Printed pages have lines and faded text,Normal,Completed,T003,2026-09-01 19:29:39,2026-09-02 04:42:03,1480.0,2
+H-0909,Laptop,Battery,C173,01206323966,Laptop shuts down when unplugged,Normal,Completed,T002,2026-09-02 08:05:33,2026-09-03 04:31:46,825.0,1
+H-0910,Laptop,Overheating,C047,01106522460,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2026-09-02 12:33:38,2026-09-03 08:09:26,465.0,1
+H-0911,Laptop,Battery,C248,01264764062,Laptop shuts down when unplugged,Normal,Completed,T002,2026-09-02 16:42:35,2026-09-03 12:25:57,630.0,1
+H-0912,Printer,Ink System,C185,01023771437,Printer says the ink cartridge is not recognized,Low,Completed,T003,2026-09-03 17:04:34,2026-09-04 11:19:52,1440.0,2
+H-0913, Phone,Software,C181,01571989096,Apps keep crashing after an update,Normal,Completed,T005,2026-09-03 20:06:38,2026-09-03 23:07:21,95.0,0
+H-0914,Phone,Screen,C027,01055156131,Touch does not respond in some areas,High,Completed,T006,2026-09-04 17:04:41,2026-09-05 11:34:04,1040.0,2
+H-0915,Printer,Connectivity,C258,01081196124,Printer is not detected over Wi-Fi,Normal,Completed,T003,2026-09-05 17:33:31,2026-09-06 00:03:41,90.0,0
+H-0916,Laptop,Overheating,C231,01189491556,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-09-06 09:07:41,2026-09-07 08:47:43,515.0,2
+H-0917,Phone,Screen,C116,01205845336,Touch does not respond in some areas,Low,Completed,T006,2026-09-06 10:26:18,2026-09-11 18:56:39,1015.0,2
+H-0918,Printer,Connectivity,C231,01189491556,Computer cannot find the printer by USB,Normal,Completed,T003,2026-09-06 12:46:03,2026-09-06 22:30:09,220.0,1
+H-0919,Phone,Screen,C072,01529006642,Cracked phone screen,Normal,Completed,T006,2026-09-06 14:39:18,2026-09-07 09:50:30,930.0,1
+H-0920,Laptop,Overheating,C233,01198025032,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-09-06 15:35:27,2026-09-07 09:09:50,,1
+H-0921,Laptop,Keyboard,C042,01586684206,Several keys are not responding,Low,Completed,T001,2026-09-06 16:23:01,2026-09-10 00:39:29,460.0,1
+H-0922,Laptop,Overheating,C147,01207636180,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-09-06 17:35:08,2026-09-07 11:08:35,640.0,2
+H-0923,Phone,Screen,C115,01110600249,Touch does not respond in some areas,Low,Completed,T005,2026-09-07 12:59:02,2026-09-12 11:28:31,955.0,1
+H-0924,Printer,Connectivity,C130,03542332649,Printer is not detected over Wi-Fi,Normal,Completed,T004,2026-09-07 13:38:07,2026-09-08 02:49:20,220.0,1
+H-0925,Laptop,Overheating,C208,01040835542,Laptop gets very hot and the fan is loud,High,Completed,T002,2026-09-07 15:35:49,2026-09-08 04:19:55,565.0,2
+H-0926,Phone,Screen,C118,01233895684,Touch does not respond in some areas,High,Completed,T006,2026-09-07 19:03:18,2026-09-08 16:18:31,310.0,1
+H-0927,Printer,Connectivity,C234,01019338535,Printer is not detected over Wi-Fi,High,Completed,T003,2026-09-08 11:41:04,2026-09-08 17:13:54,230.0,1
+H-0928,Laptop,Battery,C027,01055156131,Laptop shuts down when unplugged,Normal,Completed,T001,2026-09-08 13:08:28,2026-09-09 22:24:46,1335.0,2
+H-0929,Printer,Connectivity,C071,01034268818,Computer cannot find the printer by USB,Low,Completed,T003,2026-09-08 14:55:23,2026-09-09 13:48:15,115.0,0
+H-0930,Phone,Screen,C240,01025399975,Touch does not respond in some areas,Low,Completed,T006,2026-09-08 15:29:20,2026-09-10 19:22:33,175.0,1
+H-0931,Printer,Paper Jam,C146,01257843601,Printer pulls several sheets at once,Normal,Completed,T004,2026-09-08 15:53:03,2026-09-11 00:47:05,405.0,1
+H-0932,Laptop,Overheating,C094,01586696461,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2026-09-08 16:31:03,2026-09-09 20:11:34,435.0,1
+H-0933,Phone,Battery,C134,01018869327,Phone battery drains very fast,High,Completed,T006,2026-09-08 19:10:29,2026-09-09 12:10:46,530.0,1
+H-0934,Laptop,Overheating,C138,01062907515,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-09-08 19:55:57,2026-09-10 07:51:36,485.0,2
+H-0935,Phone,Screen,C258,01081196124,Cracked phone screen,Normal,Completed,T006,2026-09-09 16:00:39,2026-09-10 18:08:25,1105.0,2
+H-0936,Phone,Battery,C071,01034268818,Phone turns off at 30 percent,Normal,Completed,T006,2026-09-09 20:08:31,2026-09-10 18:47:50,110.0,0
+H-0937,Laptop,Overheating,C089,01188171942,Laptop shuts down by itself after heavy use,Low,Completed,T001,2026-09-10 11:15:22,2026-09-12 11:39:23,440.0,1
+H-0938,Laptop,Battery,C249,01290518632,Laptop shuts down when unplugged,Low,Completed,T001,2026-09-11 13:29:50,2026-09-12 15:08:56,1310.0,2
+H-0939,Phone,Charging Port,C240,01025399975,Charging port is loose,Normal,Completed,T006,2026-09-12 09:06:56,2026-09-13 20:23:14,515.0,2
+H-0940,Laptop,Battery,C164,01220999476,Laptop shuts down when unplugged,Normal,Completed,T001,2026-09-12 12:30:28,2026-09-13 21:09:12,155.0,0
+H-0941,Laptop,Battery,C014,01288123321,Laptop battery drains within an hour,Low,Completed,T001,2026-09-12 13:25:43,2026-09-13 17:02:34,1250.0,2
+H-0942,Laptop,Software,C116,01205845336,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-09-12 16:18:10,2026-09-13 14:30:53,140.0,0
+H-0943,Printer,Ink System,C177,01288135749,Ink is leaking inside the printer,Low,Completed,T003,2026-09-12 17:21:20,2026-09-15 17:45:03,1430.0,2
+H-0944,Laptop,Overheating,C248,01264764062,Laptop gets very hot and the fan is loud,High,Completed,T001,2026-09-12 18:09:39,2026-09-13 21:47:56,450.0,1
+H-0945,Printer,Connectivity,C049,01556005747,Computer cannot find the printer by USB,Normal,Completed,T003,2026-09-13 11:56:20,2026-09-13 16:23:56,130.0,0
+H-0946,Laptop,Screen,C115,01110600249,Cracked laptop screen,Normal,Completed,T001,2026-09-13 13:57:09,2026-09-14 17:05:32,1505.0,1
+H-0947,Phone,Screen,C199,01094505384,Cracked phone screen,Low,Completed,T005,2026-09-13 19:22:40,2026-09-16 11:23:01,210.0,1
+H-0948,Phone,Battery,C172,01246675292,Phone turns off at 30 percent,Low,Completed,T005,2026-09-14 11:35:42,2026-09-18 01:51:12,555.0,2
+H-0949,Phone,Battery,C185,01023771437,Phone turns off at 30 percent,Normal,Completed,T005,2026-09-14 13:02:29,2026-09-15 09:51:28,490.0,1
+H-0950,Laptop,Software,C130,01542332649,Windows will not boot,Normal,Completed,T001,2026-09-15 18:02:13,2026-09-16 02:10:56,125.0,0
+H-0951,Printer,Paper Jam,C128,01033588693,Printer pulls several sheets at once,Low,Completed,T003,2026-09-16 10:40:00,2026-09-16 22:24:07,100.0,0
+H-0952,Laptop,Keyboard,C231,01189491556,Several keys are not responding,Normal,Completed,T002,2026-09-16 11:06:00,2026-09-17 09:28:35,110.0,0
+H-0953,Laptop,Overheating,C117,01039596730,Laptop gets very hot and the fan is loud,Normal,Completed,T002,2026-09-16 12:03:59,2026-09-18 00:16:14,655.0,2
+H-0954,Phone,Screen,C017,01569259124,Touch does not respond in some areas,Normal,Completed,T005,2026-09-16 17:13:43,2026-09-18 08:45:48,1040.0,2
+H-0955,Phone,Software,C205,01549530061,Apps keep crashing after an update,Normal,Completed,T006,2026-09-16 17:56:44,2026-09-16 23:42:26,75.0,0
+H-0956,Phone,Battery,C185,01023771437,Phone battery drains very fast,High,Completed,T006,2026-09-17 16:31:49,2026-09-21 21:11:58,530.0,1
+H-0957,Phone,Battery,C097,01029532757,Phone battery drains very fast,Low,Completed,T006,2026-09-17 17:34:25,2026-09-20 05:00:08,510.0,1
+H-0958,Phone,Battery,C134,01018869327,Phone turns off at 30 percent,Normal,Completed,T005,2026-09-17 18:09:27,2026-09-19 13:29:17,115.0,1
+H-0959,Laptop,,C117,01039596730,Laptop shuts down by itself after heavy use,High,Completed,T002,2026-09-18 12:01:35,2026-09-19 11:22:14,460.0,1
+H-0960,Laptop,Software,C237,01542432278,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-09-19 13:58:27,2026-09-20 07:55:42,135.0,0
+H-0961,Phone,Screen,C003,01081029134,Touch does not respond in some areas,High,Completed,T005,2026-09-19 14:17:14,2026-09-20 00:31:14,1130.0,2
+H-0962,Laptop,Battery,C028,01239591267,Laptop shuts down when unplugged,Normal,Completed,T002,2026-09-19 15:03:31,2026-09-20 20:57:53,660.0,1
+H-0963,Laptop,Software,C250,01138977373,Windows will not boot,Low,Completed,T002,2026-09-19 15:11:11,2026-09-20 02:30:50,240.0,0
+H-0964,Phone,Battery,C240,01025399975,Phone turns off at 30 percent,Low,Completed,T005,2026-09-19 18:25:36,2026-09-21 21:01:27,135.0,1
+H-0965,Phone,Battery,C181,01571989096,Phone battery drains very fast,High,Completed,T005,2026-09-20 10:20:17,2026-09-20 17:15:14,135.0,0
+H-0966,Phone,Screen,C049,01556005747,Touch does not respond in some areas,Normal,Completed,T005,2026-09-20 11:12:36,2026-09-21 15:36:08,1035.0,1
+H-0967,Phone,Screen,C205,01549530061,Touch does not respond in some areas,High,Completed,T005,2026-09-20 17:54:03,2026-09-21 10:45:48,1150.0,1
+H-0968,Phone,Battery,C073,01264910159,Phone turns off at 30 percent,High,Completed,T006,2026-09-21 11:36:17,2026-09-21 20:24:50,120.0,1
+H-0969,Printer,Paper Jam,C267,01037884255,Printer pulls several sheets at once,Low,Completed,T003,2026-09-21 17:31:50,2026-09-24 21:37:47,70.0,0
+H-0970,Laptop,Software,C055,01213885138,Windows will not boot,Normal,Completed,T002,2026-09-21 18:00:29,2026-09-21 23:49:07,180.0,0
+H-0971,Laptop,Overheating,C017,01569259124,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2026-09-22 14:44:24,2026-09-23 19:49:22,175.0,0
+H-0972,phone ,Screen,C276,01267231235,Cracked phone screen,Normal,Completed,T006,2026-09-22 17:47:38,2026-09-23 19:34:17,1015.0,2
+H-0973,Laptop,Battery,C049,01556005747,Laptop shuts down when unplugged,Low,Completed,T002,2026-09-22 21:32:40,2026-09-25 01:16:40,800.0,1
+H-0974,Laptop,Overheating,C106,01211184531,Laptop gets very hot and the fan is loud,Normal,Completed,T001,2026-09-23 13:57:57,2026-09-25 07:22:33,510.0,2
+H-0975,Phone,Battery,C234,01019338535,Phone turns off at 30 percent,High,Completed,T006,2026-09-24 10:26:00,2026-09-24 17:32:33,530.0,1
+H-0976,Phone,Software,C089,01188171942,Apps keep crashing after an update,Normal,Completed,T005,2026-09-24 11:35:09,2026-09-26 15:05:25,85.0,0
+H-0977,Printer,Connectivity,C192,01033966246,Printer is not detected over Wi-Fi,Low,Completed,T004,2026-09-24 13:23:12,2026-09-28 17:03:25,140.0,0
+H-0978,Phone,Battery,C001,01242927185,Phone turns off at 30 percent,Normal,Completed,T006,2026-09-24 19:18:40,2026-09-25 18:13:16,530.0,2
+H-0979,Printer,Ink System,C229,01232423661,Printer says the ink cartridge is not recognized,High,Completed,T004,2026-09-24 20:03:44,2026-09-25 03:15:47,570.0,1
+H-0980,Phone,Charging Port,C087,01017781446,Charging port is loose,High,Completed,T005,2026-09-26 10:46:31,2026-09-27 00:55:00,115.0,0
+H-0981,Printer,Connectivity,C035,01538711667,Printer is not detected over Wi-Fi,Low,Completed,T003,2026-09-26 13:04:02,2026-09-27 00:17:24,270.0,1
+H-0982,Laptop,Overheating,C089,01188171942,Laptop shuts down by itself after heavy use,Low,Completed,T001,2026-09-26 18:57:45,2026-09-29 10:28:48,460.0,1
+H-0983,Phone,Charging Port,C223,01264851372,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-09-27 09:43:52,2026-09-30 00:22:01,395.0,1
+H-0984,Phone,Screen,C276,01267231235,Cracked phone screen,Normal,Completed,T006,2026-09-27 11:50:34,2026-09-28 08:58:36,230.0,1
+H-0985,Phone,Battery,C140,01057296220,Phone battery drains very fast,High,In Progress,T005,2026-09-27 12:31:19,,,0
+H-0986,Laptop,Overheating,C069,01226354966,Laptop shuts down by itself after heavy use,High,Completed,T001,2026-09-27 14:36:09,2026-09-28 04:55:30,345.0,0
+H-0987,Phone,Screen,C213,01226378604,Cracked phone screen,Normal,Completed,T006,2026-09-27 18:49:12,2026-09-28 13:44:59,1015.0,2
+H-0988,Printer,Paper Jam,C030,010304911347,Paper keeps jamming inside the printer,High,Completed,T004,2026-09-28 10:48:22,2026-09-28 15:09:54,380.0,1
+H-0989,Printer,Connectivity,C181,01571989096,Computer cannot find the printer by USB,Normal,Completed,T004,2026-09-28 11:36:47,2026-09-28 19:40:43,100.0,0
+H-0990,Phone,Charging Port,C083,01219088514,Phone does not charge unless the cable is held,Normal,Completed,T005,2026-09-28 12:43:27,2026-09-29 06:59:49,505.0,2
+H-0991,Laptop,Overheating,C133,01015816786,Laptop shuts down by itself after heavy use,Normal,Completed,T002,2026-09-28 18:35:17,2026-09-30 06:06:11,610.0,2
+H-0992,Phone,Charging Port,C215,01017236722,Charging port is loose,Normal,Completed,T006,2026-09-28 18:54:36,2026-09-29 14:31:41,520.0,2
+H-0993,Laptop,Software,C240,01025399975,Laptop is very slow and needs a system reinstall,Low,Completed,T001,2026-09-29 13:05:18,2026-09-30 09:53:08,165.0,0
+H-0994,printer ,Connectivity,C156,01096748111,Printer is not detected over Wi-Fi,High,Completed,T003,2026-09-29 17:17:16,2026-09-30 00:55:25,140.0,0
+H-0995,Laptop,Overheating,C053,01282864784,Laptop shuts down by itself after heavy use,Low,In Progress,T001,2026-09-29 17:31:17,,,0
+H-0996,Printer,Ink System,C237,01542432278,Ink is leaking inside the printer,Low,In Progress,T003,2026-09-29 18:40:45,,,0
+H-0997,Phone,Screen,C059,01053142817,Touch does not respond in some areas,High,In Progress,T006,2026-09-30 11:08:49,,,0
+H-0998,Laptop,Battery,C272,01151646838,Laptop shuts down when unplugged,Normal,In Progress,T002,2026-09-30 11:15:01,,,0
+H-0999,Phone,Battery,C274,01269537097,Phone battery drains very fast,High,In Progress,T005,2026-09-30 17:12:57,,,0
+H-1000,Laptop,Overheating,C258,01081196124,Laptop shuts down by itself after heavy use,Low,In Progress,T001,2026-09-30 17:19:42,,,0
