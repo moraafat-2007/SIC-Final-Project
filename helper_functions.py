@@ -1,5 +1,6 @@
 import json
 from models import *
+from validation import *
 
 
 def load_users_from_data_base():
@@ -76,3 +77,41 @@ def build_ticket_from_dict(dict_ticket):
     my_ticket.creation_time = dict_ticket["creation_time"]
 
     return my_ticket
+
+
+def validate_registration(users,name,email,password,role,specialization=None):
+    errors = []
+
+    if not is_not_empty(name):
+        errors.append("Name is required.")
+
+
+
+
+    if not is_not_empty(email):
+        errors.append("Email is required.")
+
+    elif not is_valid_email_format(email.strip()):
+        errors.append("Invalid email format.")
+
+    elif not is_new_email(email.strip(), users):
+        errors.append("This email is already registered.")
+
+
+
+
+    if not is_not_empty(password):
+        errors.append("Password is required.")
+
+    elif len(password) < 8:
+        errors.append("Password must be at least 8 characters.")
+
+
+
+
+    if role == "Technician":
+        if not is_not_empty(specialization):
+            errors.append("Specialization is required.")
+
+
+    return errors

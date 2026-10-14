@@ -1,7 +1,5 @@
-# ==========================================
-# Shared Utilities: Validation Rules
-# ==========================================
 import re
+
 
 def is_valid_phone(phone_number):
     """
@@ -44,11 +42,16 @@ def is_valid_priority(priority):
         return True
     return False
 
-def is_valid_email(email):
-    """
-    يتحقق من صحة صيغة البريد الإلكتروني (بونص إضافي لو احتجتوه).
-    """
+def is_valid_email_format(email):
+
     pattern = r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$"
     if re.match(pattern, str(email)):
         return True
     return False
+
+
+def is_new_email(email,users):
+    for user in users:
+        if user.email == email:
+            return False
+    return True
