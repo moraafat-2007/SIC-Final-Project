@@ -31,7 +31,7 @@ import numpy as np
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = BASE_DIR / "data"
+OUTPUT_DIR = BASE_DIR 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Use the SAME devices/issues as the app (models.py) so the data always matches it.
@@ -392,5 +392,5 @@ def main():
     print(unique["device_type"].str.strip().str.title().value_counts())
 
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
