@@ -1,8 +1,8 @@
 from data_manager import *
 from validation import *
 
-def login(email,password):
 
+def login(email, password):
     users_database = load_users()
     for user in users_database:
         if user.email == email and user.password == password:
@@ -10,11 +10,10 @@ def login(email,password):
     return None
 
 
-
-def register(ID,name,email,password,role,specialization = None):
+def register(ID, name, email, password, role, specialization=None):
     users_database = load_users()
 
-    errors = validate_registration(users_database,name,email,password,role,specialization = None)
+    errors = validate_registration(users_database, name, email, password, role, specialization=None)
 
     if errors:
         return {
@@ -23,8 +22,18 @@ def register(ID,name,email,password,role,specialization = None):
             "errors": errors
         }
 
-    # still i need to build the user as his role then save it to data base and return another dict having the user
+    if role == "Client":
+        user = Client(ID, name, email, password)
 
+    elif role == "Technician":
+        user = Technician(ID, name, email, password, specialization)
 
+    return {
+        "success": True,
+        "message": "Registration Success.",
+        "user": user
+    }
 
+    users_database.append(user)
 
+    save_users(users_database)
