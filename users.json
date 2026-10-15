@@ -1,0 +1,78 @@
+[
+  {
+    "ID": "ADMIN-001",
+    "name": "RepairOps Administrator",
+    "email": "admin@repairops.com",
+    "password": "pbkdf2_sha256$310000$T0uC_WDiHgnYPVUvC7QFBA==$jevc_BfrAj2E2BNpRgGQkm5oX7s7t34B3ZTWHrh5ii4=",
+    "role": "Manager"
+  },
+  {
+    "ID": "C-CLIENT001",
+    "name": "Ali Mohamed",
+    "email": "ali@repairops.com",
+    "password": "pbkdf2_sha256$310000$l5aVhkt_aZFXEYPTdn9AMg==$dHLz4gZKUORyVMMWFKbJ_VG0yOOZMfrVZIlyXkdFy7I=",
+    "role": "Client",
+    "tickets": [
+      "L-100001",
+      "L-100002",
+      "L-100003"
+    ]
+  },
+  {
+    "ID": "C-CLIENT002",
+    "name": "Fatma Ibrahim",
+    "email": "fatma@repairops.com",
+    "password": "pbkdf2_sha256$310000$ssgh2EGBUYmodfLf-0ywZQ==$k-fdTeYx6ZJ4KRTfFPvQEKJoVK6pDYfWDc-JiUBgYkU=",
+    "role": "Client",
+    "tickets": [
+      "L-100004",
+      "L-100005"
+    ]
+  },
+  {
+    "ID": "T-TECH001",
+    "name": "Ahmed Hassan",
+    "email": "ahmed@repairops.com",
+    "password": "pbkdf2_sha256$310000$pHe72KtHzNMzv325JaK4fQ==$XAzmDxyExV0JYhXTLqH4w-BSvKEayIydzkNqyI3xXcw=",
+    "role": "Technician",
+    "specialization": "Laptop",
+    "is_available": true,
+    "workload": 0,
+    "assigned_tickets": []
+  },
+  {
+    "ID": "T-TECH002",
+    "name": "Omar Samir",
+    "email": "omar@repairops.com",
+    "password": "pbkdf2_sha256$310000$zfnoovPvKwhSScfw6iZckw==$8fWSXVXlCa4RuHt4tEKnxAlCcojySvmJvI7fp0auFXY=",
+    "role": "Technician",
+    "specialization": "Printer",
+    "is_available": true,
+    "workload": 0,
+    "assigned_tickets": []
+  },
+  {
+    "ID": "T-TECH003",
+    "name": "Salma Mostafa",
+    "email": "salma@repairops.com",
+    "password": "pbkdf2_sha256$310000$0YgqNWrgpadSlO9KgWDvAA==$hGRg3-JHJRf-COZZHCH6anNUof62NRVcPS1X-vQ0qh0=",
+    "role": "Technician",
+    "specialization": "Phone",
+    "is_available": true,
+    "workload": 1,
+    "assigned_tickets": [
+      "L-100008"
+    ]
+  },
+  {
+    "ID": "CLIENT-D0138B18BF",
+    "name": "ali",
+    "email": "ali2007@gmail.com",
+    "password": "pbkdf2_sha256$310000$T_aXgc8_d-_lOcOey1nucA==$wjLkvzPslLE7FZbAtzJodVPqIwpd3JHWE30RzYXuf7I=",
+    "role": "Client",
+    "tickets": [
+      "L-ED6A9EA520",
+      "L-F53EDA72D3"
+    ]
+  }
+]

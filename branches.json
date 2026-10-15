@@ -1,0 +1,47 @@
+[
+  {
+    "name": "RepairOps Cairo HQ",
+    "city": "Cairo",
+    "address": "12 Tahrir Square, Downtown Cairo",
+    "project": "Main service center, walk-in repairs",
+    "status": "Active",
+    "latitude": 30.0444,
+    "longitude": 31.2357
+  },
+  {
+    "name": "RepairOps Alexandria",
+    "city": "Alexandria",
+    "address": "45 Corniche Road, Sidi Gaber",
+    "project": "Coastal branch, laptop & phone repairs",
+    "status": "Active",
+    "latitude": 31.2001,
+    "longitude": 29.9187
+  },
+  {
+    "name": "RepairOps Giza",
+    "city": "Giza",
+    "address": "8 Pyramids Street, Giza",
+    "project": "Printer specialization hub",
+    "status": "Active",
+    "latitude": 30.0131,
+    "longitude": 31.2089
+  },
+  {
+    "name": "RepairOps Mansoura",
+    "city": "Mansoura",
+    "address": "22 El Gomhoria Street, Mansoura",
+    "project": "Delta region service point",
+    "status": "Active",
+    "latitude": 31.0409,
+    "longitude": 31.3785
+  },
+  {
+    "name": "RepairOps Asyut",
+    "city": "Asyut",
+    "address": "5 El Thawra Street, Asyut",
+    "project": "Upper Egypt service branch",
+    "status": "Under maintenance",
+    "latitude": 27.1809,
+    "longitude": 31.1837
+  }
+]
