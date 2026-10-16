@@ -3,19 +3,21 @@
     "ID": "ADMIN-001",
     "name": "RepairOps Administrator",
     "email": "admin@repairops.com",
-    "password": "pbkdf2_sha256$310000$T0uC_WDiHgnYPVUvC7QFBA==$jevc_BfrAj2E2BNpRgGQkm5oX7s7t34B3ZTWHrh5ii4=",
+    "password": "pbkdf2_sha256$310000$21FejiZbdWmKkTv3LlbmPg==$MPZ0Z0ZaAxb2ohwgh3GUH5fEos_5Bs8CwOFhLnDZsXI=",
     "role": "Manager"
   },
   {
     "ID": "C-CLIENT001",
     "name": "Ali Mohamed",
-    "email": "ali@repairops.com",
-    "password": "pbkdf2_sha256$310000$l5aVhkt_aZFXEYPTdn9AMg==$dHLz4gZKUORyVMMWFKbJ_VG0yOOZMfrVZIlyXkdFy7I=",
+    "email": "client1@repairops.com",
+    "password": "pbkdf2_sha256$310000$lGeK9aShqRu-gzn9Heh4Zg==$f_MQqVOLt9ymzcvrrbPoESfpTYljtElxnAUn1ll4upQ=",
     "role": "Client",
     "tickets": [
       "L-100001",
       "L-100002",
-      "L-100003"
+      "L-100003",
+      "L-ACDFCEBB6F",
+      "L-76F701458E"
     ]
   },
   {
@@ -32,36 +34,44 @@
   {
     "ID": "T-TECH001",
     "name": "Ahmed Hassan",
-    "email": "ahmed@repairops.com",
-    "password": "pbkdf2_sha256$310000$pHe72KtHzNMzv325JaK4fQ==$XAzmDxyExV0JYhXTLqH4w-BSvKEayIydzkNqyI3xXcw=",
+    "email": "tech1@repairops.com",
+    "password": "pbkdf2_sha256$310000$zENw_7yqZxppqwdWOsa8vQ==$GFwC_7fij3D5bYGy8Gn3zNWe9jGmU-gB535zcG94-tY=",
     "role": "Technician",
     "specialization": "Laptop",
-    "is_available": true,
-    "workload": 0,
-    "assigned_tickets": []
+    "is_available": false,
+    "workload": 3,
+    "assigned_tickets": [
+      "L-100001",
+      "L-ED6A9EA520",
+      "L-F53EDA72D3"
+    ]
   },
   {
     "ID": "T-TECH002",
     "name": "Omar Samir",
-    "email": "omar@repairops.com",
-    "password": "pbkdf2_sha256$310000$zfnoovPvKwhSScfw6iZckw==$8fWSXVXlCa4RuHt4tEKnxAlCcojySvmJvI7fp0auFXY=",
+    "email": "tech2@repairops.com",
+    "password": "pbkdf2_sha256$310000$JELSYj9Ptg5oq9yDEa8tiw==$14R1j4OuLgvjm1gK1BZtetnrHbcs6vyHJlAjBcuKDOw=",
     "role": "Technician",
     "specialization": "Printer",
     "is_available": true,
-    "workload": 0,
-    "assigned_tickets": []
+    "workload": 2,
+    "assigned_tickets": [
+      "L-100004",
+      "L-AUDIT-023"
+    ]
   },
   {
     "ID": "T-TECH003",
     "name": "Salma Mostafa",
-    "email": "salma@repairops.com",
-    "password": "pbkdf2_sha256$310000$0YgqNWrgpadSlO9KgWDvAA==$hGRg3-JHJRf-COZZHCH6anNUof62NRVcPS1X-vQ0qh0=",
+    "email": "tech3@repairops.com",
+    "password": "pbkdf2_sha256$310000$kI0IPlqKCaKqIolEttZuhw==$u3H60DTC3z_xdzl4F_GfEx7TszDKgCYVS-BXyOEwcKs=",
     "role": "Technician",
     "specialization": "Phone",
     "is_available": true,
-    "workload": 1,
+    "workload": 2,
     "assigned_tickets": [
-      "L-100008"
+      "L-100008",
+      "L-AUDIT-024"
     ]
   },
   {
@@ -73,6 +83,35 @@
     "tickets": [
       "L-ED6A9EA520",
       "L-F53EDA72D3"
+    ]
+  },
+  {
+    "ID": "CLIENT-B5B82E5970",
+    "name": "ali",
+    "email": "al2007@gmail.com",
+    "password": "pbkdf2_sha256$310000$OViURvBl11M36wgx1nNe3g==$kFk808M0kZlEYG8T4o10j7ykAQENrzjwze-DdqO-qn4=",
+    "role": "Client",
+    "tickets": []
+  },
+  {
+    "ID": "CLIENT-4921754090",
+    "name": "mohamed",
+    "email": "raafat2007@gmail.com",
+    "password": "pbkdf2_sha256$310000$ycj_c-SSVkp8e5o3n8VsKA==$V3T9GAsLgt-8mMfrK5b987r_rPtnhdvB-8CmrmbzEfg=",
+    "role": "Client",
+    "tickets": []
+  },
+  {
+    "ID": "TECH-57A2CF49",
+    "name": "Mohamed Rafat",
+    "email": "raaft07@gmail.com",
+    "password": "pbkdf2_sha256$310000$hlMXJuhLqAzIkco0aadnwg==$ttIOxQNYvGgeAMeHmdyCQb0Xniv74nrGyxoSeXJIJsk=",
+    "role": "Technician",
+    "specialization": "Laptop",
+    "is_available": true,
+    "workload": 1,
+    "assigned_tickets": [
+      "L-100002"
     ]
   }
 ]

@@ -116,6 +116,48 @@ class TicketHashTable:
         return list(self.tickets_by_phone.get(str(phone_number).strip(), ()))
 
 
+class UndoStack:
+    """Session-local LIFO history of reversible admin actions, bounded to 20."""
+
+    def __init__(self, max_size=20):
+        """Create an empty history with a positive maximum size."""
+        if not isinstance(max_size, int) or isinstance(max_size, bool) or max_size < 1:
+            raise ValueError("Undo stack maximum size must be a positive integer.")
+        self.history = []
+        self.max_size = max_size
+
+    def push(self, action_type, description, snapshot):
+        """Record an admin action and its ticket and technician snapshot."""
+        if not isinstance(snapshot, dict):
+            raise TypeError("Undo snapshots must be dictionaries.")
+        self.history.append(
+            {
+                "action_type": str(action_type),
+                "description": str(description),
+                "snapshot": snapshot,
+                "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            }
+        )
+        if len(self.history) > self.max_size:
+            self.history.pop(0)
+
+    def pop(self):
+        """Remove and return the newest action, or None when the stack is empty."""
+        return self.history.pop() if self.history else None
+
+    def peek(self):
+        """Return the newest action without removing it, or None if empty."""
+        return self.history[-1] if self.history else None
+
+    def get_history(self):
+        """Return a newest-first copy of the action history."""
+        return list(reversed(self.history))
+
+    def is_empty(self):
+        """Return whether this undo stack has no recorded actions."""
+        return not self.history
+
+
 def _read_records(path):
     """Read and validate a JSON list of mapping records from disk."""
     try:
@@ -163,11 +205,11 @@ def _seed_user_records():
     """Create hashed demo accounts used only when the user store needs recovery."""
     demo_passwords = {
         "admin@repairops.com": "admin123",
-        "ali@repairops.com": "Client@12345",
+        "client1@repairops.com": "client123",
         "fatma@repairops.com": "Client@12345",
-        "ahmed@repairops.com": "Tech@1234567",
-        "omar@repairops.com": "Tech@1234567",
-        "salma@repairops.com": "Tech@1234567",
+        "tech1@repairops.com": "tech123",
+        "tech2@repairops.com": "tech123",
+        "tech3@repairops.com": "tech123",
     }
     accounts = [
         {
@@ -179,7 +221,7 @@ def _seed_user_records():
         {
             "ID": "C-CLIENT001",
             "name": "Ali Mohamed",
-            "email": "ali@repairops.com",
+            "email": "client1@repairops.com",
             "role": "Client",
             "tickets": [
                 "L-DEMO-001",
@@ -204,21 +246,21 @@ def _seed_user_records():
         {
             "ID": "T-TECH001",
             "name": "Ahmed Hassan",
-            "email": "ahmed@repairops.com",
+            "email": "tech1@repairops.com",
             "role": "Technician",
             "specialization": "Laptop",
         },
         {
             "ID": "T-TECH002",
             "name": "Omar Samir",
-            "email": "omar@repairops.com",
+            "email": "tech2@repairops.com",
             "role": "Technician",
             "specialization": "Printer",
         },
         {
             "ID": "T-TECH003",
             "name": "Salma Mostafa",
-            "email": "salma@repairops.com",
+            "email": "tech3@repairops.com",
             "role": "Technician",
             "specialization": "Phone",
         },
@@ -245,6 +287,25 @@ def _seed_ticket_records():
         ("008", "Printer", "Connectivity", "C-CLIENT002", "01000000002", "Low", "Completed", "T-TECH002", "2026-10-06 13:00:00", 120.0, "2026-10-07 09:15:00"),
         ("009", "Phone", "Battery", "C-CLIENT002", "01000000002", "High", "Completed", "T-TECH003", "2026-10-04 09:30:00", 550.0, "2026-10-05 12:45:00"),
     ]
+    additional_tickets = [
+        ("010", "Laptop", "Battery", "C-CLIENT001", "01000000001", "High", "Pending", None, "2026-10-03 09:00:00", None, None),
+        ("011", "Printer", "Connectivity", "C-CLIENT002", "01000000002", "Normal", "Pending", None, "2026-10-02 10:00:00", None, None),
+        ("012", "Phone", "Screen", "C-CLIENT001", "01000000001", "High", "Pending", None, "2026-10-01 11:00:00", None, None),
+        ("013", "Laptop", "Keyboard", "C-CLIENT002", "01000000002", "Low", "Pending", None, "2026-09-28 12:00:00", None, None),
+        ("014", "Printer", "Paper Jam", "C-CLIENT001", "01000000001", "Normal", "Pending", None, "2026-09-25 13:00:00", None, None),
+        ("015", "Laptop", "Software", "C-CLIENT001", "01000000001", "Normal", "In Progress", "T-TECH001", "2026-09-20 09:00:00", None, None),
+        ("016", "Printer", "Print Quality", "C-CLIENT002", "01000000002", "High", "In Progress", "T-TECH002", "2026-09-18 10:00:00", None, None),
+        ("017", "Phone", "Charging Port", "C-CLIENT001", "01000000001", "Normal", "In Progress", "T-TECH003", "2026-09-15 11:00:00", None, None),
+        ("018", "Laptop", "Overheating", "C-CLIENT002", "01000000002", "High", "Completed", "T-TECH001", "2026-08-25 09:00:00", 325.0, "2026-08-26 11:00:00"),
+        ("019", "Printer", "Ink System", "C-CLIENT001", "01000000001", "Normal", "Completed", "T-TECH002", "2026-08-12 10:00:00", 185.0, "2026-08-12 14:00:00"),
+        ("020", "Phone", "Battery", "C-CLIENT002", "01000000002", "High", "Completed", "T-TECH003", "2026-07-22 11:00:00", 610.0, "2026-07-23 13:00:00"),
+        ("021", "Laptop", "Screen", "C-CLIENT001", "01000000001", "Normal", "Completed", "T-TECH001", "2026-07-10 09:00:00", 480.0, "2026-07-11 12:00:00"),
+        ("022", "Printer", "Connectivity", "C-CLIENT002", "01000000002", "Low", "Completed", "T-TECH002", "2026-06-18 10:00:00", 120.0, "2026-06-18 15:00:00"),
+        ("023", "Phone", "Software", "C-CLIENT001", "01000000001", "Normal", "Completed", "T-TECH003", "2026-05-14 11:00:00", 210.0, "2026-05-15 10:00:00"),
+        ("024", "Laptop", "Keyboard", "C-CLIENT002", "01000000002", "High", "Completed", "T-TECH001", "2026-04-10 09:00:00", 295.0, "2026-04-11 12:00:00"),
+        ("025", "Printer", "Paper Jam", "C-CLIENT001", "01000000001", "Normal", "Completed", "T-TECH002", "2026-03-08 10:00:00", 95.0, "2026-03-08 12:30:00"),
+    ]
+    demo_tickets.extend(additional_tickets)
     records = []
     for ticket in demo_tickets:
         suffix, device, issue, client_id, phone, priority, status, technician_id, created, cost, resolved = ticket
@@ -329,6 +390,7 @@ def _ticket_from_record(record):
         "parts_used_num",
         "rating",
         "feedback",
+        "technician_notes",
     ):
         if field in record:
             setattr(ticket, field, record[field])
@@ -561,7 +623,7 @@ def _clean_category(series, valid_names, report, key):
         for value in cleaned.dropna().value_counts().index:
             lookup.setdefault(str(value).lower(), str(value))
     mapped = cleaned.str.lower().map(lookup)
-    cleaned = mapped.where(mapped.notna(), cleaned)
+    cleaned = mapped.where(mapped.notna(), "Unknown")
     cleaned = cleaned.astype(object)
     report[key] = int((cleaned.fillna("") != original.fillna("")).sum())
     return cleaned.fillna("Unknown").replace("", "Unknown")
@@ -1038,5 +1100,63 @@ def change_password(user_id, current_password, new_password):
     return {
         "success": True,
         "message": "Password updated successfully.",
+        "errors": [],
+    }
+
+
+def admin_reset_password(
+    manager_email,
+    manager_password,
+    target_identifier,
+    new_password,
+):
+    """Reset an account password after authenticating an authorized manager."""
+    from validation import validate_password
+
+    users_database = load_users()
+    manager_email = str(manager_email or "").strip().casefold()
+    manager = next(
+        (
+            user
+            for user in users_database
+            if isinstance(user, Manager)
+            and user.email.strip().casefold() == manager_email
+        ),
+        None,
+    )
+    if manager is None or not verify_password(manager_password, manager.password):
+        message = "Manager authentication failed."
+        return {"success": False, "message": message, "errors": [message]}
+
+    identifier = str(target_identifier or "").strip().casefold()
+    target = next(
+        (
+            user
+            for user in users_database
+            if user.ID.casefold() == identifier
+            or user.email.strip().casefold() == identifier
+        ),
+        None,
+    )
+    if target is None:
+        message = "The account ID or email was not found."
+        return {"success": False, "message": message, "errors": [message]}
+
+    errors = validate_password(new_password)
+    if errors:
+        return {
+            "success": False,
+            "message": "Please choose a stronger password.",
+            "errors": errors,
+        }
+    if verify_password(new_password, target.password):
+        message = "The new password must differ from the current password."
+        return {"success": False, "message": message, "errors": [message]}
+
+    target.password = hash_password(new_password)
+    save_users(users_database)
+    return {
+        "success": True,
+        "message": f"Password reset successfully for {target.email}.",
         "errors": [],
     }

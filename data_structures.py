@@ -1,5 +1,5 @@
 import heapq
-import datetime
+
 from models import Ticket
 
 COMPANY_HOTLINE = "0120000-REPAIR (Free Hotline Support)"
@@ -54,28 +54,6 @@ class TicketHashTable:
             if phone.endswith(last_digits):
                 results.extend(tickets)
         return results
-
-
-class UndoStack:
-    def __init__(self):
-        self.history_stack = []
-
-    def push_action(self, ticket_id, previous_status, current_status):
-        action_record = {
-            "ticket_id": ticket_id,
-            "previous_status": previous_status,
-            "current_status": current_status,
-            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        }
-        self.history_stack.append(action_record)
-
-    def undo(self):
-        if self.history_stack:
-            return self.history_stack.pop()
-        return None
-
-    def get_history_log(self):
-        return list(reversed(self.history_stack))
 
 
 class RestockQueue:

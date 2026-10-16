@@ -7,14 +7,15 @@
     "phone_number": "01000000001",
     "description": "Laptop screen flickers intermittently.",
     "priority": "High",
-    "status": "Pending",
-    "technician_id": null,
+    "status": "In Progress",
+    "technician_id": "T-TECH001",
     "creation_time": "2026-10-12 09:15:00",
     "resolve_time": null,
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100002",
@@ -24,14 +25,15 @@
     "phone_number": "01000000001",
     "description": "Battery drains within one hour of use.",
     "priority": "Normal",
-    "status": "Pending",
-    "technician_id": null,
+    "status": "In Progress",
+    "technician_id": "TECH-57A2CF49",
     "creation_time": "2026-10-12 11:40:00",
     "resolve_time": null,
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100003",
@@ -48,7 +50,8 @@
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100004",
@@ -58,14 +61,15 @@
     "phone_number": "01000000002",
     "description": "Paper keeps jamming inside the printer.",
     "priority": "High",
-    "status": "Pending",
-    "technician_id": null,
+    "status": "In Progress",
+    "technician_id": "T-TECH002",
     "creation_time": "2026-10-13 10:00:00",
     "resolve_time": null,
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100005",
@@ -82,7 +86,8 @@
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100006",
@@ -98,8 +103,9 @@
     "resolve_time": "2026-10-15 15:34:10",
     "repair_cost": 0.0,
     "parts_used_num": 0,
-    "rating": null,
-    "feedback": null
+    "rating": 5,
+    "feedback": "Repair completed and service verified.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100007",
@@ -115,8 +121,9 @@
     "resolve_time": "2026-10-15 15:34:26",
     "repair_cost": 40.0,
     "parts_used_num": 1,
-    "rating": null,
-    "feedback": null
+    "rating": 5,
+    "feedback": "Repair completed and service verified.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100008",
@@ -133,7 +140,8 @@
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100009",
@@ -150,7 +158,8 @@
     "repair_cost": 450.0,
     "parts_used_num": 1,
     "rating": 4,
-    "feedback": "Fast and clean repair."
+    "feedback": "Fast and clean repair.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100010",
@@ -167,7 +176,8 @@
     "repair_cost": 1450.0,
     "parts_used_num": 1,
     "rating": 5,
-    "feedback": "Screen looks brand new."
+    "feedback": "Screen looks brand new.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100011",
@@ -184,7 +194,8 @@
     "repair_cost": 120.0,
     "parts_used_num": 0,
     "rating": 5,
-    "feedback": "Resolved quickly."
+    "feedback": "Resolved quickly.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100012",
@@ -201,7 +212,8 @@
     "repair_cost": 980.0,
     "parts_used_num": 2,
     "rating": 4,
-    "feedback": "Quality restored."
+    "feedback": "Quality restored.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100013",
@@ -218,7 +230,8 @@
     "repair_cost": 550.0,
     "parts_used_num": 1,
     "rating": 5,
-    "feedback": "Battery life is back to normal."
+    "feedback": "Battery life is back to normal.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100014",
@@ -235,7 +248,8 @@
     "repair_cost": 95.0,
     "parts_used_num": 0,
     "rating": 4,
-    "feedback": "All apps work now."
+    "feedback": "All apps work now.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-100015",
@@ -252,7 +266,8 @@
     "repair_cost": 800.0,
     "parts_used_num": 1,
     "rating": 5,
-    "feedback": "Excellent service."
+    "feedback": "Excellent service.",
+    "technician_notes": null
   },
   {
     "ticket_id": "L-ED6A9EA520",
@@ -262,14 +277,15 @@
     "phone_number": "01234567899",
     "description": "asdfghjkuytrewsdfghjklkjhgfdsazxcvbnmjhgtfredsdfghjkoiuytrfdsdfghjkl",
     "priority": "High",
-    "status": "Pending",
-    "technician_id": null,
+    "status": "In Progress",
+    "technician_id": "T-TECH001",
     "creation_time": "2026-10-15 15:37:35",
     "resolve_time": null,
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
   },
   {
     "ticket_id": "L-F53EDA72D3",
@@ -279,13 +295,230 @@
     "phone_number": "01234567899",
     "description": "asdfghjkuytrewsdfghjklkjhgfdsazxcvbnmjhgtfredsdfghjkoiuytrfdsdfghjkl",
     "priority": "High",
-    "status": "Pending",
-    "technician_id": null,
+    "status": "In Progress",
+    "technician_id": "T-TECH001",
     "creation_time": "2026-10-15 15:37:39",
     "resolve_time": null,
     "repair_cost": null,
     "parts_used_num": 0,
     "rating": null,
-    "feedback": null
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-ACDFCEBB6F",
+    "device_type": "Phone",
+    "issue_type": "Screen",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01234567899",
+    "description": "asdfghjkl;lkjhgfdsasdfghjkl;lkjhgfdsasdfghjklkjhgfdsasdfghjkllkjhgfdsaASDFGHJKL;LKJHGFD",
+    "priority": "High",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-16 16:27:43",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-019",
+    "device_type": "Laptop",
+    "issue_type": "Battery",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01000000001",
+    "description": "Battery health is below expected capacity.",
+    "priority": "High",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-15 09:00:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-020",
+    "device_type": "Printer",
+    "issue_type": "Paper Jam",
+    "client_id": "C-CLIENT002",
+    "phone_number": "01000000002",
+    "description": "Paper feed rollers are slipping.",
+    "priority": "Normal",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-15 10:20:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-021",
+    "device_type": "Phone",
+    "issue_type": "Screen",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01000000001",
+    "description": "Touch response is intermittent.",
+    "priority": "High",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-15 11:45:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-022",
+    "device_type": "Laptop",
+    "issue_type": "Overheating",
+    "client_id": "C-CLIENT002",
+    "phone_number": "01000000002",
+    "description": "Device overheats during video calls.",
+    "priority": "Low",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-15 13:10:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-023",
+    "device_type": "Printer",
+    "issue_type": "Connectivity",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01000000001",
+    "description": "Printer disconnects from office Wi-Fi.",
+    "priority": "High",
+    "status": "In Progress",
+    "technician_id": "T-TECH002",
+    "creation_time": "2026-10-14 08:30:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-024",
+    "device_type": "Phone",
+    "issue_type": "Charging Port",
+    "client_id": "C-CLIENT002",
+    "phone_number": "01000000002",
+    "description": "Charging cable connects intermittently.",
+    "priority": "Normal",
+    "status": "In Progress",
+    "technician_id": "T-TECH003",
+    "creation_time": "2026-10-14 10:00:00",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
+  },
+  {
+    "ticket_id": "L-AUDIT-025",
+    "device_type": "Laptop",
+    "issue_type": "Keyboard",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01000000001",
+    "description": "Several keys do not register consistently.",
+    "priority": "High",
+    "status": "Completed",
+    "technician_id": "T-TECH001",
+    "creation_time": "2026-09-20 09:00:00",
+    "resolve_time": "2026-09-21 12:00:00",
+    "repair_cost": 325.0,
+    "parts_used_num": 1,
+    "rating": 5,
+    "feedback": "Keyboard assembly replaced; input test passed.",
+    "technician_notes": "Keyboard assembly replaced; input test passed."
+  },
+  {
+    "ticket_id": "L-AUDIT-026",
+    "device_type": "Printer",
+    "issue_type": "Print Quality",
+    "client_id": "C-CLIENT002",
+    "phone_number": "01000000002",
+    "description": "Printed pages have faint horizontal lines.",
+    "priority": "Normal",
+    "status": "Completed",
+    "technician_id": "T-TECH002",
+    "creation_time": "2026-09-18 11:00:00",
+    "resolve_time": "2026-09-19 15:00:00",
+    "repair_cost": 275.5,
+    "parts_used_num": 2,
+    "rating": 4,
+    "feedback": "Print head cleaned and alignment verified.",
+    "technician_notes": "Print head cleaned and alignment verified."
+  },
+  {
+    "ticket_id": "L-AUDIT-027",
+    "device_type": "Phone",
+    "issue_type": "Battery",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01000000001",
+    "description": "Battery drains rapidly after charging.",
+    "priority": "High",
+    "status": "Completed",
+    "technician_id": "T-TECH003",
+    "creation_time": "2026-09-12 10:00:00",
+    "resolve_time": "2026-09-13 13:30:00",
+    "repair_cost": 610.0,
+    "parts_used_num": 1,
+    "rating": 5,
+    "feedback": "Battery replaced and charge cycle tested.",
+    "technician_notes": "Battery replaced and charge cycle tested."
+  },
+  {
+    "ticket_id": "L-AUDIT-028",
+    "device_type": "Laptop",
+    "issue_type": "Software",
+    "client_id": "C-CLIENT002",
+    "phone_number": "01000000002",
+    "description": "Operating system fails during startup.",
+    "priority": "Low",
+    "status": "Completed",
+    "technician_id": "T-TECH001",
+    "creation_time": "2026-09-08 08:15:00",
+    "resolve_time": "2026-09-08 12:45:00",
+    "repair_cost": 190.0,
+    "parts_used_num": 0,
+    "rating": 5,
+    "feedback": "Startup configuration repaired and verified.",
+    "technician_notes": "Startup configuration repaired and verified."
+  },
+  {
+    "ticket_id": "L-76F701458E",
+    "device_type": "Phone",
+    "issue_type": "Screen",
+    "client_id": "C-CLIENT001",
+    "phone_number": "01012345678",
+    "description": "my phone doesnot charge",
+    "priority": "Normal",
+    "status": "Pending",
+    "technician_id": null,
+    "creation_time": "2026-10-16 17:13:30",
+    "resolve_time": null,
+    "repair_cost": null,
+    "parts_used_num": 0,
+    "rating": null,
+    "feedback": null,
+    "technician_notes": null
   }
 ]

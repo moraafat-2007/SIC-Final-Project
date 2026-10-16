@@ -52,6 +52,7 @@ class Ticket:
         self.parts_used_num = 0
         self.rating = None
         self.feedback = None
+        self.technician_notes = None
 
     def to_dict(self):
         """Serialize the ticket into a JSON-compatible mapping."""
@@ -71,6 +72,7 @@ class Ticket:
             "parts_used_num": self.parts_used_num,
             "rating": self.rating,
             "feedback": self.feedback,
+            "technician_notes": self.technician_notes,
         }
 
     def assign_technician(self, technician_id):

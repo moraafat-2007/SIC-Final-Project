@@ -18,12 +18,20 @@ ALLOWED_PRIORITIES = ("High", "Normal", "Low")
 
 def is_valid_phone(phone_number):
     """Return whether a value is an Egyptian mobile number in the supported format."""
-    return PHONE_PATTERN.fullmatch(str(phone_number or "").strip()) is not None
+    if phone_number is None:
+        return False
+    normalized = str(phone_number).strip()
+    if normalized.casefold() in {"", "<na>", "nan", "nat", "none"}:
+        return False
+    return PHONE_PATTERN.fullmatch(normalized) is not None
 
 
 def is_not_empty(value):
     """Return whether a value is non-null and contains non-whitespace text."""
-    return value is not None and bool(str(value or "").strip())
+    if value is None:
+        return False
+    normalized = str(value).strip()
+    return normalized.casefold() not in {"", "<na>", "nan", "nat", "none"}
 
 
 def is_valid_priority(priority):
@@ -48,10 +56,10 @@ def is_valid_device_issue(device_type, issue_type):
 
 
 def validate_password(password):
-    """Return errors for a 12-128-character password with mixed character classes."""
+    """Return errors for a 6-128-character password with mixed character classes."""
     errors = []
-    if not isinstance(password, str) or len(password) < 12:
-        errors.append("Password must be at least 12 characters long.")
+    if not isinstance(password, str) or len(password) < 6:
+        errors.append("Password must be at least 6 characters long.")
         return errors
     if len(password) > 128:
         errors.append("Password must not exceed 128 characters.")
@@ -61,8 +69,6 @@ def validate_password(password):
         errors.append("Password must contain an uppercase letter.")
     if not re.search(r"[0-9]", password):
         errors.append("Password must contain a number.")
-    if not re.search(r"[^A-Za-z0-9]", password):
-        errors.append("Password must contain a special character.")
     return errors
 
 
